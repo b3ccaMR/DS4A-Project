@@ -72,8 +72,10 @@ def fillNull():
             
     finalMissing = df2[df2['Value'] == 0]
     finalMissing = finalMissing.County.unique().to_list()
-    # ['Tangipahoa Parish', 'Ascension Parish', 'West Baton Rouge Parish','East Feliciana Parish'] 
-    # are missing from fedData, West Baton Rouge should not be missing???
+    """
+    ['Tangipahoa Parish', 'Ascension Parish', 'West Baton Rouge Parish','East Feliciana Parish'] 
+    are missing from fedData, West Baton Rouge should not be missing???
+    """
     
     return df2
 
@@ -82,8 +84,11 @@ def main():
     fed = fedData()
     zillow = zillowData()
     missing_parish_df = findMissing(zillow)
-    #fillNull values need to fix the zeros issue from missing data and from errors.
-    #For some reason West Baton Rouge is not being filled in even though it is in fedData
-    #we need to keep west baton rouge this is an important dataframe.... 
     
-    #need to replace fillNull into the zillow data to replace the null values
+    """
+    fillNull values need to fix the zeros issue from missing data and from errors.
+    For some reason West Baton Rouge is not being filled in even though it is in fedData
+    we need to keep west baton rouge this is an important dataframe.... 
+    
+    need to replace fillNull into the zillow data to replace the null values
+    """
