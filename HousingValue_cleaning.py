@@ -8,6 +8,8 @@ Created on Thu Dec 29 19:19:36 2022
 import pandas as pd
 
 def fedData():
+    """Federal HVI Data 100 = $100,000
+    Cleaning data more and turning it from index values into $"""
     df = pd.read_excel('Stlouisfedcleaned.xlsx')
     #cleaning
     df.drop(columns= ['Unnamed: 0'] , inplace=True)
@@ -44,6 +46,7 @@ def zillowData():
     return df
 
 def findMissing(df):
+    """creates a dataframe of all null values"""
     #all the parish
     mask = df['Value'].isnull()
     missing = df[mask]
@@ -52,6 +55,7 @@ def findMissing(df):
 
 
 def fillNull():
+    """Fills the null values with the $ value from the fed data"""
     df1 = fedData()
     df2 = findMissing(zillowData())
     
@@ -75,6 +79,7 @@ def fillNull():
     """
     ['Tangipahoa Parish', 'Ascension Parish', 'West Baton Rouge Parish','East Feliciana Parish'] 
     are missing from fedData, West Baton Rouge should not be missing???
+    We can't delete West Baton Rouge because this is an important column'
     """
     
     return df2
@@ -86,9 +91,12 @@ def main():
     missing_parish_df = findMissing(zillow)
     
     """
-    fillNull values need to fix the zeros issue from missing data and from errors.
-    For some reason West Baton Rouge is not being filled in even though it is in fedData
-    we need to keep west baton rouge this is an important dataframe.... 
+    What to do:
+    fillNull- need to fix the zeros issue from missing data (delete Tangipahoa and Ascension Parish
+    and fix the errors.
+    Errors- For some reason West Baton Rouge is not being filled in even though it is in fedData
+    we need to keep west baton rouge this is an important column.... 
     
-    need to replace fillNull into the zillow data to replace the null values
+    Zillow- need to replace fillNull into the null values in the zillow data
     """
+#main()
