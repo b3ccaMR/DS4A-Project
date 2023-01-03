@@ -55,7 +55,7 @@ def findMissing(df):
 
 
 def fillNull():
-    """Fills the null values with the $ value from the fed data"""
+    """Fills the null values with the $ value from the fed data, keeping the index"""
     df1 = fedData()
     df2 = findMissing(zillowData())
     
@@ -73,30 +73,19 @@ def fillNull():
         else:
             # Update the Value column in df2 with the corresponding value in df1
             df2.at[index, "Value"] = df1_row["Value"].values[0]
-            
-    finalMissing = df2[df2['Value'] == 0]
-    finalMissing = finalMissing.County.unique().to_list()
-    """
-    ['Tangipahoa Parish', 'Ascension Parish', 'West Baton Rouge Parish','East Feliciana Parish'] 
-    are missing from fedData, West Baton Rouge should not be missing???
-    We can't delete West Baton Rouge because this is an important column'
-    """
-    
+           
     return df2
 
 
 def main():
-    fed = fedData()
-    zillow = zillowData()
-    missing_parish_df = findMissing(zillow)
+    oldZillow = zillowData()
+    missingZillow = fillNull()
+    zillow = oldZillow.copy()
+    zillow.update(missingZillow['Value'])
     
-    """
-    What to do:
-    fillNull- need to fix the zeros issue from missing data (delete Tangipahoa and Ascension Parish
-    and fix the errors.
-    Errors- For some reason West Baton Rouge is not being filled in even though it is in fedData
-    we need to keep west baton rouge this is an important column.... 
+    remove = ['Tangipahoa Parish', 'Ascension Parish','East Feliciana Parish'] 
+    #keep the parishes that are not these
+    zillow = zillow[~zillow.County.isin(remove)]
     
-    Zillow- need to replace fillNull into the null values in the zillow data
-    """
-#main()
+    return zillow
+print(main())
