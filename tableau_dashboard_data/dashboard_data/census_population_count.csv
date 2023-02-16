@@ -1,0 +1,421 @@
+,county,year,TOT_POP
+42,Ascension Parish,2000,154670
+43,Ascension Parish,2001,158420
+44,Ascension Parish,2002,162758
+45,Ascension Parish,2003,167934
+46,Ascension Parish,2004,172704
+47,Ascension Parish,2005,179482
+48,Ascension Parish,2006,192842
+49,Ascension Parish,2007,200264
+50,Ascension Parish,2008,205782
+51,Ascension Parish,2009,210344
+52,Ascension Parish,2010,215788
+53,Ascension Parish,2011,220168
+54,Ascension Parish,2012,224476
+55,Ascension Parish,2013,229330
+56,Ascension Parish,2014,234636
+57,Ascension Parish,2015,238834
+58,Ascension Parish,2016,243292
+59,Ascension Parish,2017,246474
+60,Ascension Parish,2018,249922
+61,Ascension Parish,2019,253596
+62,Ascension Parish,2020,257330
+168,Caddo Parish,2000,501980
+169,Caddo Parish,2001,499630
+170,Caddo Parish,2002,497506
+171,Caddo Parish,2003,496692
+172,Caddo Parish,2004,498314
+173,Caddo Parish,2005,499186
+174,Caddo Parish,2006,505480
+175,Caddo Parish,2007,503520
+176,Caddo Parish,2008,503906
+177,Caddo Parish,2009,506490
+178,Caddo Parish,2010,511304
+179,Caddo Parish,2011,514116
+180,Caddo Parish,2012,514734
+181,Caddo Parish,2013,510496
+182,Caddo Parish,2014,505480
+183,Caddo Parish,2015,502998
+184,Caddo Parish,2016,498048
+185,Caddo Parish,2017,492354
+186,Caddo Parish,2018,486210
+187,Caddo Parish,2019,480862
+188,Caddo Parish,2020,474958
+336,East Baton Rouge Parish,2000,825916
+337,East Baton Rouge Parish,2001,823332
+338,East Baton Rouge Parish,2002,822048
+339,East Baton Rouge Parish,2003,825106
+340,East Baton Rouge Parish,2004,828324
+341,East Baton Rouge Parish,2005,827624
+342,East Baton Rouge Parish,2006,866948
+343,East Baton Rouge Parish,2007,866688
+344,East Baton Rouge Parish,2008,867446
+345,East Baton Rouge Parish,2009,875246
+346,East Baton Rouge Parish,2010,881874
+347,East Baton Rouge Parish,2011,883254
+348,East Baton Rouge Parish,2012,886150
+349,East Baton Rouge Parish,2013,888690
+350,East Baton Rouge Parish,2014,890668
+351,East Baton Rouge Parish,2015,891552
+352,East Baton Rouge Parish,2016,894040
+353,East Baton Rouge Parish,2017,889696
+354,East Baton Rouge Parish,2018,885440
+355,East Baton Rouge Parish,2019,882942
+356,East Baton Rouge Parish,2020,879458
+378,East Feliciana Parish,2000,42596
+379,East Feliciana Parish,2001,41956
+380,East Feliciana Parish,2002,41334
+381,East Feliciana Parish,2003,41004
+382,East Feliciana Parish,2004,40532
+383,East Feliciana Parish,2005,40186
+384,East Feliciana Parish,2006,41118
+385,East Feliciana Parish,2007,40864
+386,East Feliciana Parish,2008,40830
+387,East Feliciana Parish,2009,40974
+388,East Feliciana Parish,2010,40300
+389,East Feliciana Parish,2011,40158
+390,East Feliciana Parish,2012,39704
+391,East Feliciana Parish,2013,39192
+392,East Feliciana Parish,2014,39344
+393,East Feliciana Parish,2015,39068
+394,East Feliciana Parish,2016,39000
+395,East Feliciana Parish,2017,38766
+396,East Feliciana Parish,2018,38544
+397,East Feliciana Parish,2019,38206
+398,East Feliciana Parish,2020,37764
+483,Iberville Parish,2000,66642
+484,Iberville Parish,2001,66654
+485,Iberville Parish,2002,66484
+486,Iberville Parish,2003,66084
+487,Iberville Parish,2004,65434
+488,Iberville Parish,2005,65394
+489,Iberville Parish,2006,67038
+490,Iberville Parish,2007,67206
+491,Iberville Parish,2008,67370
+492,Iberville Parish,2009,66786
+493,Iberville Parish,2010,66778
+494,Iberville Parish,2011,66728
+495,Iberville Parish,2012,66664
+496,Iberville Parish,2013,66790
+497,Iberville Parish,2014,66284
+498,Iberville Parish,2015,66298
+499,Iberville Parish,2016,65730
+500,Iberville Parish,2017,65854
+501,Iberville Parish,2018,65438
+502,Iberville Parish,2019,65098
+503,Iberville Parish,2020,64140
+546,Jefferson Parish,2000,909872
+547,Jefferson Parish,2001,906308
+548,Jefferson Parish,2002,906858
+549,Jefferson Parish,2003,909066
+550,Jefferson Parish,2004,913204
+551,Jefferson Parish,2005,913108
+552,Jefferson Parish,2006,852570
+553,Jefferson Parish,2007,865366
+554,Jefferson Parish,2008,863518
+555,Jefferson Parish,2009,863842
+556,Jefferson Parish,2010,865236
+557,Jefferson Parish,2011,868266
+558,Jefferson Parish,2012,868098
+559,Jefferson Parish,2013,868788
+560,Jefferson Parish,2014,868470
+561,Jefferson Parish,2015,870716
+562,Jefferson Parish,2016,873730
+563,Jefferson Parish,2017,873142
+564,Jefferson Parish,2018,869274
+565,Jefferson Parish,2019,868192
+566,Jefferson Parish,2020,864692
+651,Livingston Parish,2000,185296
+652,Livingston Parish,2001,191194
+653,Livingston Parish,2002,198014
+654,Livingston Parish,2003,204292
+655,Livingston Parish,2004,212096
+656,Livingston Parish,2005,218416
+657,Livingston Parish,2006,231444
+658,Livingston Parish,2007,239056
+659,Livingston Parish,2008,247924
+660,Livingston Parish,2009,252460
+661,Livingston Parish,2010,256702
+662,Livingston Parish,2011,259716
+663,Livingston Parish,2012,263042
+664,Livingston Parish,2013,267452
+665,Livingston Parish,2014,270482
+666,Livingston Parish,2015,274404
+667,Livingston Parish,2016,279644
+668,Livingston Parish,2017,275814
+669,Livingston Parish,2018,279188
+670,Livingston Parish,2019,283122
+671,Livingston Parish,2020,287474
+735,Orleans Parish,2000,971220
+736,Orleans Parish,2001,974726
+737,Orleans Parish,2002,979444
+738,Orleans Parish,2003,984374
+739,Orleans Parish,2004,987530
+740,Orleans Parish,2005,988588
+741,Orleans Parish,2006,460344
+742,Orleans Parish,2007,537502
+743,Orleans Parish,2008,603684
+744,Orleans Parish,2009,655606
+745,Orleans Parish,2010,695578
+746,Orleans Parish,2011,721644
+747,Orleans Parish,2012,739894
+748,Orleans Parish,2013,757726
+749,Orleans Parish,2014,768456
+750,Orleans Parish,2015,780188
+751,Orleans Parish,2016,784530
+752,Orleans Parish,2017,783638
+753,Orleans Parish,2018,783012
+754,Orleans Parish,2019,782344
+755,Orleans Parish,2020,778952
+777,Plaquemines Parish,2000,53516
+778,Plaquemines Parish,2001,54058
+779,Plaquemines Parish,2002,54924
+780,Plaquemines Parish,2003,56338
+781,Plaquemines Parish,2004,58780
+782,Plaquemines Parish,2005,59116
+783,Plaquemines Parish,2006,44658
+784,Plaquemines Parish,2007,45418
+785,Plaquemines Parish,2008,45354
+786,Plaquemines Parish,2009,45460
+787,Plaquemines Parish,2010,46240
+788,Plaquemines Parish,2011,47176
+789,Plaquemines Parish,2012,47672
+790,Plaquemines Parish,2013,47040
+791,Plaquemines Parish,2014,46646
+792,Plaquemines Parish,2015,46924
+793,Plaquemines Parish,2016,46720
+794,Plaquemines Parish,2017,46752
+795,Plaquemines Parish,2018,46822
+796,Plaquemines Parish,2019,46528
+797,Plaquemines Parish,2020,46226
+798,Pointe Coupee Parish,2000,45518
+799,Pointe Coupee Parish,2001,45148
+800,Pointe Coupee Parish,2002,44902
+801,Pointe Coupee Parish,2003,44738
+802,Pointe Coupee Parish,2004,44664
+803,Pointe Coupee Parish,2005,44150
+804,Pointe Coupee Parish,2006,45508
+805,Pointe Coupee Parish,2007,45696
+806,Pointe Coupee Parish,2008,45932
+807,Pointe Coupee Parish,2009,45694
+808,Pointe Coupee Parish,2010,45628
+809,Pointe Coupee Parish,2011,45608
+810,Pointe Coupee Parish,2012,45352
+811,Pointe Coupee Parish,2013,44848
+812,Pointe Coupee Parish,2014,44618
+813,Pointe Coupee Parish,2015,44394
+814,Pointe Coupee Parish,2016,44252
+815,Pointe Coupee Parish,2017,44340
+816,Pointe Coupee Parish,2018,43712
+817,Pointe Coupee Parish,2019,43470
+818,Pointe Coupee Parish,2020,43058
+903,St. Bernard Parish,2000,134556
+904,St. Bernard Parish,2001,136056
+905,St. Bernard Parish,2002,137928
+906,St. Bernard Parish,2003,139242
+907,St. Bernard Parish,2004,141094
+908,St. Bernard Parish,2005,142600
+909,St. Bernard Parish,2006,33126
+910,St. Bernard Parish,2007,47226
+911,St. Bernard Parish,2008,57758
+912,St. Bernard Parish,2009,65756
+913,St. Bernard Parish,2010,73642
+914,St. Bernard Parish,2011,79040
+915,St. Bernard Parish,2012,82990
+916,St. Bernard Parish,2013,86892
+917,St. Bernard Parish,2014,88902
+918,St. Bernard Parish,2015,90872
+919,St. Bernard Parish,2016,91578
+920,St. Bernard Parish,2017,92240
+921,St. Bernard Parish,2018,93448
+922,St. Bernard Parish,2019,94384
+923,St. Bernard Parish,2020,95294
+924,St. Charles Parish,2000,96236
+925,St. Charles Parish,2001,96922
+926,St. Charles Parish,2002,98234
+927,St. Charles Parish,2003,98676
+928,St. Charles Parish,2004,99878
+929,St. Charles Parish,2005,101340
+930,St. Charles Parish,2006,104906
+931,St. Charles Parish,2007,105530
+932,St. Charles Parish,2008,105032
+933,St. Charles Parish,2009,105438
+934,St. Charles Parish,2010,105634
+935,St. Charles Parish,2011,104788
+936,St. Charles Parish,2012,104858
+937,St. Charles Parish,2013,105246
+938,St. Charles Parish,2014,105380
+939,St. Charles Parish,2015,105174
+940,St. Charles Parish,2016,105618
+941,St. Charles Parish,2017,105258
+942,St. Charles Parish,2018,105548
+943,St. Charles Parish,2019,106166
+944,St. Charles Parish,2020,105974
+945,St. Helena Parish,2000,21096
+946,St. Helena Parish,2001,21048
+947,St. Helena Parish,2002,21184
+948,St. Helena Parish,2003,21098
+949,St. Helena Parish,2004,21096
+950,St. Helena Parish,2005,21042
+951,St. Helena Parish,2006,22178
+952,St. Helena Parish,2007,22140
+953,St. Helena Parish,2008,22212
+954,St. Helena Parish,2009,22308
+955,St. Helena Parish,2010,22412
+956,St. Helena Parish,2011,21934
+957,St. Helena Parish,2012,21976
+958,St. Helena Parish,2013,21562
+959,St. Helena Parish,2014,21054
+960,St. Helena Parish,2015,20930
+961,St. Helena Parish,2016,20804
+962,St. Helena Parish,2017,20666
+963,St. Helena Parish,2018,20348
+964,St. Helena Parish,2019,20290
+965,St. Helena Parish,2020,20162
+966,St. James Parish,2000,42402
+967,St. James Parish,2001,42582
+968,St. James Parish,2002,42730
+969,St. James Parish,2003,42548
+970,St. James Parish,2004,42458
+971,St. James Parish,2005,42798
+972,St. James Parish,2006,43928
+973,St. James Parish,2007,44328
+974,St. James Parish,2008,44190
+975,St. James Parish,2009,44462
+976,St. James Parish,2010,44102
+977,St. James Parish,2011,43574
+978,St. James Parish,2012,43276
+979,St. James Parish,2013,43218
+980,St. James Parish,2014,43036
+981,St. James Parish,2015,42966
+982,St. James Parish,2016,42856
+983,St. James Parish,2017,42754
+984,St. James Parish,2018,42262
+985,St. James Parish,2019,42090
+986,St. James Parish,2020,41454
+987,St. John the Baptist Parish,2000,86496
+988,St. John the Baptist Parish,2001,87160
+989,St. John the Baptist Parish,2002,87756
+990,St. John the Baptist Parish,2003,88632
+991,St. John the Baptist Parish,2004,89644
+992,St. John the Baptist Parish,2005,90592
+993,St. John the Baptist Parish,2006,94592
+994,St. John the Baptist Parish,2007,94772
+995,St. John the Baptist Parish,2008,93622
+996,St. John the Baptist Parish,2009,92672
+997,St. John the Baptist Parish,2010,91176
+998,St. John the Baptist Parish,2011,90130
+999,St. John the Baptist Parish,2012,89432
+1000,St. John the Baptist Parish,2013,87130
+1001,St. John the Baptist Parish,2014,87424
+1002,St. John the Baptist Parish,2015,87054
+1003,St. John the Baptist Parish,2016,86882
+1004,St. John the Baptist Parish,2017,86712
+1005,St. John the Baptist Parish,2018,86280
+1006,St. John the Baptist Parish,2019,85648
+1007,St. John the Baptist Parish,2020,85032
+1071,St. Tammany Parish,2000,384262
+1072,St. Tammany Parish,2001,391244
+1073,St. Tammany Parish,2002,401402
+1074,St. Tammany Parish,2003,411416
+1075,St. Tammany Parish,2004,422810
+1076,St. Tammany Parish,2005,434716
+1077,St. Tammany Parish,2006,446266
+1078,St. Tammany Parish,2007,452588
+1079,St. Tammany Parish,2008,458504
+1080,St. Tammany Parish,2009,462448
+1081,St. Tammany Parish,2010,469128
+1082,St. Tammany Parish,2011,473800
+1083,St. Tammany Parish,2012,478308
+1084,St. Tammany Parish,2013,484148
+1085,St. Tammany Parish,2014,490780
+1086,St. Tammany Parish,2015,498232
+1087,St. Tammany Parish,2016,505352
+1088,St. Tammany Parish,2017,512424
+1089,St. Tammany Parish,2018,517196
+1090,St. Tammany Parish,2019,522606
+1091,St. Tammany Parish,2020,526892
+1092,Tangipahoa Parish,2000,201432
+1093,Tangipahoa Parish,2001,203314
+1094,Tangipahoa Parish,2002,205022
+1095,Tangipahoa Parish,2003,207564
+1096,Tangipahoa Parish,2004,210670
+1097,Tangipahoa Parish,2005,213974
+1098,Tangipahoa Parish,2006,228204
+1099,Tangipahoa Parish,2007,233584
+1100,Tangipahoa Parish,2008,237242
+1101,Tangipahoa Parish,2009,240018
+1102,Tangipahoa Parish,2010,242926
+1103,Tangipahoa Parish,2011,245388
+1104,Tangipahoa Parish,2012,247312
+1105,Tangipahoa Parish,2013,251100
+1106,Tangipahoa Parish,2014,254116
+1107,Tangipahoa Parish,2015,257548
+1108,Tangipahoa Parish,2016,261518
+1109,Tangipahoa Parish,2017,264890
+1110,Tangipahoa Parish,2018,267902
+1111,Tangipahoa Parish,2019,269690
+1112,Tangipahoa Parish,2020,273530
+1218,Washington Parish,2000,87872
+1219,Washington Parish,2001,87984
+1220,Washington Parish,2002,88312
+1221,Washington Parish,2003,88554
+1222,Washington Parish,2004,89042
+1223,Washington Parish,2005,89760
+1224,Washington Parish,2006,90314
+1225,Washington Parish,2007,92752
+1226,Washington Parish,2008,94000
+1227,Washington Parish,2009,94524
+1228,Washington Parish,2010,94166
+1229,Washington Parish,2011,94250
+1230,Washington Parish,2012,93350
+1231,Washington Parish,2013,92824
+1232,Washington Parish,2014,92640
+1233,Washington Parish,2015,92730
+1234,Washington Parish,2016,92828
+1235,Washington Parish,2017,93356
+1236,Washington Parish,2018,93202
+1237,Washington Parish,2019,92316
+1238,Washington Parish,2020,91546
+1260,West Baton Rouge Parish,2000,43154
+1261,West Baton Rouge Parish,2001,43406
+1262,West Baton Rouge Parish,2002,43602
+1263,West Baton Rouge Parish,2003,43640
+1264,West Baton Rouge Parish,2004,44098
+1265,West Baton Rouge Parish,2005,43858
+1266,West Baton Rouge Parish,2006,45332
+1267,West Baton Rouge Parish,2007,46368
+1268,West Baton Rouge Parish,2008,46504
+1269,West Baton Rouge Parish,2009,46704
+1270,West Baton Rouge Parish,2010,47928
+1271,West Baton Rouge Parish,2011,48250
+1272,West Baton Rouge Parish,2012,48340
+1273,West Baton Rouge Parish,2013,49364
+1274,West Baton Rouge Parish,2014,50458
+1275,West Baton Rouge Parish,2015,51192
+1276,West Baton Rouge Parish,2016,51884
+1277,West Baton Rouge Parish,2017,52476
+1278,West Baton Rouge Parish,2018,52902
+1279,West Baton Rouge Parish,2019,53100
+1280,West Baton Rouge Parish,2020,53584
+1302,West Feliciana Parish,2000,30290
+1303,West Feliciana Parish,2001,30304
+1304,West Feliciana Parish,2002,30432
+1305,West Feliciana Parish,2003,30652
+1306,West Feliciana Parish,2004,30600
+1307,West Feliciana Parish,2005,30862
+1308,West Feliciana Parish,2006,31472
+1309,West Feliciana Parish,2007,31310
+1310,West Feliciana Parish,2008,31534
+1311,West Feliciana Parish,2009,31278
+1312,West Feliciana Parish,2010,31272
+1313,West Feliciana Parish,2011,31022
+1314,West Feliciana Parish,2012,30942
+1315,West Feliciana Parish,2013,30910
+1316,West Feliciana Parish,2014,30744
+1317,West Feliciana Parish,2015,30752
+1318,West Feliciana Parish,2016,30644
+1319,West Feliciana Parish,2017,30746
+1320,West Feliciana Parish,2018,30948
+1321,West Feliciana Parish,2019,31140
+1322,West Feliciana Parish,2020,30930

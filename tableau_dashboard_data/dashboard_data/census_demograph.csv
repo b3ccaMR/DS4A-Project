@@ -1,0 +1,2941 @@
+,county,year,race,value
+0,Ascension Parish,2000,White alone,121392
+1,Ascension Parish,2001,White alone,124214
+2,Ascension Parish,2002,White alone,127658
+3,Ascension Parish,2003,White alone,131920
+4,Ascension Parish,2004,White alone,135554
+5,Ascension Parish,2005,White alone,140574
+6,Ascension Parish,2006,White alone,147482
+7,Ascension Parish,2007,White alone,152366
+8,Ascension Parish,2008,White alone,155696
+9,Ascension Parish,2009,White alone,158528
+10,Ascension Parish,2010,White alone,162200
+11,Ascension Parish,2011,White alone,165110
+12,Ascension Parish,2012,White alone,167806
+13,Ascension Parish,2013,White alone,171060
+14,Ascension Parish,2014,White alone,174362
+15,Ascension Parish,2015,White alone,176812
+16,Ascension Parish,2016,White alone,179500
+17,Ascension Parish,2017,White alone,181068
+18,Ascension Parish,2018,White alone,182692
+19,Ascension Parish,2019,White alone,184002
+20,Ascension Parish,2020,White alone,185982
+21,Caddo Parish,2000,White alone,267802
+22,Caddo Parish,2001,White alone,265088
+23,Caddo Parish,2002,White alone,262298
+24,Caddo Parish,2003,White alone,260230
+25,Caddo Parish,2004,White alone,259740
+26,Caddo Parish,2005,White alone,258968
+27,Caddo Parish,2006,White alone,255984
+28,Caddo Parish,2007,White alone,254610
+29,Caddo Parish,2008,White alone,252728
+30,Caddo Parish,2009,White alone,252986
+31,Caddo Parish,2010,White alone,253990
+32,Caddo Parish,2011,White alone,253822
+33,Caddo Parish,2012,White alone,252190
+34,Caddo Parish,2013,White alone,247848
+35,Caddo Parish,2014,White alone,243674
+36,Caddo Parish,2015,White alone,240494
+37,Caddo Parish,2016,White alone,235854
+38,Caddo Parish,2017,White alone,231358
+39,Caddo Parish,2018,White alone,227034
+40,Caddo Parish,2019,White alone,222982
+41,Caddo Parish,2020,White alone,219142
+42,East Baton Rouge Parish,2000,White alone,468290
+43,East Baton Rouge Parish,2001,White alone,462574
+44,East Baton Rouge Parish,2002,White alone,457422
+45,East Baton Rouge Parish,2003,White alone,454116
+46,East Baton Rouge Parish,2004,White alone,450658
+47,East Baton Rouge Parish,2005,White alone,445108
+48,East Baton Rouge Parish,2006,White alone,445122
+49,East Baton Rouge Parish,2007,White alone,440912
+50,East Baton Rouge Parish,2008,White alone,439092
+51,East Baton Rouge Parish,2009,White alone,440316
+52,East Baton Rouge Parish,2010,White alone,442306
+53,East Baton Rouge Parish,2011,White alone,439338
+54,East Baton Rouge Parish,2012,White alone,437868
+55,East Baton Rouge Parish,2013,White alone,436410
+56,East Baton Rouge Parish,2014,White alone,434970
+57,East Baton Rouge Parish,2015,White alone,434066
+58,East Baton Rouge Parish,2016,White alone,433202
+59,East Baton Rouge Parish,2017,White alone,428866
+60,East Baton Rouge Parish,2018,White alone,423904
+61,East Baton Rouge Parish,2019,White alone,420136
+62,East Baton Rouge Parish,2020,White alone,416304
+63,East Feliciana Parish,2000,White alone,22176
+64,East Feliciana Parish,2001,White alone,22070
+65,East Feliciana Parish,2002,White alone,21760
+66,East Feliciana Parish,2003,White alone,21828
+67,East Feliciana Parish,2004,White alone,21680
+68,East Feliciana Parish,2005,White alone,21710
+69,East Feliciana Parish,2006,White alone,21816
+70,East Feliciana Parish,2007,White alone,21778
+71,East Feliciana Parish,2008,White alone,21634
+72,East Feliciana Parish,2009,White alone,21870
+73,East Feliciana Parish,2010,White alone,21512
+74,East Feliciana Parish,2011,White alone,21508
+75,East Feliciana Parish,2012,White alone,21282
+76,East Feliciana Parish,2013,White alone,20962
+77,East Feliciana Parish,2014,White alone,21124
+78,East Feliciana Parish,2015,White alone,20970
+79,East Feliciana Parish,2016,White alone,21090
+80,East Feliciana Parish,2017,White alone,21192
+81,East Feliciana Parish,2018,White alone,21118
+82,East Feliciana Parish,2019,White alone,21036
+83,East Feliciana Parish,2020,White alone,20938
+84,Iberville Parish,2000,White alone,32880
+85,Iberville Parish,2001,White alone,33034
+86,Iberville Parish,2002,White alone,32896
+87,Iberville Parish,2003,White alone,32642
+88,Iberville Parish,2004,White alone,32570
+89,Iberville Parish,2005,White alone,32610
+90,Iberville Parish,2006,White alone,32700
+91,Iberville Parish,2007,White alone,32778
+92,Iberville Parish,2008,White alone,32964
+93,Iberville Parish,2009,White alone,32952
+94,Iberville Parish,2010,White alone,32914
+95,Iberville Parish,2011,White alone,32878
+96,Iberville Parish,2012,White alone,32906
+97,Iberville Parish,2013,White alone,33026
+98,Iberville Parish,2014,White alone,32748
+99,Iberville Parish,2015,White alone,32788
+100,Iberville Parish,2016,White alone,32488
+101,Iberville Parish,2017,White alone,32516
+102,Iberville Parish,2018,White alone,32336
+103,Iberville Parish,2019,White alone,32238
+104,Iberville Parish,2020,White alone,31878
+105,Jefferson Parish,2000,White alone,658044
+106,Jefferson Parish,2001,White alone,649178
+107,Jefferson Parish,2002,White alone,643408
+108,Jefferson Parish,2003,White alone,639194
+109,Jefferson Parish,2004,White alone,635310
+110,Jefferson Parish,2005,White alone,629660
+111,Jefferson Parish,2006,White alone,587014
+112,Jefferson Parish,2007,White alone,587354
+113,Jefferson Parish,2008,White alone,582994
+114,Jefferson Parish,2009,White alone,581212
+115,Jefferson Parish,2010,White alone,581130
+116,Jefferson Parish,2011,White alone,582578
+117,Jefferson Parish,2012,White alone,580262
+118,Jefferson Parish,2013,White alone,579034
+119,Jefferson Parish,2014,White alone,576624
+120,Jefferson Parish,2015,White alone,576314
+121,Jefferson Parish,2016,White alone,575194
+122,Jefferson Parish,2017,White alone,571208
+123,Jefferson Parish,2018,White alone,565730
+124,Jefferson Parish,2019,White alone,561728
+125,Jefferson Parish,2020,White alone,556154
+126,Livingston Parish,2000,White alone,175338
+127,Livingston Parish,2001,White alone,180336
+128,Livingston Parish,2002,White alone,186240
+129,Livingston Parish,2003,White alone,191848
+130,Livingston Parish,2004,White alone,199054
+131,Livingston Parish,2005,White alone,204796
+132,Livingston Parish,2006,White alone,216314
+133,Livingston Parish,2007,White alone,223084
+134,Livingston Parish,2008,White alone,230722
+135,Livingston Parish,2009,White alone,234764
+136,Livingston Parish,2010,White alone,238402
+137,Livingston Parish,2011,White alone,240428
+138,Livingston Parish,2012,White alone,242750
+139,Livingston Parish,2013,White alone,246044
+140,Livingston Parish,2014,White alone,248484
+141,Livingston Parish,2015,White alone,251474
+142,Livingston Parish,2016,White alone,255156
+143,Livingston Parish,2017,White alone,251392
+144,Livingston Parish,2018,White alone,253518
+145,Livingston Parish,2019,White alone,255668
+146,Livingston Parish,2020,White alone,257918
+147,Orleans Parish,2000,White alone,281210
+148,Orleans Parish,2001,White alone,281426
+149,Orleans Parish,2002,White alone,282984
+150,Orleans Parish,2003,White alone,284672
+151,Orleans Parish,2004,White alone,286446
+152,Orleans Parish,2005,White alone,287172
+153,Orleans Parish,2006,White alone,167866
+154,Orleans Parish,2007,White alone,186698
+155,Orleans Parish,2008,White alone,205588
+156,Orleans Parish,2009,White alone,223514
+157,Orleans Parish,2010,White alone,239148
+158,Orleans Parish,2011,White alone,247700
+159,Orleans Parish,2012,White alone,254470
+160,Orleans Parish,2013,White alone,261112
+161,Orleans Parish,2014,White alone,265718
+162,Orleans Parish,2015,White alone,270918
+163,Orleans Parish,2016,White alone,273432
+164,Orleans Parish,2017,White alone,272702
+165,Orleans Parish,2018,White alone,272612
+166,Orleans Parish,2019,White alone,273208
+167,Orleans Parish,2020,White alone,273272
+168,Plaquemines Parish,2000,White alone,37800
+169,Plaquemines Parish,2001,White alone,38208
+170,Plaquemines Parish,2002,White alone,38792
+171,Plaquemines Parish,2003,White alone,39996
+172,Plaquemines Parish,2004,White alone,41986
+173,Plaquemines Parish,2005,White alone,42380
+174,Plaquemines Parish,2006,White alone,32148
+175,Plaquemines Parish,2007,White alone,32504
+176,Plaquemines Parish,2008,White alone,32650
+177,Plaquemines Parish,2009,White alone,32478
+178,Plaquemines Parish,2010,White alone,33202
+179,Plaquemines Parish,2011,White alone,33736
+180,Plaquemines Parish,2012,White alone,34214
+181,Plaquemines Parish,2013,White alone,33746
+182,Plaquemines Parish,2014,White alone,33150
+183,Plaquemines Parish,2015,White alone,33114
+184,Plaquemines Parish,2016,White alone,32782
+185,Plaquemines Parish,2017,White alone,32520
+186,Plaquemines Parish,2018,White alone,32442
+187,Plaquemines Parish,2019,White alone,32288
+188,Plaquemines Parish,2020,White alone,32044
+189,Pointe Coupee Parish,2000,White alone,27866
+190,Pointe Coupee Parish,2001,White alone,27754
+191,Pointe Coupee Parish,2002,White alone,27752
+192,Pointe Coupee Parish,2003,White alone,27770
+193,Pointe Coupee Parish,2004,White alone,27736
+194,Pointe Coupee Parish,2005,White alone,27684
+195,Pointe Coupee Parish,2006,White alone,27916
+196,Pointe Coupee Parish,2007,White alone,28256
+197,Pointe Coupee Parish,2008,White alone,28188
+198,Pointe Coupee Parish,2009,White alone,28252
+199,Pointe Coupee Parish,2010,White alone,28442
+200,Pointe Coupee Parish,2011,White alone,28360
+201,Pointe Coupee Parish,2012,White alone,28254
+202,Pointe Coupee Parish,2013,White alone,28150
+203,Pointe Coupee Parish,2014,White alone,27972
+204,Pointe Coupee Parish,2015,White alone,27814
+205,Pointe Coupee Parish,2016,White alone,27638
+206,Pointe Coupee Parish,2017,White alone,27614
+207,Pointe Coupee Parish,2018,White alone,27340
+208,Pointe Coupee Parish,2019,White alone,27254
+209,Pointe Coupee Parish,2020,White alone,27102
+210,St. Bernard Parish,2000,White alone,120316
+211,St. Bernard Parish,2001,White alone,121094
+212,St. Bernard Parish,2002,White alone,121968
+213,St. Bernard Parish,2003,White alone,122666
+214,St. Bernard Parish,2004,White alone,123412
+215,St. Bernard Parish,2005,White alone,123668
+216,St. Bernard Parish,2006,White alone,25858
+217,St. Bernard Parish,2007,White alone,37190
+218,St. Bernard Parish,2008,White alone,45350
+219,St. Bernard Parish,2009,White alone,51148
+220,St. Bernard Parish,2010,White alone,56420
+221,St. Bernard Parish,2011,White alone,59636
+222,St. Bernard Parish,2012,White alone,61752
+223,St. Bernard Parish,2013,White alone,63642
+224,St. Bernard Parish,2014,White alone,64506
+225,St. Bernard Parish,2015,White alone,65542
+226,St. Bernard Parish,2016,White alone,65498
+227,St. Bernard Parish,2017,White alone,65274
+228,St. Bernard Parish,2018,White alone,65678
+229,St. Bernard Parish,2019,White alone,65934
+230,St. Bernard Parish,2020,White alone,66182
+231,St. Charles Parish,2000,White alone,70352
+232,St. Charles Parish,2001,White alone,70372
+233,St. Charles Parish,2002,White alone,70866
+234,St. Charles Parish,2003,White alone,71240
+235,St. Charles Parish,2004,White alone,72168
+236,St. Charles Parish,2005,White alone,72832
+237,St. Charles Parish,2006,White alone,74556
+238,St. Charles Parish,2007,White alone,74426
+239,St. Charles Parish,2008,White alone,73976
+240,St. Charles Parish,2009,White alone,74292
+241,St. Charles Parish,2010,White alone,74668
+242,St. Charles Parish,2011,White alone,73852
+243,St. Charles Parish,2012,White alone,74036
+244,St. Charles Parish,2013,White alone,74286
+245,St. Charles Parish,2014,White alone,74476
+246,St. Charles Parish,2015,White alone,74260
+247,St. Charles Parish,2016,White alone,74444
+248,St. Charles Parish,2017,White alone,74016
+249,St. Charles Parish,2018,White alone,74058
+250,St. Charles Parish,2019,White alone,74506
+251,St. Charles Parish,2020,White alone,74266
+252,St. Helena Parish,2000,White alone,9904
+253,St. Helena Parish,2001,White alone,9812
+254,St. Helena Parish,2002,White alone,9882
+255,St. Helena Parish,2003,White alone,9846
+256,St. Helena Parish,2004,White alone,9758
+257,St. Helena Parish,2005,White alone,9696
+258,St. Helena Parish,2006,White alone,9908
+259,St. Helena Parish,2007,White alone,9996
+260,St. Helena Parish,2008,White alone,9978
+261,St. Helena Parish,2009,White alone,10052
+262,St. Helena Parish,2010,White alone,10122
+263,St. Helena Parish,2011,White alone,9908
+264,St. Helena Parish,2012,White alone,9916
+265,St. Helena Parish,2013,White alone,9696
+266,St. Helena Parish,2014,White alone,9494
+267,St. Helena Parish,2015,White alone,9414
+268,St. Helena Parish,2016,White alone,9350
+269,St. Helena Parish,2017,White alone,9376
+270,St. Helena Parish,2018,White alone,9244
+271,St. Helena Parish,2019,White alone,9220
+272,St. Helena Parish,2020,White alone,9164
+273,St. James Parish,2000,White alone,21218
+274,St. James Parish,2001,White alone,21312
+275,St. James Parish,2002,White alone,21298
+276,St. James Parish,2003,White alone,21234
+277,St. James Parish,2004,White alone,21196
+278,St. James Parish,2005,White alone,21312
+279,St. James Parish,2006,White alone,21456
+280,St. James Parish,2007,White alone,21480
+281,St. James Parish,2008,White alone,21536
+282,St. James Parish,2009,White alone,21596
+283,St. James Parish,2010,White alone,21336
+284,St. James Parish,2011,White alone,21172
+285,St. James Parish,2012,White alone,21226
+286,St. James Parish,2013,White alone,21340
+287,St. James Parish,2014,White alone,21222
+288,St. James Parish,2015,White alone,21184
+289,St. James Parish,2016,White alone,21230
+290,St. James Parish,2017,White alone,21278
+291,St. James Parish,2018,White alone,20998
+292,St. James Parish,2019,White alone,20996
+293,St. James Parish,2020,White alone,20738
+294,St. John the Baptist Parish,2000,White alone,46312
+295,St. John the Baptist Parish,2001,White alone,46268
+296,St. John the Baptist Parish,2002,White alone,46110
+297,St. John the Baptist Parish,2003,White alone,45758
+298,St. John the Baptist Parish,2004,White alone,45330
+299,St. John the Baptist Parish,2005,White alone,45052
+300,St. John the Baptist Parish,2006,White alone,44852
+301,St. John the Baptist Parish,2007,White alone,43370
+302,St. John the Baptist Parish,2008,White alone,42136
+303,St. John the Baptist Parish,2009,White alone,41192
+304,St. John the Baptist Parish,2010,White alone,39884
+305,St. John the Baptist Parish,2011,White alone,39152
+306,St. John the Baptist Parish,2012,White alone,38328
+307,St. John the Baptist Parish,2013,White alone,36836
+308,St. John the Baptist Parish,2014,White alone,36444
+309,St. John the Baptist Parish,2015,White alone,35836
+310,St. John the Baptist Parish,2016,White alone,35180
+311,St. John the Baptist Parish,2017,White alone,34464
+312,St. John the Baptist Parish,2018,White alone,33526
+313,St. John the Baptist Parish,2019,White alone,32726
+314,St. John the Baptist Parish,2020,White alone,31992
+315,St. Tammany Parish,2000,White alone,337478
+316,St. Tammany Parish,2001,White alone,342142
+317,St. Tammany Parish,2002,White alone,349328
+318,St. Tammany Parish,2003,White alone,356988
+319,St. Tammany Parish,2004,White alone,365226
+320,St. Tammany Parish,2005,White alone,373526
+321,St. Tammany Parish,2006,White alone,382832
+322,St. Tammany Parish,2007,White alone,386840
+323,St. Tammany Parish,2008,White alone,391042
+324,St. Tammany Parish,2009,White alone,393720
+325,St. Tammany Parish,2010,White alone,398554
+326,St. Tammany Parish,2011,White alone,402008
+327,St. Tammany Parish,2012,White alone,405108
+328,St. Tammany Parish,2013,White alone,409024
+329,St. Tammany Parish,2014,White alone,414314
+330,St. Tammany Parish,2015,White alone,419602
+331,St. Tammany Parish,2016,White alone,424672
+332,St. Tammany Parish,2017,White alone,429268
+333,St. Tammany Parish,2018,White alone,431968
+334,St. Tammany Parish,2019,White alone,434794
+335,St. Tammany Parish,2020,White alone,435952
+336,Tangipahoa Parish,2000,White alone,141690
+337,Tangipahoa Parish,2001,White alone,142694
+338,Tangipahoa Parish,2002,White alone,143440
+339,Tangipahoa Parish,2003,White alone,144682
+340,Tangipahoa Parish,2004,White alone,146288
+341,Tangipahoa Parish,2005,White alone,148112
+342,Tangipahoa Parish,2006,White alone,156260
+343,Tangipahoa Parish,2007,White alone,158770
+344,Tangipahoa Parish,2008,White alone,160898
+345,Tangipahoa Parish,2009,White alone,162204
+346,Tangipahoa Parish,2010,White alone,163666
+347,Tangipahoa Parish,2011,White alone,165154
+348,Tangipahoa Parish,2012,White alone,166410
+349,Tangipahoa Parish,2013,White alone,168982
+350,Tangipahoa Parish,2014,White alone,170614
+351,Tangipahoa Parish,2015,White alone,172762
+352,Tangipahoa Parish,2016,White alone,175148
+353,Tangipahoa Parish,2017,White alone,176920
+354,Tangipahoa Parish,2018,White alone,178920
+355,Tangipahoa Parish,2019,White alone,179908
+356,Tangipahoa Parish,2020,White alone,182222
+357,Washington Parish,2000,White alone,59318
+358,Washington Parish,2001,White alone,59542
+359,Washington Parish,2002,White alone,59758
+360,Washington Parish,2003,White alone,59964
+361,Washington Parish,2004,White alone,60392
+362,Washington Parish,2005,White alone,60992
+363,Washington Parish,2006,White alone,60682
+364,Washington Parish,2007,White alone,62188
+365,Washington Parish,2008,White alone,63032
+366,Washington Parish,2009,White alone,63820
+367,Washington Parish,2010,White alone,63454
+368,Washington Parish,2011,White alone,63542
+369,Washington Parish,2012,White alone,62954
+370,Washington Parish,2013,White alone,62848
+371,Washington Parish,2014,White alone,62478
+372,Washington Parish,2015,White alone,62506
+373,Washington Parish,2016,White alone,62434
+374,Washington Parish,2017,White alone,62746
+375,Washington Parish,2018,White alone,62660
+376,Washington Parish,2019,White alone,62064
+377,Washington Parish,2020,White alone,61426
+378,West Baton Rouge Parish,2000,White alone,27300
+379,West Baton Rouge Parish,2001,White alone,27336
+380,West Baton Rouge Parish,2002,White alone,27424
+381,West Baton Rouge Parish,2003,White alone,27458
+382,West Baton Rouge Parish,2004,White alone,27618
+383,West Baton Rouge Parish,2005,White alone,27300
+384,West Baton Rouge Parish,2006,White alone,27614
+385,West Baton Rouge Parish,2007,White alone,28214
+386,West Baton Rouge Parish,2008,White alone,28266
+387,West Baton Rouge Parish,2009,White alone,28370
+388,West Baton Rouge Parish,2010,White alone,29000
+389,West Baton Rouge Parish,2011,White alone,29126
+390,West Baton Rouge Parish,2012,White alone,29338
+391,West Baton Rouge Parish,2013,White alone,29742
+392,West Baton Rouge Parish,2014,White alone,30138
+393,West Baton Rouge Parish,2015,White alone,30320
+394,West Baton Rouge Parish,2016,White alone,30576
+395,West Baton Rouge Parish,2017,White alone,30722
+396,West Baton Rouge Parish,2018,White alone,30656
+397,West Baton Rouge Parish,2019,White alone,30570
+398,West Baton Rouge Parish,2020,White alone,30620
+399,West Feliciana Parish,2000,White alone,14778
+400,West Feliciana Parish,2001,White alone,14830
+401,West Feliciana Parish,2002,White alone,15064
+402,West Feliciana Parish,2003,White alone,15356
+403,West Feliciana Parish,2004,White alone,15406
+404,West Feliciana Parish,2005,White alone,15770
+405,West Feliciana Parish,2006,White alone,16052
+406,West Feliciana Parish,2007,White alone,16174
+407,West Feliciana Parish,2008,White alone,16336
+408,West Feliciana Parish,2009,White alone,16372
+409,West Feliciana Parish,2010,White alone,16428
+410,West Feliciana Parish,2011,White alone,16366
+411,West Feliciana Parish,2012,White alone,16408
+412,West Feliciana Parish,2013,White alone,16386
+413,West Feliciana Parish,2014,White alone,16298
+414,West Feliciana Parish,2015,White alone,16364
+415,West Feliciana Parish,2016,White alone,16270
+416,West Feliciana Parish,2017,White alone,16492
+417,West Feliciana Parish,2018,White alone,16658
+418,West Feliciana Parish,2019,White alone,16722
+419,West Feliciana Parish,2020,White alone,16580
+420,Ascension Parish,2000,Black or African American alone,31562
+421,Ascension Parish,2001,Black or African American alone,32168
+422,Ascension Parish,2002,Black or African American alone,32694
+423,Ascension Parish,2003,Black or African American alone,33314
+424,Ascension Parish,2004,Black or African American alone,34212
+425,Ascension Parish,2005,Black or African American alone,35544
+426,Ascension Parish,2006,Black or African American alone,41658
+427,Ascension Parish,2007,Black or African American alone,43696
+428,Ascension Parish,2008,Black or African American alone,45496
+429,Ascension Parish,2009,Black or African American alone,46808
+430,Ascension Parish,2010,Black or African American alone,48306
+431,Ascension Parish,2011,Black or African American alone,49442
+432,Ascension Parish,2012,Black or African American alone,50650
+433,Ascension Parish,2013,Black or African American alone,51942
+434,Ascension Parish,2014,Black or African American alone,53390
+435,Ascension Parish,2015,Black or African American alone,54616
+436,Ascension Parish,2016,Black or African American alone,56004
+437,Ascension Parish,2017,Black or African American alone,57350
+438,Ascension Parish,2018,Black or African American alone,58988
+439,Ascension Parish,2019,Black or African American alone,60898
+440,Ascension Parish,2020,Black or African American alone,62438
+441,Caddo Parish,2000,Black or African American alone,224884
+442,Caddo Parish,2001,Black or African American alone,224522
+443,Caddo Parish,2002,Black or African American alone,224734
+444,Caddo Parish,2003,Black or African American alone,225414
+445,Caddo Parish,2004,Black or African American alone,226940
+446,Caddo Parish,2005,Black or African American alone,228072
+447,Caddo Parish,2006,Black or African American alone,236950
+448,Caddo Parish,2007,Black or African American alone,236090
+449,Caddo Parish,2008,Black or African American alone,237600
+450,Caddo Parish,2009,Black or African American alone,239334
+451,Caddo Parish,2010,Black or African American alone,242430
+452,Caddo Parish,2011,Black or African American alone,244786
+453,Caddo Parish,2012,Black or African American alone,246780
+454,Caddo Parish,2013,Black or African American alone,246886
+455,Caddo Parish,2014,Black or African American alone,245980
+456,Caddo Parish,2015,Black or African American alone,246228
+457,Caddo Parish,2016,Black or African American alone,245668
+458,Caddo Parish,2017,Black or African American alone,244198
+459,Caddo Parish,2018,Black or African American alone,242416
+460,Caddo Parish,2019,Black or African American alone,240806
+461,Caddo Parish,2020,Black or African American alone,238702
+462,East Baton Rouge Parish,2000,Black or African American alone,332450
+463,East Baton Rouge Parish,2001,Black or African American alone,334144
+464,East Baton Rouge Parish,2002,Black or African American alone,336888
+465,East Baton Rouge Parish,2003,Black or African American alone,341752
+466,East Baton Rouge Parish,2004,Black or African American alone,347012
+467,East Baton Rouge Parish,2005,Black or African American alone,351062
+468,East Baton Rouge Parish,2006,Black or African American alone,388724
+469,East Baton Rouge Parish,2007,Black or African American alone,392204
+470,East Baton Rouge Parish,2008,Black or African American alone,393432
+471,East Baton Rouge Parish,2009,Black or African American alone,398398
+472,East Baton Rouge Parish,2010,Black or African American alone,401312
+473,East Baton Rouge Parish,2011,Black or African American alone,404590
+474,East Baton Rouge Parish,2012,Black or African American alone,408140
+475,East Baton Rouge Parish,2013,Black or African American alone,410758
+476,East Baton Rouge Parish,2014,Black or African American alone,413382
+477,East Baton Rouge Parish,2015,Black or African American alone,413628
+478,East Baton Rouge Parish,2016,Black or African American alone,415886
+479,East Baton Rouge Parish,2017,Black or African American alone,415430
+480,East Baton Rouge Parish,2018,Black or African American alone,415464
+481,East Baton Rouge Parish,2019,Black or African American alone,416196
+482,East Baton Rouge Parish,2020,Black or African American alone,416494
+483,East Feliciana Parish,2000,Black or African American alone,20046
+484,East Feliciana Parish,2001,Black or African American alone,19512
+485,East Feliciana Parish,2002,Black or African American alone,19180
+486,East Feliciana Parish,2003,Black or African American alone,18764
+487,East Feliciana Parish,2004,Black or African American alone,18394
+488,East Feliciana Parish,2005,Black or African American alone,17968
+489,East Feliciana Parish,2006,Black or African American alone,18758
+490,East Feliciana Parish,2007,Black or African American alone,18486
+491,East Feliciana Parish,2008,Black or African American alone,18554
+492,East Feliciana Parish,2009,Black or African American alone,18432
+493,East Feliciana Parish,2010,Black or African American alone,18104
+494,East Feliciana Parish,2011,Black or African American alone,17934
+495,East Feliciana Parish,2012,Black or African American alone,17666
+496,East Feliciana Parish,2013,Black or African American alone,17488
+497,East Feliciana Parish,2014,Black or African American alone,17420
+498,East Feliciana Parish,2015,Black or African American alone,17248
+499,East Feliciana Parish,2016,Black or African American alone,17110
+500,East Feliciana Parish,2017,Black or African American alone,16770
+501,East Feliciana Parish,2018,Black or African American alone,16580
+502,East Feliciana Parish,2019,Black or African American alone,16340
+503,East Feliciana Parish,2020,Black or African American alone,15974
+504,Iberville Parish,2000,Black or African American alone,33214
+505,Iberville Parish,2001,Black or African American alone,33050
+506,Iberville Parish,2002,Black or African American alone,33016
+507,Iberville Parish,2003,Black or African American alone,32822
+508,Iberville Parish,2004,Black or African American alone,32212
+509,Iberville Parish,2005,Black or African American alone,32082
+510,Iberville Parish,2006,Black or African American alone,33652
+511,Iberville Parish,2007,Black or African American alone,33678
+512,Iberville Parish,2008,Black or African American alone,33596
+513,Iberville Parish,2009,Black or African American alone,33002
+514,Iberville Parish,2010,Black or African American alone,33024
+515,Iberville Parish,2011,Black or African American alone,32916
+516,Iberville Parish,2012,Black or African American alone,32810
+517,Iberville Parish,2013,Black or African American alone,32730
+518,Iberville Parish,2014,Black or African American alone,32468
+519,Iberville Parish,2015,Black or African American alone,32388
+520,Iberville Parish,2016,Black or African American alone,32128
+521,Iberville Parish,2017,Black or African American alone,32142
+522,Iberville Parish,2018,Black or African American alone,31920
+523,Iberville Parish,2019,Black or African American alone,31622
+524,Iberville Parish,2020,Black or African American alone,31002
+525,Jefferson Parish,2000,Black or African American alone,209618
+526,Jefferson Parish,2001,Black or African American alone,214284
+527,Jefferson Parish,2002,Black or African American alone,219238
+528,Jefferson Parish,2003,Black or African American alone,224420
+529,Jefferson Parish,2004,Black or African American alone,230888
+530,Jefferson Parish,2005,Black or African American alone,235504
+531,Jefferson Parish,2006,Black or African American alone,219604
+532,Jefferson Parish,2007,Black or African American alone,230860
+533,Jefferson Parish,2008,Black or African American alone,231774
+534,Jefferson Parish,2009,Black or African American alone,231926
+535,Jefferson Parish,2010,Black or African American alone,231894
+536,Jefferson Parish,2011,Black or African American alone,232454
+537,Jefferson Parish,2012,Black or African American alone,233440
+538,Jefferson Parish,2013,Black or African American alone,234406
+539,Jefferson Parish,2014,Black or African American alone,235828
+540,Jefferson Parish,2015,Black or African American alone,237730
+541,Jefferson Parish,2016,Black or African American alone,240676
+542,Jefferson Parish,2017,Black or African American alone,242892
+543,Jefferson Parish,2018,Black or African American alone,244302
+544,Jefferson Parish,2019,Black or African American alone,246324
+545,Jefferson Parish,2020,Black or African American alone,247682
+546,Livingston Parish,2000,Black or African American alone,7914
+547,Livingston Parish,2001,Black or African American alone,8410
+548,Livingston Parish,2002,Black or African American alone,9078
+549,Livingston Parish,2003,Black or African American alone,9456
+550,Livingston Parish,2004,Black or African American alone,9842
+551,Livingston Parish,2005,Black or African American alone,10122
+552,Livingston Parish,2006,Black or African American alone,11410
+553,Livingston Parish,2007,Black or African American alone,11822
+554,Livingston Parish,2008,Black or African American alone,12656
+555,Livingston Parish,2009,Black or African American alone,12894
+556,Livingston Parish,2010,Black or African American alone,13254
+557,Livingston Parish,2011,Black or African American alone,13924
+558,Livingston Parish,2012,Black or African American alone,14692
+559,Livingston Parish,2013,Black or African American alone,15560
+560,Livingston Parish,2014,Black or African American alone,15986
+561,Livingston Parish,2015,Black or African American alone,16584
+562,Livingston Parish,2016,Black or African American alone,17780
+563,Livingston Parish,2017,Black or African American alone,17844
+564,Livingston Parish,2018,Black or African American alone,18728
+565,Livingston Parish,2019,Black or African American alone,20170
+566,Livingston Parish,2020,Black or African American alone,21728
+567,Orleans Parish,2000,Black or African American alone,657530
+568,Orleans Parish,2001,Black or African American alone,660136
+569,Orleans Parish,2002,Black or African American alone,662592
+570,Orleans Parish,2003,Black or African American alone,665006
+571,Orleans Parish,2004,Black or African American alone,665476
+572,Orleans Parish,2005,Black or African American alone,665336
+573,Orleans Parish,2006,Black or African American alone,270490
+574,Orleans Parish,2007,Black or African American alone,324992
+575,Orleans Parish,2008,Black or African American alone,369672
+576,Orleans Parish,2009,Black or African American alone,401016
+577,Orleans Parish,2010,Black or African American alone,423676
+578,Orleans Parish,2011,Black or African American alone,440098
+579,Orleans Parish,2012,Black or African American alone,450464
+580,Orleans Parish,2013,Black or African American alone,460860
+581,Orleans Parish,2014,Black or African American alone,466110
+582,Orleans Parish,2015,Black or African American alone,471498
+583,Orleans Parish,2016,Black or African American alone,472636
+584,Orleans Parish,2017,Black or African American alone,472514
+585,Orleans Parish,2018,Black or African American alone,471608
+586,Orleans Parish,2019,Black or African American alone,470146
+587,Orleans Parish,2020,Black or African American alone,466426
+588,Plaquemines Parish,2000,Black or African American alone,12546
+589,Plaquemines Parish,2001,Black or African American alone,12616
+590,Plaquemines Parish,2002,Black or African American alone,12648
+591,Plaquemines Parish,2003,Black or African American alone,12856
+592,Plaquemines Parish,2004,Black or African American alone,13150
+593,Plaquemines Parish,2005,Black or African American alone,13058
+594,Plaquemines Parish,2006,Black or African American alone,9384
+595,Plaquemines Parish,2007,Black or African American alone,9812
+596,Plaquemines Parish,2008,Black or African American alone,9510
+597,Plaquemines Parish,2009,Black or African American alone,9638
+598,Plaquemines Parish,2010,Black or African American alone,9542
+599,Plaquemines Parish,2011,Black or African American alone,9712
+600,Plaquemines Parish,2012,Black or African American alone,9714
+601,Plaquemines Parish,2013,Black or African American alone,9430
+602,Plaquemines Parish,2014,Black or African American alone,9486
+603,Plaquemines Parish,2015,Black or African American alone,9624
+604,Plaquemines Parish,2016,Black or African American alone,9644
+605,Plaquemines Parish,2017,Black or African American alone,9788
+606,Plaquemines Parish,2018,Black or African American alone,9908
+607,Plaquemines Parish,2019,Black or African American alone,9876
+608,Plaquemines Parish,2020,Black or African American alone,9832
+609,Pointe Coupee Parish,2000,Black or African American alone,17256
+610,Pointe Coupee Parish,2001,Black or African American alone,16988
+611,Pointe Coupee Parish,2002,Black or African American alone,16738
+612,Pointe Coupee Parish,2003,Black or African American alone,16524
+613,Pointe Coupee Parish,2004,Black or African American alone,16466
+614,Pointe Coupee Parish,2005,Black or African American alone,15998
+615,Pointe Coupee Parish,2006,Black or African American alone,17096
+616,Pointe Coupee Parish,2007,Black or African American alone,16938
+617,Pointe Coupee Parish,2008,Black or African American alone,17182
+618,Pointe Coupee Parish,2009,Black or African American alone,16858
+619,Pointe Coupee Parish,2010,Black or African American alone,16582
+620,Pointe Coupee Parish,2011,Black or African American alone,16544
+621,Pointe Coupee Parish,2012,Black or African American alone,16400
+622,Pointe Coupee Parish,2013,Black or African American alone,15988
+623,Pointe Coupee Parish,2014,Black or African American alone,15854
+624,Pointe Coupee Parish,2015,Black or African American alone,15790
+625,Pointe Coupee Parish,2016,Black or African American alone,15814
+626,Pointe Coupee Parish,2017,Black or African American alone,15882
+627,Pointe Coupee Parish,2018,Black or African American alone,15596
+628,Pointe Coupee Parish,2019,Black or African American alone,15412
+629,Pointe Coupee Parish,2020,Black or African American alone,15144
+630,St. Bernard Parish,2000,Black or African American alone,10286
+631,St. Bernard Parish,2001,Black or African American alone,11090
+632,St. Bernard Parish,2002,Black or African American alone,11920
+633,St. Bernard Parish,2003,Black or African American alone,12526
+634,St. Bernard Parish,2004,Black or African American alone,13574
+635,St. Bernard Parish,2005,Black or African American alone,14688
+636,St. Bernard Parish,2006,Black or African American alone,4358
+637,St. Bernard Parish,2007,Black or African American alone,6922
+638,St. Bernard Parish,2008,Black or African American alone,9062
+639,St. Bernard Parish,2009,Black or African American alone,11084
+640,St. Bernard Parish,2010,Black or African American alone,13348
+641,St. Bernard Parish,2011,Black or African American alone,15226
+642,St. Bernard Parish,2012,Black or African American alone,16846
+643,St. Bernard Parish,2013,Black or African American alone,18516
+644,St. Bernard Parish,2014,Black or African American alone,19438
+645,St. Bernard Parish,2015,Black or African American alone,20208
+646,St. Bernard Parish,2016,Black or African American alone,20872
+647,St. Bernard Parish,2017,Black or African American alone,21726
+648,St. Bernard Parish,2018,Black or African American alone,22308
+649,St. Bernard Parish,2019,Black or African American alone,22870
+650,St. Bernard Parish,2020,Black or African American alone,23440
+651,St. Charles Parish,2000,Black or African American alone,24422
+652,St. Charles Parish,2001,Black or African American alone,24904
+653,St. Charles Parish,2002,Black or African American alone,25576
+654,St. Charles Parish,2003,Black or African American alone,25540
+655,St. Charles Parish,2004,Black or African American alone,25706
+656,St. Charles Parish,2005,Black or African American alone,26296
+657,St. Charles Parish,2006,Black or African American alone,28020
+658,St. Charles Parish,2007,Black or African American alone,28708
+659,St. Charles Parish,2008,Black or African American alone,28654
+660,St. Charles Parish,2009,Black or African American alone,28586
+661,St. Charles Parish,2010,Black or African American alone,28262
+662,St. Charles Parish,2011,Black or African American alone,28090
+663,St. Charles Parish,2012,Black or African American alone,27966
+664,St. Charles Parish,2013,Black or African American alone,27942
+665,St. Charles Parish,2014,Black or African American alone,27880
+666,St. Charles Parish,2015,Black or African American alone,27700
+667,St. Charles Parish,2016,Black or African American alone,27968
+668,St. Charles Parish,2017,Black or African American alone,27904
+669,St. Charles Parish,2018,Black or African American alone,28088
+670,St. Charles Parish,2019,Black or African American alone,28168
+671,St. Charles Parish,2020,Black or African American alone,28052
+672,St. Helena Parish,2000,Black or African American alone,11038
+673,St. Helena Parish,2001,Black or African American alone,11084
+674,St. Helena Parish,2002,Black or African American alone,11148
+675,St. Helena Parish,2003,Black or African American alone,11078
+676,St. Helena Parish,2004,Black or African American alone,11148
+677,St. Helena Parish,2005,Black or African American alone,11096
+678,St. Helena Parish,2006,Black or African American alone,12026
+679,St. Helena Parish,2007,Black or African American alone,11890
+680,St. Helena Parish,2008,Black or African American alone,11962
+681,St. Helena Parish,2009,Black or African American alone,11978
+682,St. Helena Parish,2010,Black or African American alone,12002
+683,St. Helena Parish,2011,Black or African American alone,11720
+684,St. Helena Parish,2012,Black or African American alone,11732
+685,St. Helena Parish,2013,Black or African American alone,11518
+686,St. Helena Parish,2014,Black or African American alone,11170
+687,St. Helena Parish,2015,Black or African American alone,11112
+688,St. Helena Parish,2016,Black or African American alone,11030
+689,St. Helena Parish,2017,Black or African American alone,10848
+690,St. Helena Parish,2018,Black or African American alone,10674
+691,St. Helena Parish,2019,Black or African American alone,10618
+692,St. Helena Parish,2020,Black or African American alone,10546
+693,St. James Parish,2000,Black or African American alone,20990
+694,St. James Parish,2001,Black or African American alone,21070
+695,St. James Parish,2002,Black or African American alone,21220
+696,St. James Parish,2003,Black or African American alone,21078
+697,St. James Parish,2004,Black or African American alone,21002
+698,St. James Parish,2005,Black or African American alone,21162
+699,St. James Parish,2006,Black or African American alone,22128
+700,St. James Parish,2007,Black or African American alone,22466
+701,St. James Parish,2008,Black or African American alone,22258
+702,St. James Parish,2009,Black or African American alone,22446
+703,St. James Parish,2010,Black or African American alone,22322
+704,St. James Parish,2011,Black or African American alone,21944
+705,St. James Parish,2012,Black or African American alone,21534
+706,St. James Parish,2013,Black or African American alone,21330
+707,St. James Parish,2014,Black or African American alone,21250
+708,St. James Parish,2015,Black or African American alone,21194
+709,St. James Parish,2016,Black or African American alone,20994
+710,St. James Parish,2017,Black or African American alone,20864
+711,St. James Parish,2018,Black or African American alone,20646
+712,St. James Parish,2019,Black or African American alone,20456
+713,St. James Parish,2020,Black or African American alone,20074
+714,St. John the Baptist Parish,2000,Black or African American alone,38926
+715,St. John the Baptist Parish,2001,Black or African American alone,39530
+716,St. John the Baptist Parish,2002,Black or African American alone,40238
+717,St. John the Baptist Parish,2003,Black or African American alone,41364
+718,St. John the Baptist Parish,2004,Black or African American alone,42720
+719,St. John the Baptist Parish,2005,Black or African American alone,43800
+720,St. John the Baptist Parish,2006,Black or African American alone,47956
+721,St. John the Baptist Parish,2007,Black or African American alone,49528
+722,St. John the Baptist Parish,2008,Black or African American alone,49546
+723,St. John the Baptist Parish,2009,Black or African American alone,49518
+724,St. John the Baptist Parish,2010,Black or African American alone,49226
+725,St. John the Baptist Parish,2011,Black or African American alone,48806
+726,St. John the Baptist Parish,2012,Black or African American alone,48894
+727,St. John the Baptist Parish,2013,Black or African American alone,48052
+728,St. John the Baptist Parish,2014,Black or African American alone,48596
+729,St. John the Baptist Parish,2015,Black or African American alone,48802
+730,St. John the Baptist Parish,2016,Black or African American alone,49104
+731,St. John the Baptist Parish,2017,Black or African American alone,49582
+732,St. John the Baptist Parish,2018,Black or African American alone,50028
+733,St. John the Baptist Parish,2019,Black or African American alone,50070
+734,St. John the Baptist Parish,2020,Black or African American alone,50142
+735,St. Tammany Parish,2000,Black or African American alone,38424
+736,St. Tammany Parish,2001,Black or African American alone,39822
+737,St. Tammany Parish,2002,Black or African American alone,41830
+738,St. Tammany Parish,2003,Black or African American alone,43488
+739,St. Tammany Parish,2004,Black or African American alone,45844
+740,St. Tammany Parish,2005,Black or African American alone,48540
+741,St. Tammany Parish,2006,Black or African American alone,50066
+742,St. Tammany Parish,2007,Black or African American alone,51774
+743,St. Tammany Parish,2008,Black or African American alone,52846
+744,St. Tammany Parish,2009,Black or African American alone,53370
+745,St. Tammany Parish,2010,Black or African American alone,54502
+746,St. Tammany Parish,2011,Black or African American alone,55060
+747,St. Tammany Parish,2012,Black or African American alone,55780
+748,St. Tammany Parish,2013,Black or African American alone,57290
+749,St. Tammany Parish,2014,Black or African American alone,57908
+750,St. Tammany Parish,2015,Black or African American alone,59270
+751,St. Tammany Parish,2016,Black or African American alone,60780
+752,St. Tammany Parish,2017,Black or African American alone,62954
+753,St. Tammany Parish,2018,Black or African American alone,64688
+754,St. Tammany Parish,2019,Black or African American alone,66752
+755,St. Tammany Parish,2020,Black or African American alone,69368
+756,Tangipahoa Parish,2000,Black or African American alone,57250
+757,Tangipahoa Parish,2001,Black or African American alone,57836
+758,Tangipahoa Parish,2002,Black or African American alone,58562
+759,Tangipahoa Parish,2003,Black or African American alone,59620
+760,Tangipahoa Parish,2004,Black or African American alone,60784
+761,Tangipahoa Parish,2005,Black or African American alone,62054
+762,Tangipahoa Parish,2006,Black or African American alone,67860
+763,Tangipahoa Parish,2007,Black or African American alone,70270
+764,Tangipahoa Parish,2008,Black or African American alone,71534
+765,Tangipahoa Parish,2009,Black or African American alone,72566
+766,Tangipahoa Parish,2010,Black or African American alone,73832
+767,Tangipahoa Parish,2011,Black or African American alone,74620
+768,Tangipahoa Parish,2012,Black or African American alone,75048
+769,Tangipahoa Parish,2013,Black or African American alone,76094
+770,Tangipahoa Parish,2014,Black or African American alone,77166
+771,Tangipahoa Parish,2015,Black or African American alone,78292
+772,Tangipahoa Parish,2016,Black or African American alone,79602
+773,Tangipahoa Parish,2017,Black or African American alone,80952
+774,Tangipahoa Parish,2018,Black or African American alone,81778
+775,Tangipahoa Parish,2019,Black or African American alone,82420
+776,Tangipahoa Parish,2020,Black or African American alone,83592
+777,Washington Parish,2000,Black or African American alone,27792
+778,Washington Parish,2001,Black or African American alone,27620
+779,Washington Parish,2002,Black or African American alone,27670
+780,Washington Parish,2003,Black or African American alone,27626
+781,Washington Parish,2004,Black or African American alone,27618
+782,Washington Parish,2005,Black or African American alone,27620
+783,Washington Parish,2006,Black or African American alone,28430
+784,Washington Parish,2007,Black or African American alone,29316
+785,Washington Parish,2008,Black or African American alone,29606
+786,Washington Parish,2009,Black or African American alone,29286
+787,Washington Parish,2010,Black or African American alone,29254
+788,Washington Parish,2011,Black or African American alone,29160
+789,Washington Parish,2012,Black or African American alone,28742
+790,Washington Parish,2013,Black or African American alone,28292
+791,Washington Parish,2014,Black or African American alone,28432
+792,Washington Parish,2015,Black or African American alone,28474
+793,Washington Parish,2016,Black or African American alone,28528
+794,Washington Parish,2017,Black or African American alone,28642
+795,Washington Parish,2018,Black or African American alone,28390
+796,Washington Parish,2019,Black or African American alone,28114
+797,Washington Parish,2020,Black or African American alone,27934
+798,West Baton Rouge Parish,2000,Black or African American alone,15404
+799,West Baton Rouge Parish,2001,Black or African American alone,15618
+800,West Baton Rouge Parish,2002,Black or African American alone,15708
+801,West Baton Rouge Parish,2003,Black or African American alone,15656
+802,West Baton Rouge Parish,2004,Black or African American alone,15942
+803,West Baton Rouge Parish,2005,Black or African American alone,15966
+804,West Baton Rouge Parish,2006,Black or African American alone,17100
+805,West Baton Rouge Parish,2007,Black or African American alone,17492
+806,West Baton Rouge Parish,2008,Black or African American alone,17558
+807,West Baton Rouge Parish,2009,Black or African American alone,17608
+808,West Baton Rouge Parish,2010,Black or African American alone,18158
+809,West Baton Rouge Parish,2011,Black or African American alone,18306
+810,West Baton Rouge Parish,2012,Black or African American alone,18144
+811,West Baton Rouge Parish,2013,Black or African American alone,18696
+812,West Baton Rouge Parish,2014,Black or African American alone,19346
+813,West Baton Rouge Parish,2015,Black or African American alone,19862
+814,West Baton Rouge Parish,2016,Black or African American alone,20244
+815,West Baton Rouge Parish,2017,Black or African American alone,20592
+816,West Baton Rouge Parish,2018,Black or African American alone,20994
+817,West Baton Rouge Parish,2019,Black or African American alone,21218
+818,West Baton Rouge Parish,2020,Black or African American alone,21608
+819,West Feliciana Parish,2000,Black or African American alone,15284
+820,West Feliciana Parish,2001,Black or African American alone,15246
+821,West Feliciana Parish,2002,Black or African American alone,15142
+822,West Feliciana Parish,2003,Black or African American alone,15072
+823,West Feliciana Parish,2004,Black or African American alone,14952
+824,West Feliciana Parish,2005,Black or African American alone,14842
+825,West Feliciana Parish,2006,Black or African American alone,15158
+826,West Feliciana Parish,2007,Black or African American alone,14856
+827,West Feliciana Parish,2008,Black or African American alone,14920
+828,West Feliciana Parish,2009,Black or African American alone,14626
+829,West Feliciana Parish,2010,Black or African American alone,14564
+830,West Feliciana Parish,2011,Black or African American alone,14346
+831,West Feliciana Parish,2012,Black or African American alone,14206
+832,West Feliciana Parish,2013,Black or African American alone,14174
+833,West Feliciana Parish,2014,Black or African American alone,14098
+834,West Feliciana Parish,2015,Black or African American alone,13988
+835,West Feliciana Parish,2016,Black or African American alone,13968
+836,West Feliciana Parish,2017,Black or African American alone,13766
+837,West Feliciana Parish,2018,Black or African American alone,13762
+838,West Feliciana Parish,2019,Black or African American alone,13790
+839,West Feliciana Parish,2020,Black or African American alone,13696
+840,Ascension Parish,2000,American Indian and Alaska Native alone,438
+841,Ascension Parish,2001,American Indian and Alaska Native alone,486
+842,Ascension Parish,2002,American Indian and Alaska Native alone,534
+843,Ascension Parish,2003,American Indian and Alaska Native alone,580
+844,Ascension Parish,2004,American Indian and Alaska Native alone,538
+845,Ascension Parish,2005,American Indian and Alaska Native alone,594
+846,Ascension Parish,2006,American Indian and Alaska Native alone,620
+847,Ascension Parish,2007,American Indian and Alaska Native alone,708
+848,Ascension Parish,2008,American Indian and Alaska Native alone,690
+849,Ascension Parish,2009,American Indian and Alaska Native alone,796
+850,Ascension Parish,2010,American Indian and Alaska Native alone,784
+851,Ascension Parish,2011,American Indian and Alaska Native alone,806
+852,Ascension Parish,2012,American Indian and Alaska Native alone,902
+853,Ascension Parish,2013,American Indian and Alaska Native alone,912
+854,Ascension Parish,2014,American Indian and Alaska Native alone,1030
+855,Ascension Parish,2015,American Indian and Alaska Native alone,1096
+856,Ascension Parish,2016,American Indian and Alaska Native alone,1108
+857,Ascension Parish,2017,American Indian and Alaska Native alone,1174
+858,Ascension Parish,2018,American Indian and Alaska Native alone,1190
+859,Ascension Parish,2019,American Indian and Alaska Native alone,1154
+860,Ascension Parish,2020,American Indian and Alaska Native alone,1202
+861,Caddo Parish,2000,American Indian and Alaska Native alone,2024
+862,Caddo Parish,2001,American Indian and Alaska Native alone,2120
+863,Caddo Parish,2002,American Indian and Alaska Native alone,2112
+864,Caddo Parish,2003,American Indian and Alaska Native alone,2104
+865,Caddo Parish,2004,American Indian and Alaska Native alone,2174
+866,Caddo Parish,2005,American Indian and Alaska Native alone,2206
+867,Caddo Parish,2006,American Indian and Alaska Native alone,2256
+868,Caddo Parish,2007,American Indian and Alaska Native alone,2278
+869,Caddo Parish,2008,American Indian and Alaska Native alone,2378
+870,Caddo Parish,2009,American Indian and Alaska Native alone,2340
+871,Caddo Parish,2010,American Indian and Alaska Native alone,2404
+872,Caddo Parish,2011,American Indian and Alaska Native alone,2388
+873,Caddo Parish,2012,American Indian and Alaska Native alone,2434
+874,Caddo Parish,2013,American Indian and Alaska Native alone,2384
+875,Caddo Parish,2014,American Indian and Alaska Native alone,2376
+876,Caddo Parish,2015,American Indian and Alaska Native alone,2424
+877,Caddo Parish,2016,American Indian and Alaska Native alone,2434
+878,Caddo Parish,2017,American Indian and Alaska Native alone,2470
+879,Caddo Parish,2018,American Indian and Alaska Native alone,2476
+880,Caddo Parish,2019,American Indian and Alaska Native alone,2390
+881,Caddo Parish,2020,American Indian and Alaska Native alone,2470
+882,East Baton Rouge Parish,2000,American Indian and Alaska Native alone,1776
+883,East Baton Rouge Parish,2001,American Indian and Alaska Native alone,1936
+884,East Baton Rouge Parish,2002,American Indian and Alaska Native alone,2046
+885,East Baton Rouge Parish,2003,American Indian and Alaska Native alone,2140
+886,East Baton Rouge Parish,2004,American Indian and Alaska Native alone,2178
+887,East Baton Rouge Parish,2005,American Indian and Alaska Native alone,2276
+888,East Baton Rouge Parish,2006,American Indian and Alaska Native alone,2296
+889,East Baton Rouge Parish,2007,American Indian and Alaska Native alone,2356
+890,East Baton Rouge Parish,2008,American Indian and Alaska Native alone,2500
+891,East Baton Rouge Parish,2009,American Indian and Alaska Native alone,2548
+892,East Baton Rouge Parish,2010,American Indian and Alaska Native alone,2678
+893,East Baton Rouge Parish,2011,American Indian and Alaska Native alone,2532
+894,East Baton Rouge Parish,2012,American Indian and Alaska Native alone,2480
+895,East Baton Rouge Parish,2013,American Indian and Alaska Native alone,2554
+896,East Baton Rouge Parish,2014,American Indian and Alaska Native alone,2508
+897,East Baton Rouge Parish,2015,American Indian and Alaska Native alone,2500
+898,East Baton Rouge Parish,2016,American Indian and Alaska Native alone,2502
+899,East Baton Rouge Parish,2017,American Indian and Alaska Native alone,2492
+900,East Baton Rouge Parish,2018,American Indian and Alaska Native alone,2420
+901,East Baton Rouge Parish,2019,American Indian and Alaska Native alone,2356
+902,East Baton Rouge Parish,2020,American Indian and Alaska Native alone,2342
+903,East Feliciana Parish,2000,American Indian and Alaska Native alone,70
+904,East Feliciana Parish,2001,American Indian and Alaska Native alone,70
+905,East Feliciana Parish,2002,American Indian and Alaska Native alone,74
+906,East Feliciana Parish,2003,American Indian and Alaska Native alone,78
+907,East Feliciana Parish,2004,American Indian and Alaska Native alone,82
+908,East Feliciana Parish,2005,American Indian and Alaska Native alone,102
+909,East Feliciana Parish,2006,American Indian and Alaska Native alone,100
+910,East Feliciana Parish,2007,American Indian and Alaska Native alone,118
+911,East Feliciana Parish,2008,American Indian and Alaska Native alone,122
+912,East Feliciana Parish,2009,American Indian and Alaska Native alone,128
+913,East Feliciana Parish,2010,American Indian and Alaska Native alone,126
+914,East Feliciana Parish,2011,American Indian and Alaska Native alone,134
+915,East Feliciana Parish,2012,American Indian and Alaska Native alone,144
+916,East Feliciana Parish,2013,American Indian and Alaska Native alone,138
+917,East Feliciana Parish,2014,American Indian and Alaska Native alone,144
+918,East Feliciana Parish,2015,American Indian and Alaska Native alone,170
+919,East Feliciana Parish,2016,American Indian and Alaska Native alone,182
+920,East Feliciana Parish,2017,American Indian and Alaska Native alone,174
+921,East Feliciana Parish,2018,American Indian and Alaska Native alone,180
+922,East Feliciana Parish,2019,American Indian and Alaska Native alone,188
+923,East Feliciana Parish,2020,American Indian and Alaska Native alone,190
+924,Iberville Parish,2000,American Indian and Alaska Native alone,118
+925,Iberville Parish,2001,American Indian and Alaska Native alone,120
+926,Iberville Parish,2002,American Indian and Alaska Native alone,118
+927,Iberville Parish,2003,American Indian and Alaska Native alone,124
+928,Iberville Parish,2004,American Indian and Alaska Native alone,128
+929,Iberville Parish,2005,American Indian and Alaska Native alone,120
+930,Iberville Parish,2006,American Indian and Alaska Native alone,110
+931,Iberville Parish,2007,American Indian and Alaska Native alone,118
+932,Iberville Parish,2008,American Indian and Alaska Native alone,122
+933,Iberville Parish,2009,American Indian and Alaska Native alone,120
+934,Iberville Parish,2010,American Indian and Alaska Native alone,118
+935,Iberville Parish,2011,American Indian and Alaska Native alone,142
+936,Iberville Parish,2012,American Indian and Alaska Native alone,150
+937,Iberville Parish,2013,American Indian and Alaska Native alone,150
+938,Iberville Parish,2014,American Indian and Alaska Native alone,154
+939,Iberville Parish,2015,American Indian and Alaska Native alone,168
+940,Iberville Parish,2016,American Indian and Alaska Native alone,188
+941,Iberville Parish,2017,American Indian and Alaska Native alone,200
+942,Iberville Parish,2018,American Indian and Alaska Native alone,200
+943,Iberville Parish,2019,American Indian and Alaska Native alone,218
+944,Iberville Parish,2020,American Indian and Alaska Native alone,232
+945,Jefferson Parish,2000,American Indian and Alaska Native alone,4430
+946,Jefferson Parish,2001,American Indian and Alaska Native alone,4516
+947,Jefferson Parish,2002,American Indian and Alaska Native alone,4480
+948,Jefferson Parish,2003,American Indian and Alaska Native alone,4646
+949,Jefferson Parish,2004,American Indian and Alaska Native alone,4834
+950,Jefferson Parish,2005,American Indian and Alaska Native alone,4902
+951,Jefferson Parish,2006,American Indian and Alaska Native alone,4560
+952,Jefferson Parish,2007,American Indian and Alaska Native alone,4814
+953,Jefferson Parish,2008,American Indian and Alaska Native alone,4968
+954,Jefferson Parish,2009,American Indian and Alaska Native alone,5054
+955,Jefferson Parish,2010,American Indian and Alaska Native alone,5158
+956,Jefferson Parish,2011,American Indian and Alaska Native alone,5188
+957,Jefferson Parish,2012,American Indian and Alaska Native alone,5400
+958,Jefferson Parish,2013,American Indian and Alaska Native alone,5590
+959,Jefferson Parish,2014,American Indian and Alaska Native alone,5704
+960,Jefferson Parish,2015,American Indian and Alaska Native alone,5656
+961,Jefferson Parish,2016,American Indian and Alaska Native alone,5730
+962,Jefferson Parish,2017,American Indian and Alaska Native alone,5770
+963,Jefferson Parish,2018,American Indian and Alaska Native alone,5738
+964,Jefferson Parish,2019,American Indian and Alaska Native alone,5618
+965,Jefferson Parish,2020,American Indian and Alaska Native alone,5524
+966,Livingston Parish,2000,American Indian and Alaska Native alone,688
+967,Livingston Parish,2001,American Indian and Alaska Native alone,760
+968,Livingston Parish,2002,American Indian and Alaska Native alone,804
+969,Livingston Parish,2003,American Indian and Alaska Native alone,820
+970,Livingston Parish,2004,American Indian and Alaska Native alone,828
+971,Livingston Parish,2005,American Indian and Alaska Native alone,874
+972,Livingston Parish,2006,American Indian and Alaska Native alone,882
+973,Livingston Parish,2007,American Indian and Alaska Native alone,956
+974,Livingston Parish,2008,American Indian and Alaska Native alone,1032
+975,Livingston Parish,2009,American Indian and Alaska Native alone,1022
+976,Livingston Parish,2010,American Indian and Alaska Native alone,1088
+977,Livingston Parish,2011,American Indian and Alaska Native alone,1124
+978,Livingston Parish,2012,American Indian and Alaska Native alone,1144
+979,Livingston Parish,2013,American Indian and Alaska Native alone,1220
+980,Livingston Parish,2014,American Indian and Alaska Native alone,1222
+981,Livingston Parish,2015,American Indian and Alaska Native alone,1254
+982,Livingston Parish,2016,American Indian and Alaska Native alone,1320
+983,Livingston Parish,2017,American Indian and Alaska Native alone,1250
+984,Livingston Parish,2018,American Indian and Alaska Native alone,1322
+985,Livingston Parish,2019,American Indian and Alaska Native alone,1300
+986,Livingston Parish,2020,American Indian and Alaska Native alone,1376
+987,Orleans Parish,2000,American Indian and Alaska Native alone,2192
+988,Orleans Parish,2001,American Indian and Alaska Native alone,2192
+989,Orleans Parish,2002,American Indian and Alaska Native alone,2274
+990,Orleans Parish,2003,American Indian and Alaska Native alone,2398
+991,Orleans Parish,2004,American Indian and Alaska Native alone,2578
+992,Orleans Parish,2005,American Indian and Alaska Native alone,2682
+993,Orleans Parish,2006,American Indian and Alaska Native alone,1758
+994,Orleans Parish,2007,American Indian and Alaska Native alone,1996
+995,Orleans Parish,2008,American Indian and Alaska Native alone,2154
+996,Orleans Parish,2009,American Indian and Alaska Native alone,2294
+997,Orleans Parish,2010,American Indian and Alaska Native alone,2518
+998,Orleans Parish,2011,American Indian and Alaska Native alone,2442
+999,Orleans Parish,2012,American Indian and Alaska Native alone,2528
+1000,Orleans Parish,2013,American Indian and Alaska Native alone,2680
+1001,Orleans Parish,2014,American Indian and Alaska Native alone,2674
+1002,Orleans Parish,2015,American Indian and Alaska Native alone,2648
+1003,Orleans Parish,2016,American Indian and Alaska Native alone,2574
+1004,Orleans Parish,2017,American Indian and Alaska Native alone,2658
+1005,Orleans Parish,2018,American Indian and Alaska Native alone,2696
+1006,Orleans Parish,2019,American Indian and Alaska Native alone,2732
+1007,Orleans Parish,2020,American Indian and Alaska Native alone,2724
+1008,Plaquemines Parish,2000,American Indian and Alaska Native alone,1150
+1009,Plaquemines Parish,2001,American Indian and Alaska Native alone,1108
+1010,Plaquemines Parish,2002,American Indian and Alaska Native alone,1092
+1011,Plaquemines Parish,2003,American Indian and Alaska Native alone,1068
+1012,Plaquemines Parish,2004,American Indian and Alaska Native alone,1052
+1013,Plaquemines Parish,2005,American Indian and Alaska Native alone,998
+1014,Plaquemines Parish,2006,American Indian and Alaska Native alone,900
+1015,Plaquemines Parish,2007,American Indian and Alaska Native alone,852
+1016,Plaquemines Parish,2008,American Indian and Alaska Native alone,846
+1017,Plaquemines Parish,2009,American Indian and Alaska Native alone,878
+1018,Plaquemines Parish,2010,American Indian and Alaska Native alone,812
+1019,Plaquemines Parish,2011,American Indian and Alaska Native alone,838
+1020,Plaquemines Parish,2012,American Indian and Alaska Native alone,852
+1021,Plaquemines Parish,2013,American Indian and Alaska Native alone,824
+1022,Plaquemines Parish,2014,American Indian and Alaska Native alone,812
+1023,Plaquemines Parish,2015,American Indian and Alaska Native alone,852
+1024,Plaquemines Parish,2016,American Indian and Alaska Native alone,846
+1025,Plaquemines Parish,2017,American Indian and Alaska Native alone,868
+1026,Plaquemines Parish,2018,American Indian and Alaska Native alone,844
+1027,Plaquemines Parish,2019,American Indian and Alaska Native alone,860
+1028,Plaquemines Parish,2020,American Indian and Alaska Native alone,820
+1029,Pointe Coupee Parish,2000,American Indian and Alaska Native alone,78
+1030,Pointe Coupee Parish,2001,American Indian and Alaska Native alone,78
+1031,Pointe Coupee Parish,2002,American Indian and Alaska Native alone,76
+1032,Pointe Coupee Parish,2003,American Indian and Alaska Native alone,72
+1033,Pointe Coupee Parish,2004,American Indian and Alaska Native alone,74
+1034,Pointe Coupee Parish,2005,American Indian and Alaska Native alone,64
+1035,Pointe Coupee Parish,2006,American Indian and Alaska Native alone,60
+1036,Pointe Coupee Parish,2007,American Indian and Alaska Native alone,56
+1037,Pointe Coupee Parish,2008,American Indian and Alaska Native alone,60
+1038,Pointe Coupee Parish,2009,American Indian and Alaska Native alone,62
+1039,Pointe Coupee Parish,2010,American Indian and Alaska Native alone,70
+1040,Pointe Coupee Parish,2011,American Indian and Alaska Native alone,96
+1041,Pointe Coupee Parish,2012,American Indian and Alaska Native alone,86
+1042,Pointe Coupee Parish,2013,American Indian and Alaska Native alone,92
+1043,Pointe Coupee Parish,2014,American Indian and Alaska Native alone,106
+1044,Pointe Coupee Parish,2015,American Indian and Alaska Native alone,100
+1045,Pointe Coupee Parish,2016,American Indian and Alaska Native alone,114
+1046,Pointe Coupee Parish,2017,American Indian and Alaska Native alone,114
+1047,Pointe Coupee Parish,2018,American Indian and Alaska Native alone,126
+1048,Pointe Coupee Parish,2019,American Indian and Alaska Native alone,134
+1049,Pointe Coupee Parish,2020,American Indian and Alaska Native alone,126
+1050,St. Bernard Parish,2000,American Indian and Alaska Native alone,670
+1051,St. Bernard Parish,2001,American Indian and Alaska Native alone,636
+1052,St. Bernard Parish,2002,American Indian and Alaska Native alone,638
+1053,St. Bernard Parish,2003,American Indian and Alaska Native alone,644
+1054,St. Bernard Parish,2004,American Indian and Alaska Native alone,616
+1055,St. Bernard Parish,2005,American Indian and Alaska Native alone,646
+1056,St. Bernard Parish,2006,American Indian and Alaska Native alone,528
+1057,St. Bernard Parish,2007,American Indian and Alaska Native alone,558
+1058,St. Bernard Parish,2008,American Indian and Alaska Native alone,568
+1059,St. Bernard Parish,2009,American Indian and Alaska Native alone,598
+1060,St. Bernard Parish,2010,American Indian and Alaska Native alone,598
+1061,St. Bernard Parish,2011,American Indian and Alaska Native alone,644
+1062,St. Bernard Parish,2012,American Indian and Alaska Native alone,680
+1063,St. Bernard Parish,2013,American Indian and Alaska Native alone,690
+1064,St. Bernard Parish,2014,American Indian and Alaska Native alone,760
+1065,St. Bernard Parish,2015,American Indian and Alaska Native alone,768
+1066,St. Bernard Parish,2016,American Indian and Alaska Native alone,808
+1067,St. Bernard Parish,2017,American Indian and Alaska Native alone,816
+1068,St. Bernard Parish,2018,American Indian and Alaska Native alone,840
+1069,St. Bernard Parish,2019,American Indian and Alaska Native alone,894
+1070,St. Bernard Parish,2020,American Indian and Alaska Native alone,922
+1071,St. Charles Parish,2000,American Indian and Alaska Native alone,246
+1072,St. Charles Parish,2001,American Indian and Alaska Native alone,278
+1073,St. Charles Parish,2002,American Indian and Alaska Native alone,304
+1074,St. Charles Parish,2003,American Indian and Alaska Native alone,288
+1075,St. Charles Parish,2004,American Indian and Alaska Native alone,294
+1076,St. Charles Parish,2005,American Indian and Alaska Native alone,320
+1077,St. Charles Parish,2006,American Indian and Alaska Native alone,322
+1078,St. Charles Parish,2007,American Indian and Alaska Native alone,338
+1079,St. Charles Parish,2008,American Indian and Alaska Native alone,344
+1080,St. Charles Parish,2009,American Indian and Alaska Native alone,364
+1081,St. Charles Parish,2010,American Indian and Alaska Native alone,374
+1082,St. Charles Parish,2011,American Indian and Alaska Native alone,422
+1083,St. Charles Parish,2012,American Indian and Alaska Native alone,438
+1084,St. Charles Parish,2013,American Indian and Alaska Native alone,456
+1085,St. Charles Parish,2014,American Indian and Alaska Native alone,460
+1086,St. Charles Parish,2015,American Indian and Alaska Native alone,452
+1087,St. Charles Parish,2016,American Indian and Alaska Native alone,430
+1088,St. Charles Parish,2017,American Indian and Alaska Native alone,454
+1089,St. Charles Parish,2018,American Indian and Alaska Native alone,458
+1090,St. Charles Parish,2019,American Indian and Alaska Native alone,474
+1091,St. Charles Parish,2020,American Indian and Alaska Native alone,516
+1092,St. Helena Parish,2000,American Indian and Alaska Native alone,20
+1093,St. Helena Parish,2001,American Indian and Alaska Native alone,20
+1094,St. Helena Parish,2002,American Indian and Alaska Native alone,24
+1095,St. Helena Parish,2003,American Indian and Alaska Native alone,28
+1096,St. Helena Parish,2004,American Indian and Alaska Native alone,30
+1097,St. Helena Parish,2005,American Indian and Alaska Native alone,66
+1098,St. Helena Parish,2006,American Indian and Alaska Native alone,68
+1099,St. Helena Parish,2007,American Indian and Alaska Native alone,70
+1100,St. Helena Parish,2008,American Indian and Alaska Native alone,74
+1101,St. Helena Parish,2009,American Indian and Alaska Native alone,74
+1102,St. Helena Parish,2010,American Indian and Alaska Native alone,80
+1103,St. Helena Parish,2011,American Indian and Alaska Native alone,84
+1104,St. Helena Parish,2012,American Indian and Alaska Native alone,88
+1105,St. Helena Parish,2013,American Indian and Alaska Native alone,98
+1106,St. Helena Parish,2014,American Indian and Alaska Native alone,96
+1107,St. Helena Parish,2015,American Indian and Alaska Native alone,94
+1108,St. Helena Parish,2016,American Indian and Alaska Native alone,106
+1109,St. Helena Parish,2017,American Indian and Alaska Native alone,108
+1110,St. Helena Parish,2018,American Indian and Alaska Native alone,108
+1111,St. Helena Parish,2019,American Indian and Alaska Native alone,106
+1112,St. Helena Parish,2020,American Indian and Alaska Native alone,110
+1113,St. James Parish,2000,American Indian and Alaska Native alone,38
+1114,St. James Parish,2001,American Indian and Alaska Native alone,40
+1115,St. James Parish,2002,American Indian and Alaska Native alone,40
+1116,St. James Parish,2003,American Indian and Alaska Native alone,42
+1117,St. James Parish,2004,American Indian and Alaska Native alone,56
+1118,St. James Parish,2005,American Indian and Alaska Native alone,68
+1119,St. James Parish,2006,American Indian and Alaska Native alone,76
+1120,St. James Parish,2007,American Indian and Alaska Native alone,86
+1121,St. James Parish,2008,American Indian and Alaska Native alone,84
+1122,St. James Parish,2009,American Indian and Alaska Native alone,88
+1123,St. James Parish,2010,American Indian and Alaska Native alone,86
+1124,St. James Parish,2011,American Indian and Alaska Native alone,100
+1125,St. James Parish,2012,American Indian and Alaska Native alone,98
+1126,St. James Parish,2013,American Indian and Alaska Native alone,106
+1127,St. James Parish,2014,American Indian and Alaska Native alone,100
+1128,St. James Parish,2015,American Indian and Alaska Native alone,120
+1129,St. James Parish,2016,American Indian and Alaska Native alone,124
+1130,St. James Parish,2017,American Indian and Alaska Native alone,112
+1131,St. James Parish,2018,American Indian and Alaska Native alone,110
+1132,St. James Parish,2019,American Indian and Alaska Native alone,128
+1133,St. James Parish,2020,American Indian and Alaska Native alone,122
+1134,St. John the Baptist Parish,2000,American Indian and Alaska Native alone,228
+1135,St. John the Baptist Parish,2001,American Indian and Alaska Native alone,226
+1136,St. John the Baptist Parish,2002,American Indian and Alaska Native alone,250
+1137,St. John the Baptist Parish,2003,American Indian and Alaska Native alone,254
+1138,St. John the Baptist Parish,2004,American Indian and Alaska Native alone,264
+1139,St. John the Baptist Parish,2005,American Indian and Alaska Native alone,256
+1140,St. John the Baptist Parish,2006,American Indian and Alaska Native alone,268
+1141,St. John the Baptist Parish,2007,American Indian and Alaska Native alone,270
+1142,St. John the Baptist Parish,2008,American Indian and Alaska Native alone,312
+1143,St. John the Baptist Parish,2009,American Indian and Alaska Native alone,320
+1144,St. John the Baptist Parish,2010,American Indian and Alaska Native alone,332
+1145,St. John the Baptist Parish,2011,American Indian and Alaska Native alone,322
+1146,St. John the Baptist Parish,2012,American Indian and Alaska Native alone,322
+1147,St. John the Baptist Parish,2013,American Indian and Alaska Native alone,346
+1148,St. John the Baptist Parish,2014,American Indian and Alaska Native alone,352
+1149,St. John the Baptist Parish,2015,American Indian and Alaska Native alone,368
+1150,St. John the Baptist Parish,2016,American Indian and Alaska Native alone,388
+1151,St. John the Baptist Parish,2017,American Indian and Alaska Native alone,410
+1152,St. John the Baptist Parish,2018,American Indian and Alaska Native alone,414
+1153,St. John the Baptist Parish,2019,American Indian and Alaska Native alone,418
+1154,St. John the Baptist Parish,2020,American Indian and Alaska Native alone,454
+1155,St. Tammany Parish,2000,American Indian and Alaska Native alone,1736
+1156,St. Tammany Parish,2001,American Indian and Alaska Native alone,1886
+1157,St. Tammany Parish,2002,American Indian and Alaska Native alone,1968
+1158,St. Tammany Parish,2003,American Indian and Alaska Native alone,2058
+1159,St. Tammany Parish,2004,American Indian and Alaska Native alone,2096
+1160,St. Tammany Parish,2005,American Indian and Alaska Native alone,2214
+1161,St. Tammany Parish,2006,American Indian and Alaska Native alone,2270
+1162,St. Tammany Parish,2007,American Indian and Alaska Native alone,2346
+1163,St. Tammany Parish,2008,American Indian and Alaska Native alone,2400
+1164,St. Tammany Parish,2009,American Indian and Alaska Native alone,2442
+1165,St. Tammany Parish,2010,American Indian and Alaska Native alone,2560
+1166,St. Tammany Parish,2011,American Indian and Alaska Native alone,2652
+1167,St. Tammany Parish,2012,American Indian and Alaska Native alone,2670
+1168,St. Tammany Parish,2013,American Indian and Alaska Native alone,2690
+1169,St. Tammany Parish,2014,American Indian and Alaska Native alone,2758
+1170,St. Tammany Parish,2015,American Indian and Alaska Native alone,2844
+1171,St. Tammany Parish,2016,American Indian and Alaska Native alone,2916
+1172,St. Tammany Parish,2017,American Indian and Alaska Native alone,2894
+1173,St. Tammany Parish,2018,American Indian and Alaska Native alone,2884
+1174,St. Tammany Parish,2019,American Indian and Alaska Native alone,2960
+1175,St. Tammany Parish,2020,American Indian and Alaska Native alone,3056
+1176,Tangipahoa Parish,2000,American Indian and Alaska Native alone,506
+1177,Tangipahoa Parish,2001,American Indian and Alaska Native alone,544
+1178,Tangipahoa Parish,2002,American Indian and Alaska Native alone,560
+1179,Tangipahoa Parish,2003,American Indian and Alaska Native alone,590
+1180,Tangipahoa Parish,2004,American Indian and Alaska Native alone,680
+1181,Tangipahoa Parish,2005,American Indian and Alaska Native alone,656
+1182,Tangipahoa Parish,2006,American Indian and Alaska Native alone,724
+1183,Tangipahoa Parish,2007,American Indian and Alaska Native alone,764
+1184,Tangipahoa Parish,2008,American Indian and Alaska Native alone,766
+1185,Tangipahoa Parish,2009,American Indian and Alaska Native alone,862
+1186,Tangipahoa Parish,2010,American Indian and Alaska Native alone,874
+1187,Tangipahoa Parish,2011,American Indian and Alaska Native alone,888
+1188,Tangipahoa Parish,2012,American Indian and Alaska Native alone,938
+1189,Tangipahoa Parish,2013,American Indian and Alaska Native alone,950
+1190,Tangipahoa Parish,2014,American Indian and Alaska Native alone,1014
+1191,Tangipahoa Parish,2015,American Indian and Alaska Native alone,1014
+1192,Tangipahoa Parish,2016,American Indian and Alaska Native alone,1010
+1193,Tangipahoa Parish,2017,American Indian and Alaska Native alone,1064
+1194,Tangipahoa Parish,2018,American Indian and Alaska Native alone,1114
+1195,Tangipahoa Parish,2019,American Indian and Alaska Native alone,1154
+1196,Tangipahoa Parish,2020,American Indian and Alaska Native alone,1232
+1197,Washington Parish,2000,American Indian and Alaska Native alone,206
+1198,Washington Parish,2001,American Indian and Alaska Native alone,222
+1199,Washington Parish,2002,American Indian and Alaska Native alone,226
+1200,Washington Parish,2003,American Indian and Alaska Native alone,236
+1201,Washington Parish,2004,American Indian and Alaska Native alone,240
+1202,Washington Parish,2005,American Indian and Alaska Native alone,268
+1203,Washington Parish,2006,American Indian and Alaska Native alone,268
+1204,Washington Parish,2007,American Indian and Alaska Native alone,262
+1205,Washington Parish,2008,American Indian and Alaska Native alone,282
+1206,Washington Parish,2009,American Indian and Alaska Native alone,288
+1207,Washington Parish,2010,American Indian and Alaska Native alone,298
+1208,Washington Parish,2011,American Indian and Alaska Native alone,318
+1209,Washington Parish,2012,American Indian and Alaska Native alone,338
+1210,Washington Parish,2013,American Indian and Alaska Native alone,340
+1211,Washington Parish,2014,American Indian and Alaska Native alone,330
+1212,Washington Parish,2015,American Indian and Alaska Native alone,338
+1213,Washington Parish,2016,American Indian and Alaska Native alone,344
+1214,Washington Parish,2017,American Indian and Alaska Native alone,362
+1215,Washington Parish,2018,American Indian and Alaska Native alone,428
+1216,Washington Parish,2019,American Indian and Alaska Native alone,428
+1217,Washington Parish,2020,American Indian and Alaska Native alone,420
+1218,West Baton Rouge Parish,2000,American Indian and Alaska Native alone,90
+1219,West Baton Rouge Parish,2001,American Indian and Alaska Native alone,88
+1220,West Baton Rouge Parish,2002,American Indian and Alaska Native alone,88
+1221,West Baton Rouge Parish,2003,American Indian and Alaska Native alone,86
+1222,West Baton Rouge Parish,2004,American Indian and Alaska Native alone,80
+1223,West Baton Rouge Parish,2005,American Indian and Alaska Native alone,66
+1224,West Baton Rouge Parish,2006,American Indian and Alaska Native alone,64
+1225,West Baton Rouge Parish,2007,American Indian and Alaska Native alone,62
+1226,West Baton Rouge Parish,2008,American Indian and Alaska Native alone,60
+1227,West Baton Rouge Parish,2009,American Indian and Alaska Native alone,58
+1228,West Baton Rouge Parish,2010,American Indian and Alaska Native alone,60
+1229,West Baton Rouge Parish,2011,American Indian and Alaska Native alone,76
+1230,West Baton Rouge Parish,2012,American Indian and Alaska Native alone,82
+1231,West Baton Rouge Parish,2013,American Indian and Alaska Native alone,88
+1232,West Baton Rouge Parish,2014,American Indian and Alaska Native alone,88
+1233,West Baton Rouge Parish,2015,American Indian and Alaska Native alone,100
+1234,West Baton Rouge Parish,2016,American Indian and Alaska Native alone,104
+1235,West Baton Rouge Parish,2017,American Indian and Alaska Native alone,128
+1236,West Baton Rouge Parish,2018,American Indian and Alaska Native alone,128
+1237,West Baton Rouge Parish,2019,American Indian and Alaska Native alone,122
+1238,West Baton Rouge Parish,2020,American Indian and Alaska Native alone,126
+1239,West Feliciana Parish,2000,American Indian and Alaska Native alone,62
+1240,West Feliciana Parish,2001,American Indian and Alaska Native alone,62
+1241,West Feliciana Parish,2002,American Indian and Alaska Native alone,56
+1242,West Feliciana Parish,2003,American Indian and Alaska Native alone,56
+1243,West Feliciana Parish,2004,American Indian and Alaska Native alone,60
+1244,West Feliciana Parish,2005,American Indian and Alaska Native alone,40
+1245,West Feliciana Parish,2006,American Indian and Alaska Native alone,50
+1246,West Feliciana Parish,2007,American Indian and Alaska Native alone,48
+1247,West Feliciana Parish,2008,American Indian and Alaska Native alone,50
+1248,West Feliciana Parish,2009,American Indian and Alaska Native alone,44
+1249,West Feliciana Parish,2010,American Indian and Alaska Native alone,44
+1250,West Feliciana Parish,2011,American Indian and Alaska Native alone,46
+1251,West Feliciana Parish,2012,American Indian and Alaska Native alone,42
+1252,West Feliciana Parish,2013,American Indian and Alaska Native alone,46
+1253,West Feliciana Parish,2014,American Indian and Alaska Native alone,44
+1254,West Feliciana Parish,2015,American Indian and Alaska Native alone,42
+1255,West Feliciana Parish,2016,American Indian and Alaska Native alone,44
+1256,West Feliciana Parish,2017,American Indian and Alaska Native alone,52
+1257,West Feliciana Parish,2018,American Indian and Alaska Native alone,54
+1258,West Feliciana Parish,2019,American Indian and Alaska Native alone,66
+1259,West Feliciana Parish,2020,American Indian and Alaska Native alone,68
+1260,Ascension Parish,2000,Asian alone,558
+1261,Ascension Parish,2001,Asian alone,724
+1262,Ascension Parish,2002,Asian alone,882
+1263,Ascension Parish,2003,Asian alone,990
+1264,Ascension Parish,2004,Asian alone,1098
+1265,Ascension Parish,2005,Asian alone,1270
+1266,Ascension Parish,2006,Asian alone,1452
+1267,Ascension Parish,2007,Asian alone,1656
+1268,Ascension Parish,2008,Asian alone,1878
+1269,Ascension Parish,2009,Asian alone,1998
+1270,Ascension Parish,2010,Asian alone,2172
+1271,Ascension Parish,2011,Asian alone,2320
+1272,Ascension Parish,2012,Asian alone,2520
+1273,Ascension Parish,2013,Asian alone,2618
+1274,Ascension Parish,2014,Asian alone,2898
+1275,Ascension Parish,2015,Asian alone,3162
+1276,Ascension Parish,2016,Asian alone,3346
+1277,Ascension Parish,2017,Asian alone,3416
+1278,Ascension Parish,2018,Asian alone,3442
+1279,Ascension Parish,2019,Asian alone,3518
+1280,Ascension Parish,2020,Asian alone,3658
+1281,Caddo Parish,2000,Asian alone,3484
+1282,Caddo Parish,2001,Asian alone,3598
+1283,Caddo Parish,2002,Asian alone,3818
+1284,Caddo Parish,2003,Asian alone,4078
+1285,Caddo Parish,2004,Asian alone,4418
+1286,Caddo Parish,2005,Asian alone,4678
+1287,Caddo Parish,2006,Asian alone,4832
+1288,Caddo Parish,2007,Asian alone,4898
+1289,Caddo Parish,2008,Asian alone,5062
+1290,Caddo Parish,2009,Asian alone,5340
+1291,Caddo Parish,2010,Asian alone,5566
+1292,Caddo Parish,2011,Asian alone,5982
+1293,Caddo Parish,2012,Asian alone,6110
+1294,Caddo Parish,2013,Asian alone,6004
+1295,Caddo Parish,2014,Asian alone,5988
+1296,Caddo Parish,2015,Asian alone,6126
+1297,Caddo Parish,2016,Asian alone,6324
+1298,Caddo Parish,2017,Asian alone,6404
+1299,Caddo Parish,2018,Asian alone,6352
+1300,Caddo Parish,2019,Asian alone,6554
+1301,Caddo Parish,2020,Asian alone,6622
+1302,East Baton Rouge Parish,2000,Asian alone,17762
+1303,East Baton Rouge Parish,2001,Asian alone,18290
+1304,East Baton Rouge Parish,2002,Asian alone,18886
+1305,East Baton Rouge Parish,2003,Asian alone,19886
+1306,East Baton Rouge Parish,2004,Asian alone,20854
+1307,East Baton Rouge Parish,2005,Asian alone,21492
+1308,East Baton Rouge Parish,2006,Asian alone,22614
+1309,East Baton Rouge Parish,2007,Asian alone,22692
+1310,East Baton Rouge Parish,2008,Asian alone,23348
+1311,East Baton Rouge Parish,2009,Asian alone,24318
+1312,East Baton Rouge Parish,2010,Asian alone,25476
+1313,East Baton Rouge Parish,2011,Asian alone,26276
+1314,East Baton Rouge Parish,2012,Asian alone,26642
+1315,East Baton Rouge Parish,2013,Asian alone,27388
+1316,East Baton Rouge Parish,2014,Asian alone,27790
+1317,East Baton Rouge Parish,2015,Asian alone,28830
+1318,East Baton Rouge Parish,2016,Asian alone,29424
+1319,East Baton Rouge Parish,2017,Asian alone,29738
+1320,East Baton Rouge Parish,2018,Asian alone,30092
+1321,East Baton Rouge Parish,2019,Asian alone,30428
+1322,East Baton Rouge Parish,2020,Asian alone,30318
+1323,East Feliciana Parish,2000,Asian alone,100
+1324,East Feliciana Parish,2001,Asian alone,100
+1325,East Feliciana Parish,2002,Asian alone,102
+1326,East Feliciana Parish,2003,Asian alone,100
+1327,East Feliciana Parish,2004,Asian alone,102
+1328,East Feliciana Parish,2005,Asian alone,92
+1329,East Feliciana Parish,2006,Asian alone,104
+1330,East Feliciana Parish,2007,Asian alone,100
+1331,East Feliciana Parish,2008,Asian alone,102
+1332,East Feliciana Parish,2009,Asian alone,104
+1333,East Feliciana Parish,2010,Asian alone,108
+1334,East Feliciana Parish,2011,Asian alone,120
+1335,East Feliciana Parish,2012,Asian alone,120
+1336,East Feliciana Parish,2013,Asian alone,120
+1337,East Feliciana Parish,2014,Asian alone,124
+1338,East Feliciana Parish,2015,Asian alone,126
+1339,East Feliciana Parish,2016,Asian alone,124
+1340,East Feliciana Parish,2017,Asian alone,116
+1341,East Feliciana Parish,2018,Asian alone,126
+1342,East Feliciana Parish,2019,Asian alone,114
+1343,East Feliciana Parish,2020,Asian alone,106
+1344,Iberville Parish,2000,Asian alone,180
+1345,Iberville Parish,2001,Asian alone,192
+1346,Iberville Parish,2002,Asian alone,186
+1347,Iberville Parish,2003,Asian alone,190
+1348,Iberville Parish,2004,Asian alone,188
+1349,Iberville Parish,2005,Asian alone,200
+1350,Iberville Parish,2006,Asian alone,204
+1351,Iberville Parish,2007,Asian alone,206
+1352,Iberville Parish,2008,Asian alone,210
+1353,Iberville Parish,2009,Asian alone,216
+1354,Iberville Parish,2010,Asian alone,214
+1355,Iberville Parish,2011,Asian alone,244
+1356,Iberville Parish,2012,Asian alone,248
+1357,Iberville Parish,2013,Asian alone,280
+1358,Iberville Parish,2014,Asian alone,288
+1359,Iberville Parish,2015,Asian alone,264
+1360,Iberville Parish,2016,Asian alone,254
+1361,Iberville Parish,2017,Asian alone,286
+1362,Iberville Parish,2018,Asian alone,294
+1363,Iberville Parish,2019,Asian alone,306
+1364,Iberville Parish,2020,Asian alone,286
+1365,Jefferson Parish,2000,Asian alone,29162
+1366,Jefferson Parish,2001,Asian alone,29058
+1367,Jefferson Parish,2002,Asian alone,29866
+1368,Jefferson Parish,2003,Asian alone,30700
+1369,Jefferson Parish,2004,Asian alone,31536
+1370,Jefferson Parish,2005,Asian alone,32256
+1371,Jefferson Parish,2006,Asian alone,31140
+1372,Jefferson Parish,2007,Asian alone,31668
+1373,Jefferson Parish,2008,Asian alone,32644
+1374,Jefferson Parish,2009,Asian alone,33636
+1375,Jefferson Parish,2010,Asian alone,34218
+1376,Jefferson Parish,2011,Asian alone,34710
+1377,Jefferson Parish,2012,Asian alone,35104
+1378,Jefferson Parish,2013,Asian alone,35590
+1379,Jefferson Parish,2014,Asian alone,35744
+1380,Jefferson Parish,2015,Asian alone,36074
+1381,Jefferson Parish,2016,Asian alone,36870
+1382,Jefferson Parish,2017,Asian alone,37458
+1383,Jefferson Parish,2018,Asian alone,37696
+1384,Jefferson Parish,2019,Asian alone,38332
+1385,Jefferson Parish,2020,Asian alone,38820
+1386,Livingston Parish,2000,Asian alone,328
+1387,Livingston Parish,2001,Asian alone,514
+1388,Livingston Parish,2002,Asian alone,574
+1389,Livingston Parish,2003,Asian alone,692
+1390,Livingston Parish,2004,Asian alone,708
+1391,Livingston Parish,2005,Asian alone,798
+1392,Livingston Parish,2006,Asian alone,898
+1393,Livingston Parish,2007,Asian alone,1052
+1394,Livingston Parish,2008,Asian alone,1136
+1395,Livingston Parish,2009,Asian alone,1244
+1396,Livingston Parish,2010,Asian alone,1334
+1397,Livingston Parish,2011,Asian alone,1450
+1398,Livingston Parish,2012,Asian alone,1528
+1399,Livingston Parish,2013,Asian alone,1614
+1400,Livingston Parish,2014,Asian alone,1580
+1401,Livingston Parish,2015,Asian alone,1690
+1402,Livingston Parish,2016,Asian alone,1770
+1403,Livingston Parish,2017,Asian alone,1772
+1404,Livingston Parish,2018,Asian alone,1868
+1405,Livingston Parish,2019,Asian alone,2088
+1406,Livingston Parish,2020,Asian alone,2184
+1407,Orleans Parish,2000,Asian alone,22574
+1408,Orleans Parish,2001,Asian alone,22510
+1409,Orleans Parish,2002,Asian alone,22742
+1410,Orleans Parish,2003,Asian alone,23242
+1411,Orleans Parish,2004,Asian alone,23770
+1412,Orleans Parish,2005,Asian alone,24220
+1413,Orleans Parish,2006,Asian alone,13684
+1414,Orleans Parish,2007,Asian alone,16412
+1415,Orleans Parish,2008,Asian alone,17928
+1416,Orleans Parish,2009,Asian alone,19570
+1417,Orleans Parish,2010,Asian alone,20398
+1418,Orleans Parish,2011,Asian alone,21270
+1419,Orleans Parish,2012,Asian alone,21750
+1420,Orleans Parish,2013,Asian alone,22078
+1421,Orleans Parish,2014,Asian alone,22356
+1422,Orleans Parish,2015,Asian alone,23006
+1423,Orleans Parish,2016,Asian alone,23344
+1424,Orleans Parish,2017,Asian alone,23076
+1425,Orleans Parish,2018,Asian alone,22974
+1426,Orleans Parish,2019,Asian alone,23098
+1427,Orleans Parish,2020,Asian alone,23232
+1428,Plaquemines Parish,2000,Asian alone,1462
+1429,Plaquemines Parish,2001,Asian alone,1532
+1430,Plaquemines Parish,2002,Asian alone,1744
+1431,Plaquemines Parish,2003,Asian alone,1702
+1432,Plaquemines Parish,2004,Asian alone,1802
+1433,Plaquemines Parish,2005,Asian alone,1782
+1434,Plaquemines Parish,2006,Asian alone,1342
+1435,Plaquemines Parish,2007,Asian alone,1296
+1436,Plaquemines Parish,2008,Asian alone,1314
+1437,Plaquemines Parish,2009,Asian alone,1382
+1438,Plaquemines Parish,2010,Asian alone,1520
+1439,Plaquemines Parish,2011,Asian alone,1640
+1440,Plaquemines Parish,2012,Asian alone,1686
+1441,Plaquemines Parish,2013,Asian alone,1746
+1442,Plaquemines Parish,2014,Asian alone,1796
+1443,Plaquemines Parish,2015,Asian alone,1856
+1444,Plaquemines Parish,2016,Asian alone,1982
+1445,Plaquemines Parish,2017,Asian alone,2014
+1446,Plaquemines Parish,2018,Asian alone,2116
+1447,Plaquemines Parish,2019,Asian alone,2062
+1448,Plaquemines Parish,2020,Asian alone,2072
+1449,Pointe Coupee Parish,2000,Asian alone,114
+1450,Pointe Coupee Parish,2001,Asian alone,118
+1451,Pointe Coupee Parish,2002,Asian alone,114
+1452,Pointe Coupee Parish,2003,Asian alone,116
+1453,Pointe Coupee Parish,2004,Asian alone,116
+1454,Pointe Coupee Parish,2005,Asian alone,112
+1455,Pointe Coupee Parish,2006,Asian alone,116
+1456,Pointe Coupee Parish,2007,Asian alone,108
+1457,Pointe Coupee Parish,2008,Asian alone,116
+1458,Pointe Coupee Parish,2009,Asian alone,116
+1459,Pointe Coupee Parish,2010,Asian alone,118
+1460,Pointe Coupee Parish,2011,Asian alone,124
+1461,Pointe Coupee Parish,2012,Asian alone,138
+1462,Pointe Coupee Parish,2013,Asian alone,132
+1463,Pointe Coupee Parish,2014,Asian alone,138
+1464,Pointe Coupee Parish,2015,Asian alone,144
+1465,Pointe Coupee Parish,2016,Asian alone,140
+1466,Pointe Coupee Parish,2017,Asian alone,144
+1467,Pointe Coupee Parish,2018,Asian alone,144
+1468,Pointe Coupee Parish,2019,Asian alone,158
+1469,Pointe Coupee Parish,2020,Asian alone,170
+1470,St. Bernard Parish,2000,Asian alone,1810
+1471,St. Bernard Parish,2001,Asian alone,1748
+1472,St. Bernard Parish,2002,Asian alone,1854
+1473,St. Bernard Parish,2003,Asian alone,1860
+1474,St. Bernard Parish,2004,Asian alone,1864
+1475,St. Bernard Parish,2005,Asian alone,1890
+1476,St. Bernard Parish,2006,Asian alone,1048
+1477,St. Bernard Parish,2007,Asian alone,1086
+1478,St. Bernard Parish,2008,Asian alone,1198
+1479,St. Bernard Parish,2009,Asian alone,1276
+1480,St. Bernard Parish,2010,Asian alone,1484
+1481,St. Bernard Parish,2011,Asian alone,1612
+1482,St. Bernard Parish,2012,Asian alone,1790
+1483,St. Bernard Parish,2013,Asian alone,1956
+1484,St. Bernard Parish,2014,Asian alone,2000
+1485,St. Bernard Parish,2015,Asian alone,2036
+1486,St. Bernard Parish,2016,Asian alone,2094
+1487,St. Bernard Parish,2017,Asian alone,2072
+1488,St. Bernard Parish,2018,Asian alone,2200
+1489,St. Bernard Parish,2019,Asian alone,2208
+1490,St. Bernard Parish,2020,Asian alone,2252
+1491,St. Charles Parish,2000,Asian alone,566
+1492,St. Charles Parish,2001,Asian alone,676
+1493,St. Charles Parish,2002,Asian alone,694
+1494,St. Charles Parish,2003,Asian alone,756
+1495,St. Charles Parish,2004,Asian alone,794
+1496,St. Charles Parish,2005,Asian alone,790
+1497,St. Charles Parish,2006,Asian alone,864
+1498,St. Charles Parish,2007,Asian alone,850
+1499,St. Charles Parish,2008,Asian alone,824
+1500,St. Charles Parish,2009,Asian alone,864
+1501,St. Charles Parish,2010,Asian alone,918
+1502,St. Charles Parish,2011,Asian alone,978
+1503,St. Charles Parish,2012,Asian alone,976
+1504,St. Charles Parish,2013,Asian alone,1044
+1505,St. Charles Parish,2014,Asian alone,1008
+1506,St. Charles Parish,2015,Asian alone,1144
+1507,St. Charles Parish,2016,Asian alone,1148
+1508,St. Charles Parish,2017,Asian alone,1180
+1509,St. Charles Parish,2018,Asian alone,1158
+1510,St. Charles Parish,2019,Asian alone,1174
+1511,St. Charles Parish,2020,Asian alone,1232
+1512,St. Helena Parish,2000,Asian alone,22
+1513,St. Helena Parish,2001,Asian alone,22
+1514,St. Helena Parish,2002,Asian alone,22
+1515,St. Helena Parish,2003,Asian alone,22
+1516,St. Helena Parish,2004,Asian alone,22
+1517,St. Helena Parish,2005,Asian alone,18
+1518,St. Helena Parish,2006,Asian alone,18
+1519,St. Helena Parish,2007,Asian alone,18
+1520,St. Helena Parish,2008,Asian alone,18
+1521,St. Helena Parish,2009,Asian alone,18
+1522,St. Helena Parish,2010,Asian alone,18
+1523,St. Helena Parish,2011,Asian alone,18
+1524,St. Helena Parish,2012,Asian alone,22
+1525,St. Helena Parish,2013,Asian alone,28
+1526,St. Helena Parish,2014,Asian alone,36
+1527,St. Helena Parish,2015,Asian alone,42
+1528,St. Helena Parish,2016,Asian alone,36
+1529,St. Helena Parish,2017,Asian alone,36
+1530,St. Helena Parish,2018,Asian alone,46
+1531,St. Helena Parish,2019,Asian alone,46
+1532,St. Helena Parish,2020,Asian alone,48
+1533,St. James Parish,2000,Asian alone,20
+1534,St. James Parish,2001,Asian alone,20
+1535,St. James Parish,2002,Asian alone,24
+1536,St. James Parish,2003,Asian alone,32
+1537,St. James Parish,2004,Asian alone,38
+1538,St. James Parish,2005,Asian alone,74
+1539,St. James Parish,2006,Asian alone,78
+1540,St. James Parish,2007,Asian alone,84
+1541,St. James Parish,2008,Asian alone,90
+1542,St. James Parish,2009,Asian alone,96
+1543,St. James Parish,2010,Asian alone,108
+1544,St. James Parish,2011,Asian alone,106
+1545,St. James Parish,2012,Asian alone,128
+1546,St. James Parish,2013,Asian alone,142
+1547,St. James Parish,2014,Asian alone,156
+1548,St. James Parish,2015,Asian alone,152
+1549,St. James Parish,2016,Asian alone,158
+1550,St. James Parish,2017,Asian alone,158
+1551,St. James Parish,2018,Asian alone,158
+1552,St. James Parish,2019,Asian alone,154
+1553,St. James Parish,2020,Asian alone,162
+1554,St. John the Baptist Parish,2000,Asian alone,488
+1555,St. John the Baptist Parish,2001,Asian alone,562
+1556,St. John the Baptist Parish,2002,Asian alone,550
+1557,St. John the Baptist Parish,2003,Asian alone,594
+1558,St. John the Baptist Parish,2004,Asian alone,590
+1559,St. John the Baptist Parish,2005,Asian alone,604
+1560,St. John the Baptist Parish,2006,Asian alone,646
+1561,St. John the Baptist Parish,2007,Asian alone,626
+1562,St. John the Baptist Parish,2008,Asian alone,628
+1563,St. John the Baptist Parish,2009,Asian alone,602
+1564,St. John the Baptist Parish,2010,Asian alone,668
+1565,St. John the Baptist Parish,2011,Asian alone,732
+1566,St. John the Baptist Parish,2012,Asian alone,704
+1567,St. John the Baptist Parish,2013,Asian alone,690
+1568,St. John the Baptist Parish,2014,Asian alone,778
+1569,St. John the Baptist Parish,2015,Asian alone,816
+1570,St. John the Baptist Parish,2016,Asian alone,888
+1571,St. John the Baptist Parish,2017,Asian alone,940
+1572,St. John the Baptist Parish,2018,Asian alone,976
+1573,St. John the Baptist Parish,2019,Asian alone,1062
+1574,St. John the Baptist Parish,2020,Asian alone,1028
+1575,St. Tammany Parish,2000,Asian alone,2910
+1576,St. Tammany Parish,2001,Asian alone,3278
+1577,St. Tammany Parish,2002,Asian alone,3630
+1578,St. Tammany Parish,2003,Asian alone,3882
+1579,St. Tammany Parish,2004,Asian alone,4270
+1580,St. Tammany Parish,2005,Asian alone,4826
+1581,St. Tammany Parish,2006,Asian alone,5498
+1582,St. Tammany Parish,2007,Asian alone,5578
+1583,St. Tammany Parish,2008,Asian alone,5718
+1584,St. Tammany Parish,2009,Asian alone,5962
+1585,St. Tammany Parish,2010,Asian alone,6146
+1586,St. Tammany Parish,2011,Asian alone,6418
+1587,St. Tammany Parish,2012,Asian alone,6728
+1588,St. Tammany Parish,2013,Asian alone,6938
+1589,St. Tammany Parish,2014,Asian alone,7128
+1590,St. Tammany Parish,2015,Asian alone,7428
+1591,St. Tammany Parish,2016,Asian alone,7574
+1592,St. Tammany Parish,2017,Asian alone,7536
+1593,St. Tammany Parish,2018,Asian alone,7610
+1594,St. Tammany Parish,2019,Asian alone,7744
+1595,St. Tammany Parish,2020,Asian alone,7898
+1596,Tangipahoa Parish,2000,Asian alone,816
+1597,Tangipahoa Parish,2001,Asian alone,928
+1598,Tangipahoa Parish,2002,Asian alone,1020
+1599,Tangipahoa Parish,2003,Asian alone,1056
+1600,Tangipahoa Parish,2004,Asian alone,1116
+1601,Tangipahoa Parish,2005,Asian alone,1128
+1602,Tangipahoa Parish,2006,Asian alone,1232
+1603,Tangipahoa Parish,2007,Asian alone,1356
+1604,Tangipahoa Parish,2008,Asian alone,1432
+1605,Tangipahoa Parish,2009,Asian alone,1534
+1606,Tangipahoa Parish,2010,Asian alone,1554
+1607,Tangipahoa Parish,2011,Asian alone,1682
+1608,Tangipahoa Parish,2012,Asian alone,1706
+1609,Tangipahoa Parish,2013,Asian alone,1766
+1610,Tangipahoa Parish,2014,Asian alone,1862
+1611,Tangipahoa Parish,2015,Asian alone,1880
+1612,Tangipahoa Parish,2016,Asian alone,1908
+1613,Tangipahoa Parish,2017,Asian alone,1868
+1614,Tangipahoa Parish,2018,Asian alone,1898
+1615,Tangipahoa Parish,2019,Asian alone,1944
+1616,Tangipahoa Parish,2020,Asian alone,1996
+1617,Washington Parish,2000,Asian alone,148
+1618,Washington Parish,2001,Asian alone,158
+1619,Washington Parish,2002,Asian alone,168
+1620,Washington Parish,2003,Asian alone,166
+1621,Washington Parish,2004,Asian alone,172
+1622,Washington Parish,2005,Asian alone,192
+1623,Washington Parish,2006,Asian alone,210
+1624,Washington Parish,2007,Asian alone,202
+1625,Washington Parish,2008,Asian alone,222
+1626,Washington Parish,2009,Asian alone,222
+1627,Washington Parish,2010,Asian alone,210
+1628,Washington Parish,2011,Asian alone,238
+1629,Washington Parish,2012,Asian alone,260
+1630,Washington Parish,2013,Asian alone,266
+1631,Washington Parish,2014,Asian alone,248
+1632,Washington Parish,2015,Asian alone,252
+1633,Washington Parish,2016,Asian alone,254
+1634,Washington Parish,2017,Asian alone,262
+1635,Washington Parish,2018,Asian alone,288
+1636,Washington Parish,2019,Asian alone,306
+1637,Washington Parish,2020,Asian alone,318
+1638,West Baton Rouge Parish,2000,Asian alone,88
+1639,West Baton Rouge Parish,2001,Asian alone,90
+1640,West Baton Rouge Parish,2002,Asian alone,108
+1641,West Baton Rouge Parish,2003,Asian alone,114
+1642,West Baton Rouge Parish,2004,Asian alone,120
+1643,West Baton Rouge Parish,2005,Asian alone,128
+1644,West Baton Rouge Parish,2006,Asian alone,136
+1645,West Baton Rouge Parish,2007,Asian alone,138
+1646,West Baton Rouge Parish,2008,Asian alone,154
+1647,West Baton Rouge Parish,2009,Asian alone,164
+1648,West Baton Rouge Parish,2010,Asian alone,162
+1649,West Baton Rouge Parish,2011,Asian alone,210
+1650,West Baton Rouge Parish,2012,Asian alone,216
+1651,West Baton Rouge Parish,2013,Asian alone,238
+1652,West Baton Rouge Parish,2014,Asian alone,244
+1653,West Baton Rouge Parish,2015,Asian alone,260
+1654,West Baton Rouge Parish,2016,Asian alone,264
+1655,West Baton Rouge Parish,2017,Asian alone,294
+1656,West Baton Rouge Parish,2018,Asian alone,364
+1657,West Baton Rouge Parish,2019,Asian alone,396
+1658,West Baton Rouge Parish,2020,Asian alone,392
+1659,West Feliciana Parish,2000,Asian alone,54
+1660,West Feliciana Parish,2001,Asian alone,56
+1661,West Feliciana Parish,2002,Asian alone,56
+1662,West Feliciana Parish,2003,Asian alone,54
+1663,West Feliciana Parish,2004,Asian alone,56
+1664,West Feliciana Parish,2005,Asian alone,58
+1665,West Feliciana Parish,2006,Asian alone,62
+1666,West Feliciana Parish,2007,Asian alone,66
+1667,West Feliciana Parish,2008,Asian alone,62
+1668,West Feliciana Parish,2009,Asian alone,62
+1669,West Feliciana Parish,2010,Asian alone,66
+1670,West Feliciana Parish,2011,Asian alone,66
+1671,West Feliciana Parish,2012,Asian alone,66
+1672,West Feliciana Parish,2013,Asian alone,72
+1673,West Feliciana Parish,2014,Asian alone,74
+1674,West Feliciana Parish,2015,Asian alone,92
+1675,West Feliciana Parish,2016,Asian alone,124
+1676,West Feliciana Parish,2017,Asian alone,156
+1677,West Feliciana Parish,2018,Asian alone,174
+1678,West Feliciana Parish,2019,Asian alone,230
+1679,West Feliciana Parish,2020,Asian alone,264
+1680,Ascension Parish,2000,Native Hawaiian and Other Pacific Islander alone,38
+1681,Ascension Parish,2001,Native Hawaiian and Other Pacific Islander alone,52
+1682,Ascension Parish,2002,Native Hawaiian and Other Pacific Islander alone,58
+1683,Ascension Parish,2003,Native Hawaiian and Other Pacific Islander alone,76
+1684,Ascension Parish,2004,Native Hawaiian and Other Pacific Islander alone,90
+1685,Ascension Parish,2005,Native Hawaiian and Other Pacific Islander alone,116
+1686,Ascension Parish,2006,Native Hawaiian and Other Pacific Islander alone,102
+1687,Ascension Parish,2007,Native Hawaiian and Other Pacific Islander alone,128
+1688,Ascension Parish,2008,Native Hawaiian and Other Pacific Islander alone,154
+1689,Ascension Parish,2009,Native Hawaiian and Other Pacific Islander alone,168
+1690,Ascension Parish,2010,Native Hawaiian and Other Pacific Islander alone,168
+1691,Ascension Parish,2011,Native Hawaiian and Other Pacific Islander alone,188
+1692,Ascension Parish,2012,Native Hawaiian and Other Pacific Islander alone,190
+1693,Ascension Parish,2013,Native Hawaiian and Other Pacific Islander alone,194
+1694,Ascension Parish,2014,Native Hawaiian and Other Pacific Islander alone,168
+1695,Ascension Parish,2015,Native Hawaiian and Other Pacific Islander alone,216
+1696,Ascension Parish,2016,Native Hawaiian and Other Pacific Islander alone,200
+1697,Ascension Parish,2017,Native Hawaiian and Other Pacific Islander alone,190
+1698,Ascension Parish,2018,Native Hawaiian and Other Pacific Islander alone,204
+1699,Ascension Parish,2019,Native Hawaiian and Other Pacific Islander alone,226
+1700,Ascension Parish,2020,Native Hawaiian and Other Pacific Islander alone,192
+1701,Caddo Parish,2000,Native Hawaiian and Other Pacific Islander alone,154
+1702,Caddo Parish,2001,Native Hawaiian and Other Pacific Islander alone,214
+1703,Caddo Parish,2002,Native Hawaiian and Other Pacific Islander alone,210
+1704,Caddo Parish,2003,Native Hawaiian and Other Pacific Islander alone,232
+1705,Caddo Parish,2004,Native Hawaiian and Other Pacific Islander alone,258
+1706,Caddo Parish,2005,Native Hawaiian and Other Pacific Islander alone,236
+1707,Caddo Parish,2006,Native Hawaiian and Other Pacific Islander alone,270
+1708,Caddo Parish,2007,Native Hawaiian and Other Pacific Islander alone,268
+1709,Caddo Parish,2008,Native Hawaiian and Other Pacific Islander alone,292
+1710,Caddo Parish,2009,Native Hawaiian and Other Pacific Islander alone,298
+1711,Caddo Parish,2010,Native Hawaiian and Other Pacific Islander alone,326
+1712,Caddo Parish,2011,Native Hawaiian and Other Pacific Islander alone,306
+1713,Caddo Parish,2012,Native Hawaiian and Other Pacific Islander alone,306
+1714,Caddo Parish,2013,Native Hawaiian and Other Pacific Islander alone,336
+1715,Caddo Parish,2014,Native Hawaiian and Other Pacific Islander alone,334
+1716,Caddo Parish,2015,Native Hawaiian and Other Pacific Islander alone,320
+1717,Caddo Parish,2016,Native Hawaiian and Other Pacific Islander alone,316
+1718,Caddo Parish,2017,Native Hawaiian and Other Pacific Islander alone,320
+1719,Caddo Parish,2018,Native Hawaiian and Other Pacific Islander alone,306
+1720,Caddo Parish,2019,Native Hawaiian and Other Pacific Islander alone,322
+1721,Caddo Parish,2020,Native Hawaiian and Other Pacific Islander alone,302
+1722,East Baton Rouge Parish,2000,Native Hawaiian and Other Pacific Islander alone,256
+1723,East Baton Rouge Parish,2001,Native Hawaiian and Other Pacific Islander alone,318
+1724,East Baton Rouge Parish,2002,Native Hawaiian and Other Pacific Islander alone,320
+1725,East Baton Rouge Parish,2003,Native Hawaiian and Other Pacific Islander alone,314
+1726,East Baton Rouge Parish,2004,Native Hawaiian and Other Pacific Islander alone,332
+1727,East Baton Rouge Parish,2005,Native Hawaiian and Other Pacific Islander alone,318
+1728,East Baton Rouge Parish,2006,Native Hawaiian and Other Pacific Islander alone,322
+1729,East Baton Rouge Parish,2007,Native Hawaiian and Other Pacific Islander alone,366
+1730,East Baton Rouge Parish,2008,Native Hawaiian and Other Pacific Islander alone,328
+1731,East Baton Rouge Parish,2009,Native Hawaiian and Other Pacific Islander alone,342
+1732,East Baton Rouge Parish,2010,Native Hawaiian and Other Pacific Islander alone,374
+1733,East Baton Rouge Parish,2011,Native Hawaiian and Other Pacific Islander alone,372
+1734,East Baton Rouge Parish,2012,Native Hawaiian and Other Pacific Islander alone,402
+1735,East Baton Rouge Parish,2013,Native Hawaiian and Other Pacific Islander alone,374
+1736,East Baton Rouge Parish,2014,Native Hawaiian and Other Pacific Islander alone,396
+1737,East Baton Rouge Parish,2015,Native Hawaiian and Other Pacific Islander alone,462
+1738,East Baton Rouge Parish,2016,Native Hawaiian and Other Pacific Islander alone,396
+1739,East Baton Rouge Parish,2017,Native Hawaiian and Other Pacific Islander alone,384
+1740,East Baton Rouge Parish,2018,Native Hawaiian and Other Pacific Islander alone,426
+1741,East Baton Rouge Parish,2019,Native Hawaiian and Other Pacific Islander alone,432
+1742,East Baton Rouge Parish,2020,Native Hawaiian and Other Pacific Islander alone,414
+1743,East Feliciana Parish,2000,Native Hawaiian and Other Pacific Islander alone,2
+1744,East Feliciana Parish,2001,Native Hawaiian and Other Pacific Islander alone,2
+1745,East Feliciana Parish,2002,Native Hawaiian and Other Pacific Islander alone,2
+1746,East Feliciana Parish,2003,Native Hawaiian and Other Pacific Islander alone,2
+1747,East Feliciana Parish,2004,Native Hawaiian and Other Pacific Islander alone,4
+1748,East Feliciana Parish,2005,Native Hawaiian and Other Pacific Islander alone,2
+1749,East Feliciana Parish,2006,Native Hawaiian and Other Pacific Islander alone,6
+1750,East Feliciana Parish,2007,Native Hawaiian and Other Pacific Islander alone,6
+1751,East Feliciana Parish,2008,Native Hawaiian and Other Pacific Islander alone,4
+1752,East Feliciana Parish,2009,Native Hawaiian and Other Pacific Islander alone,8
+1753,East Feliciana Parish,2010,Native Hawaiian and Other Pacific Islander alone,6
+1754,East Feliciana Parish,2011,Native Hawaiian and Other Pacific Islander alone,6
+1755,East Feliciana Parish,2012,Native Hawaiian and Other Pacific Islander alone,12
+1756,East Feliciana Parish,2013,Native Hawaiian and Other Pacific Islander alone,12
+1757,East Feliciana Parish,2014,Native Hawaiian and Other Pacific Islander alone,10
+1758,East Feliciana Parish,2015,Native Hawaiian and Other Pacific Islander alone,6
+1759,East Feliciana Parish,2016,Native Hawaiian and Other Pacific Islander alone,6
+1760,East Feliciana Parish,2017,Native Hawaiian and Other Pacific Islander alone,6
+1761,East Feliciana Parish,2018,Native Hawaiian and Other Pacific Islander alone,6
+1762,East Feliciana Parish,2019,Native Hawaiian and Other Pacific Islander alone,8
+1763,East Feliciana Parish,2020,Native Hawaiian and Other Pacific Islander alone,8
+1764,Iberville Parish,2000,Native Hawaiian and Other Pacific Islander alone,8
+1765,Iberville Parish,2001,Native Hawaiian and Other Pacific Islander alone,8
+1766,Iberville Parish,2002,Native Hawaiian and Other Pacific Islander alone,12
+1767,Iberville Parish,2003,Native Hawaiian and Other Pacific Islander alone,8
+1768,Iberville Parish,2004,Native Hawaiian and Other Pacific Islander alone,10
+1769,Iberville Parish,2005,Native Hawaiian and Other Pacific Islander alone,10
+1770,Iberville Parish,2006,Native Hawaiian and Other Pacific Islander alone,6
+1771,Iberville Parish,2007,Native Hawaiian and Other Pacific Islander alone,10
+1772,Iberville Parish,2008,Native Hawaiian and Other Pacific Islander alone,10
+1773,Iberville Parish,2009,Native Hawaiian and Other Pacific Islander alone,6
+1774,Iberville Parish,2010,Native Hawaiian and Other Pacific Islander alone,8
+1775,Iberville Parish,2011,Native Hawaiian and Other Pacific Islander alone,10
+1776,Iberville Parish,2012,Native Hawaiian and Other Pacific Islander alone,10
+1777,Iberville Parish,2013,Native Hawaiian and Other Pacific Islander alone,22
+1778,Iberville Parish,2014,Native Hawaiian and Other Pacific Islander alone,14
+1779,Iberville Parish,2015,Native Hawaiian and Other Pacific Islander alone,14
+1780,Iberville Parish,2016,Native Hawaiian and Other Pacific Islander alone,14
+1781,Iberville Parish,2017,Native Hawaiian and Other Pacific Islander alone,14
+1782,Iberville Parish,2018,Native Hawaiian and Other Pacific Islander alone,14
+1783,Iberville Parish,2019,Native Hawaiian and Other Pacific Islander alone,16
+1784,Iberville Parish,2020,Native Hawaiian and Other Pacific Islander alone,16
+1785,Jefferson Parish,2000,Native Hawaiian and Other Pacific Islander alone,390
+1786,Jefferson Parish,2001,Native Hawaiian and Other Pacific Islander alone,444
+1787,Jefferson Parish,2002,Native Hawaiian and Other Pacific Islander alone,500
+1788,Jefferson Parish,2003,Native Hawaiian and Other Pacific Islander alone,482
+1789,Jefferson Parish,2004,Native Hawaiian and Other Pacific Islander alone,468
+1790,Jefferson Parish,2005,Native Hawaiian and Other Pacific Islander alone,412
+1791,Jefferson Parish,2006,Native Hawaiian and Other Pacific Islander alone,504
+1792,Jefferson Parish,2007,Native Hawaiian and Other Pacific Islander alone,618
+1793,Jefferson Parish,2008,Native Hawaiian and Other Pacific Islander alone,600
+1794,Jefferson Parish,2009,Native Hawaiian and Other Pacific Islander alone,642
+1795,Jefferson Parish,2010,Native Hawaiian and Other Pacific Islander alone,638
+1796,Jefferson Parish,2011,Native Hawaiian and Other Pacific Islander alone,626
+1797,Jefferson Parish,2012,Native Hawaiian and Other Pacific Islander alone,614
+1798,Jefferson Parish,2013,Native Hawaiian and Other Pacific Islander alone,588
+1799,Jefferson Parish,2014,Native Hawaiian and Other Pacific Islander alone,556
+1800,Jefferson Parish,2015,Native Hawaiian and Other Pacific Islander alone,564
+1801,Jefferson Parish,2016,Native Hawaiian and Other Pacific Islander alone,624
+1802,Jefferson Parish,2017,Native Hawaiian and Other Pacific Islander alone,632
+1803,Jefferson Parish,2018,Native Hawaiian and Other Pacific Islander alone,616
+1804,Jefferson Parish,2019,Native Hawaiian and Other Pacific Islander alone,604
+1805,Jefferson Parish,2020,Native Hawaiian and Other Pacific Islander alone,568
+1806,Livingston Parish,2000,Native Hawaiian and Other Pacific Islander alone,32
+1807,Livingston Parish,2001,Native Hawaiian and Other Pacific Islander alone,32
+1808,Livingston Parish,2002,Native Hawaiian and Other Pacific Islander alone,28
+1809,Livingston Parish,2003,Native Hawaiian and Other Pacific Islander alone,42
+1810,Livingston Parish,2004,Native Hawaiian and Other Pacific Islander alone,46
+1811,Livingston Parish,2005,Native Hawaiian and Other Pacific Islander alone,38
+1812,Livingston Parish,2006,Native Hawaiian and Other Pacific Islander alone,42
+1813,Livingston Parish,2007,Native Hawaiian and Other Pacific Islander alone,46
+1814,Livingston Parish,2008,Native Hawaiian and Other Pacific Islander alone,56
+1815,Livingston Parish,2009,Native Hawaiian and Other Pacific Islander alone,58
+1816,Livingston Parish,2010,Native Hawaiian and Other Pacific Islander alone,56
+1817,Livingston Parish,2011,Native Hawaiian and Other Pacific Islander alone,64
+1818,Livingston Parish,2012,Native Hawaiian and Other Pacific Islander alone,74
+1819,Livingston Parish,2013,Native Hawaiian and Other Pacific Islander alone,72
+1820,Livingston Parish,2014,Native Hawaiian and Other Pacific Islander alone,86
+1821,Livingston Parish,2015,Native Hawaiian and Other Pacific Islander alone,96
+1822,Livingston Parish,2016,Native Hawaiian and Other Pacific Islander alone,126
+1823,Livingston Parish,2017,Native Hawaiian and Other Pacific Islander alone,134
+1824,Livingston Parish,2018,Native Hawaiian and Other Pacific Islander alone,146
+1825,Livingston Parish,2019,Native Hawaiian and Other Pacific Islander alone,144
+1826,Livingston Parish,2020,Native Hawaiian and Other Pacific Islander alone,150
+1827,Orleans Parish,2000,Native Hawaiian and Other Pacific Islander alone,232
+1828,Orleans Parish,2001,Native Hawaiian and Other Pacific Islander alone,334
+1829,Orleans Parish,2002,Native Hawaiian and Other Pacific Islander alone,356
+1830,Orleans Parish,2003,Native Hawaiian and Other Pacific Islander alone,332
+1831,Orleans Parish,2004,Native Hawaiian and Other Pacific Islander alone,374
+1832,Orleans Parish,2005,Native Hawaiian and Other Pacific Islander alone,346
+1833,Orleans Parish,2006,Native Hawaiian and Other Pacific Islander alone,382
+1834,Orleans Parish,2007,Native Hawaiian and Other Pacific Islander alone,414
+1835,Orleans Parish,2008,Native Hawaiian and Other Pacific Islander alone,430
+1836,Orleans Parish,2009,Native Hawaiian and Other Pacific Islander alone,446
+1837,Orleans Parish,2010,Native Hawaiian and Other Pacific Islander alone,480
+1838,Orleans Parish,2011,Native Hawaiian and Other Pacific Islander alone,466
+1839,Orleans Parish,2012,Native Hawaiian and Other Pacific Islander alone,496
+1840,Orleans Parish,2013,Native Hawaiian and Other Pacific Islander alone,484
+1841,Orleans Parish,2014,Native Hawaiian and Other Pacific Islander alone,516
+1842,Orleans Parish,2015,Native Hawaiian and Other Pacific Islander alone,486
+1843,Orleans Parish,2016,Native Hawaiian and Other Pacific Islander alone,436
+1844,Orleans Parish,2017,Native Hawaiian and Other Pacific Islander alone,430
+1845,Orleans Parish,2018,Native Hawaiian and Other Pacific Islander alone,428
+1846,Orleans Parish,2019,Native Hawaiian and Other Pacific Islander alone,416
+1847,Orleans Parish,2020,Native Hawaiian and Other Pacific Islander alone,380
+1848,Plaquemines Parish,2000,Native Hawaiian and Other Pacific Islander alone,8
+1849,Plaquemines Parish,2001,Native Hawaiian and Other Pacific Islander alone,10
+1850,Plaquemines Parish,2002,Native Hawaiian and Other Pacific Islander alone,22
+1851,Plaquemines Parish,2003,Native Hawaiian and Other Pacific Islander alone,28
+1852,Plaquemines Parish,2004,Native Hawaiian and Other Pacific Islander alone,22
+1853,Plaquemines Parish,2005,Native Hawaiian and Other Pacific Islander alone,52
+1854,Plaquemines Parish,2006,Native Hawaiian and Other Pacific Islander alone,54
+1855,Plaquemines Parish,2007,Native Hawaiian and Other Pacific Islander alone,54
+1856,Plaquemines Parish,2008,Native Hawaiian and Other Pacific Islander alone,64
+1857,Plaquemines Parish,2009,Native Hawaiian and Other Pacific Islander alone,66
+1858,Plaquemines Parish,2010,Native Hawaiian and Other Pacific Islander alone,76
+1859,Plaquemines Parish,2011,Native Hawaiian and Other Pacific Islander alone,74
+1860,Plaquemines Parish,2012,Native Hawaiian and Other Pacific Islander alone,74
+1861,Plaquemines Parish,2013,Native Hawaiian and Other Pacific Islander alone,74
+1862,Plaquemines Parish,2014,Native Hawaiian and Other Pacific Islander alone,84
+1863,Plaquemines Parish,2015,Native Hawaiian and Other Pacific Islander alone,92
+1864,Plaquemines Parish,2016,Native Hawaiian and Other Pacific Islander alone,100
+1865,Plaquemines Parish,2017,Native Hawaiian and Other Pacific Islander alone,96
+1866,Plaquemines Parish,2018,Native Hawaiian and Other Pacific Islander alone,90
+1867,Plaquemines Parish,2019,Native Hawaiian and Other Pacific Islander alone,74
+1868,Plaquemines Parish,2020,Native Hawaiian and Other Pacific Islander alone,74
+1869,Pointe Coupee Parish,2000,Native Hawaiian and Other Pacific Islander alone,2
+1870,Pointe Coupee Parish,2001,Native Hawaiian and Other Pacific Islander alone,2
+1871,Pointe Coupee Parish,2002,Native Hawaiian and Other Pacific Islander alone,2
+1872,Pointe Coupee Parish,2003,Native Hawaiian and Other Pacific Islander alone,0
+1873,Pointe Coupee Parish,2004,Native Hawaiian and Other Pacific Islander alone,2
+1874,Pointe Coupee Parish,2005,Native Hawaiian and Other Pacific Islander alone,0
+1875,Pointe Coupee Parish,2006,Native Hawaiian and Other Pacific Islander alone,0
+1876,Pointe Coupee Parish,2007,Native Hawaiian and Other Pacific Islander alone,0
+1877,Pointe Coupee Parish,2008,Native Hawaiian and Other Pacific Islander alone,0
+1878,Pointe Coupee Parish,2009,Native Hawaiian and Other Pacific Islander alone,0
+1879,Pointe Coupee Parish,2010,Native Hawaiian and Other Pacific Islander alone,0
+1880,Pointe Coupee Parish,2011,Native Hawaiian and Other Pacific Islander alone,0
+1881,Pointe Coupee Parish,2012,Native Hawaiian and Other Pacific Islander alone,0
+1882,Pointe Coupee Parish,2013,Native Hawaiian and Other Pacific Islander alone,2
+1883,Pointe Coupee Parish,2014,Native Hawaiian and Other Pacific Islander alone,2
+1884,Pointe Coupee Parish,2015,Native Hawaiian and Other Pacific Islander alone,2
+1885,Pointe Coupee Parish,2016,Native Hawaiian and Other Pacific Islander alone,2
+1886,Pointe Coupee Parish,2017,Native Hawaiian and Other Pacific Islander alone,2
+1887,Pointe Coupee Parish,2018,Native Hawaiian and Other Pacific Islander alone,2
+1888,Pointe Coupee Parish,2019,Native Hawaiian and Other Pacific Islander alone,2
+1889,Pointe Coupee Parish,2020,Native Hawaiian and Other Pacific Islander alone,2
+1890,St. Bernard Parish,2000,Native Hawaiian and Other Pacific Islander alone,28
+1891,St. Bernard Parish,2001,Native Hawaiian and Other Pacific Islander alone,30
+1892,St. Bernard Parish,2002,Native Hawaiian and Other Pacific Islander alone,34
+1893,St. Bernard Parish,2003,Native Hawaiian and Other Pacific Islander alone,34
+1894,St. Bernard Parish,2004,Native Hawaiian and Other Pacific Islander alone,40
+1895,St. Bernard Parish,2005,Native Hawaiian and Other Pacific Islander alone,58
+1896,St. Bernard Parish,2006,Native Hawaiian and Other Pacific Islander alone,30
+1897,St. Bernard Parish,2007,Native Hawaiian and Other Pacific Islander alone,38
+1898,St. Bernard Parish,2008,Native Hawaiian and Other Pacific Islander alone,44
+1899,St. Bernard Parish,2009,Native Hawaiian and Other Pacific Islander alone,60
+1900,St. Bernard Parish,2010,Native Hawaiian and Other Pacific Islander alone,58
+1901,St. Bernard Parish,2011,Native Hawaiian and Other Pacific Islander alone,70
+1902,St. Bernard Parish,2012,Native Hawaiian and Other Pacific Islander alone,64
+1903,St. Bernard Parish,2013,Native Hawaiian and Other Pacific Islander alone,74
+1904,St. Bernard Parish,2014,Native Hawaiian and Other Pacific Islander alone,68
+1905,St. Bernard Parish,2015,Native Hawaiian and Other Pacific Islander alone,70
+1906,St. Bernard Parish,2016,Native Hawaiian and Other Pacific Islander alone,54
+1907,St. Bernard Parish,2017,Native Hawaiian and Other Pacific Islander alone,52
+1908,St. Bernard Parish,2018,Native Hawaiian and Other Pacific Islander alone,60
+1909,St. Bernard Parish,2019,Native Hawaiian and Other Pacific Islander alone,54
+1910,St. Bernard Parish,2020,Native Hawaiian and Other Pacific Islander alone,56
+1911,St. Charles Parish,2000,Native Hawaiian and Other Pacific Islander alone,14
+1912,St. Charles Parish,2001,Native Hawaiian and Other Pacific Islander alone,12
+1913,St. Charles Parish,2002,Native Hawaiian and Other Pacific Islander alone,18
+1914,St. Charles Parish,2003,Native Hawaiian and Other Pacific Islander alone,18
+1915,St. Charles Parish,2004,Native Hawaiian and Other Pacific Islander alone,28
+1916,St. Charles Parish,2005,Native Hawaiian and Other Pacific Islander alone,26
+1917,St. Charles Parish,2006,Native Hawaiian and Other Pacific Islander alone,28
+1918,St. Charles Parish,2007,Native Hawaiian and Other Pacific Islander alone,28
+1919,St. Charles Parish,2008,Native Hawaiian and Other Pacific Islander alone,36
+1920,St. Charles Parish,2009,Native Hawaiian and Other Pacific Islander alone,42
+1921,St. Charles Parish,2010,Native Hawaiian and Other Pacific Islander alone,44
+1922,St. Charles Parish,2011,Native Hawaiian and Other Pacific Islander alone,44
+1923,St. Charles Parish,2012,Native Hawaiian and Other Pacific Islander alone,48
+1924,St. Charles Parish,2013,Native Hawaiian and Other Pacific Islander alone,58
+1925,St. Charles Parish,2014,Native Hawaiian and Other Pacific Islander alone,60
+1926,St. Charles Parish,2015,Native Hawaiian and Other Pacific Islander alone,54
+1927,St. Charles Parish,2016,Native Hawaiian and Other Pacific Islander alone,54
+1928,St. Charles Parish,2017,Native Hawaiian and Other Pacific Islander alone,54
+1929,St. Charles Parish,2018,Native Hawaiian and Other Pacific Islander alone,56
+1930,St. Charles Parish,2019,Native Hawaiian and Other Pacific Islander alone,66
+1931,St. Charles Parish,2020,Native Hawaiian and Other Pacific Islander alone,64
+1932,St. Helena Parish,2000,Native Hawaiian and Other Pacific Islander alone,2
+1933,St. Helena Parish,2001,Native Hawaiian and Other Pacific Islander alone,2
+1934,St. Helena Parish,2002,Native Hawaiian and Other Pacific Islander alone,2
+1935,St. Helena Parish,2003,Native Hawaiian and Other Pacific Islander alone,6
+1936,St. Helena Parish,2004,Native Hawaiian and Other Pacific Islander alone,4
+1937,St. Helena Parish,2005,Native Hawaiian and Other Pacific Islander alone,8
+1938,St. Helena Parish,2006,Native Hawaiian and Other Pacific Islander alone,8
+1939,St. Helena Parish,2007,Native Hawaiian and Other Pacific Islander alone,8
+1940,St. Helena Parish,2008,Native Hawaiian and Other Pacific Islander alone,6
+1941,St. Helena Parish,2009,Native Hawaiian and Other Pacific Islander alone,8
+1942,St. Helena Parish,2010,Native Hawaiian and Other Pacific Islander alone,10
+1943,St. Helena Parish,2011,Native Hawaiian and Other Pacific Islander alone,10
+1944,St. Helena Parish,2012,Native Hawaiian and Other Pacific Islander alone,10
+1945,St. Helena Parish,2013,Native Hawaiian and Other Pacific Islander alone,10
+1946,St. Helena Parish,2014,Native Hawaiian and Other Pacific Islander alone,10
+1947,St. Helena Parish,2015,Native Hawaiian and Other Pacific Islander alone,14
+1948,St. Helena Parish,2016,Native Hawaiian and Other Pacific Islander alone,16
+1949,St. Helena Parish,2017,Native Hawaiian and Other Pacific Islander alone,14
+1950,St. Helena Parish,2018,Native Hawaiian and Other Pacific Islander alone,14
+1951,St. Helena Parish,2019,Native Hawaiian and Other Pacific Islander alone,14
+1952,St. Helena Parish,2020,Native Hawaiian and Other Pacific Islander alone,14
+1953,St. James Parish,2000,Native Hawaiian and Other Pacific Islander alone,0
+1954,St. James Parish,2001,Native Hawaiian and Other Pacific Islander alone,0
+1955,St. James Parish,2002,Native Hawaiian and Other Pacific Islander alone,0
+1956,St. James Parish,2003,Native Hawaiian and Other Pacific Islander alone,2
+1957,St. James Parish,2004,Native Hawaiian and Other Pacific Islander alone,0
+1958,St. James Parish,2005,Native Hawaiian and Other Pacific Islander alone,2
+1959,St. James Parish,2006,Native Hawaiian and Other Pacific Islander alone,6
+1960,St. James Parish,2007,Native Hawaiian and Other Pacific Islander alone,4
+1961,St. James Parish,2008,Native Hawaiian and Other Pacific Islander alone,4
+1962,St. James Parish,2009,Native Hawaiian and Other Pacific Islander alone,4
+1963,St. James Parish,2010,Native Hawaiian and Other Pacific Islander alone,6
+1964,St. James Parish,2011,Native Hawaiian and Other Pacific Islander alone,6
+1965,St. James Parish,2012,Native Hawaiian and Other Pacific Islander alone,10
+1966,St. James Parish,2013,Native Hawaiian and Other Pacific Islander alone,8
+1967,St. James Parish,2014,Native Hawaiian and Other Pacific Islander alone,8
+1968,St. James Parish,2015,Native Hawaiian and Other Pacific Islander alone,8
+1969,St. James Parish,2016,Native Hawaiian and Other Pacific Islander alone,8
+1970,St. James Parish,2017,Native Hawaiian and Other Pacific Islander alone,8
+1971,St. James Parish,2018,Native Hawaiian and Other Pacific Islander alone,8
+1972,St. James Parish,2019,Native Hawaiian and Other Pacific Islander alone,8
+1973,St. James Parish,2020,Native Hawaiian and Other Pacific Islander alone,10
+1974,St. John the Baptist Parish,2000,Native Hawaiian and Other Pacific Islander alone,26
+1975,St. John the Baptist Parish,2001,Native Hawaiian and Other Pacific Islander alone,26
+1976,St. John the Baptist Parish,2002,Native Hawaiian and Other Pacific Islander alone,30
+1977,St. John the Baptist Parish,2003,Native Hawaiian and Other Pacific Islander alone,40
+1978,St. John the Baptist Parish,2004,Native Hawaiian and Other Pacific Islander alone,44
+1979,St. John the Baptist Parish,2005,Native Hawaiian and Other Pacific Islander alone,50
+1980,St. John the Baptist Parish,2006,Native Hawaiian and Other Pacific Islander alone,48
+1981,St. John the Baptist Parish,2007,Native Hawaiian and Other Pacific Islander alone,52
+1982,St. John the Baptist Parish,2008,Native Hawaiian and Other Pacific Islander alone,50
+1983,St. John the Baptist Parish,2009,Native Hawaiian and Other Pacific Islander alone,54
+1984,St. John the Baptist Parish,2010,Native Hawaiian and Other Pacific Islander alone,64
+1985,St. John the Baptist Parish,2011,Native Hawaiian and Other Pacific Islander alone,124
+1986,St. John the Baptist Parish,2012,Native Hawaiian and Other Pacific Islander alone,156
+1987,St. John the Baptist Parish,2013,Native Hawaiian and Other Pacific Islander alone,190
+1988,St. John the Baptist Parish,2014,Native Hawaiian and Other Pacific Islander alone,180
+1989,St. John the Baptist Parish,2015,Native Hawaiian and Other Pacific Islander alone,172
+1990,St. John the Baptist Parish,2016,Native Hawaiian and Other Pacific Islander alone,174
+1991,St. John the Baptist Parish,2017,Native Hawaiian and Other Pacific Islander alone,150
+1992,St. John the Baptist Parish,2018,Native Hawaiian and Other Pacific Islander alone,148
+1993,St. John the Baptist Parish,2019,Native Hawaiian and Other Pacific Islander alone,156
+1994,St. John the Baptist Parish,2020,Native Hawaiian and Other Pacific Islander alone,140
+1995,St. Tammany Parish,2000,Native Hawaiian and Other Pacific Islander alone,122
+1996,St. Tammany Parish,2001,Native Hawaiian and Other Pacific Islander alone,144
+1997,St. Tammany Parish,2002,Native Hawaiian and Other Pacific Islander alone,144
+1998,St. Tammany Parish,2003,Native Hawaiian and Other Pacific Islander alone,148
+1999,St. Tammany Parish,2004,Native Hawaiian and Other Pacific Islander alone,180
+2000,St. Tammany Parish,2005,Native Hawaiian and Other Pacific Islander alone,184
+2001,St. Tammany Parish,2006,Native Hawaiian and Other Pacific Islander alone,182
+2002,St. Tammany Parish,2007,Native Hawaiian and Other Pacific Islander alone,176
+2003,St. Tammany Parish,2008,Native Hawaiian and Other Pacific Islander alone,186
+2004,St. Tammany Parish,2009,Native Hawaiian and Other Pacific Islander alone,204
+2005,St. Tammany Parish,2010,Native Hawaiian and Other Pacific Islander alone,228
+2006,St. Tammany Parish,2011,Native Hawaiian and Other Pacific Islander alone,258
+2007,St. Tammany Parish,2012,Native Hawaiian and Other Pacific Islander alone,270
+2008,St. Tammany Parish,2013,Native Hawaiian and Other Pacific Islander alone,264
+2009,St. Tammany Parish,2014,Native Hawaiian and Other Pacific Islander alone,270
+2010,St. Tammany Parish,2015,Native Hawaiian and Other Pacific Islander alone,268
+2011,St. Tammany Parish,2016,Native Hawaiian and Other Pacific Islander alone,270
+2012,St. Tammany Parish,2017,Native Hawaiian and Other Pacific Islander alone,280
+2013,St. Tammany Parish,2018,Native Hawaiian and Other Pacific Islander alone,282
+2014,St. Tammany Parish,2019,Native Hawaiian and Other Pacific Islander alone,284
+2015,St. Tammany Parish,2020,Native Hawaiian and Other Pacific Islander alone,260
+2016,Tangipahoa Parish,2000,Native Hawaiian and Other Pacific Islander alone,26
+2017,Tangipahoa Parish,2001,Native Hawaiian and Other Pacific Islander alone,32
+2018,Tangipahoa Parish,2002,Native Hawaiian and Other Pacific Islander alone,40
+2019,Tangipahoa Parish,2003,Native Hawaiian and Other Pacific Islander alone,44
+2020,Tangipahoa Parish,2004,Native Hawaiian and Other Pacific Islander alone,62
+2021,Tangipahoa Parish,2005,Native Hawaiian and Other Pacific Islander alone,102
+2022,Tangipahoa Parish,2006,Native Hawaiian and Other Pacific Islander alone,106
+2023,Tangipahoa Parish,2007,Native Hawaiian and Other Pacific Islander alone,118
+2024,Tangipahoa Parish,2008,Native Hawaiian and Other Pacific Islander alone,124
+2025,Tangipahoa Parish,2009,Native Hawaiian and Other Pacific Islander alone,122
+2026,Tangipahoa Parish,2010,Native Hawaiian and Other Pacific Islander alone,126
+2027,Tangipahoa Parish,2011,Native Hawaiian and Other Pacific Islander alone,122
+2028,Tangipahoa Parish,2012,Native Hawaiian and Other Pacific Islander alone,136
+2029,Tangipahoa Parish,2013,Native Hawaiian and Other Pacific Islander alone,142
+2030,Tangipahoa Parish,2014,Native Hawaiian and Other Pacific Islander alone,130
+2031,Tangipahoa Parish,2015,Native Hawaiian and Other Pacific Islander alone,136
+2032,Tangipahoa Parish,2016,Native Hawaiian and Other Pacific Islander alone,140
+2033,Tangipahoa Parish,2017,Native Hawaiian and Other Pacific Islander alone,144
+2034,Tangipahoa Parish,2018,Native Hawaiian and Other Pacific Islander alone,150
+2035,Tangipahoa Parish,2019,Native Hawaiian and Other Pacific Islander alone,148
+2036,Tangipahoa Parish,2020,Native Hawaiian and Other Pacific Islander alone,168
+2037,Washington Parish,2000,Native Hawaiian and Other Pacific Islander alone,2
+2038,Washington Parish,2001,Native Hawaiian and Other Pacific Islander alone,4
+2039,Washington Parish,2002,Native Hawaiian and Other Pacific Islander alone,2
+2040,Washington Parish,2003,Native Hawaiian and Other Pacific Islander alone,6
+2041,Washington Parish,2004,Native Hawaiian and Other Pacific Islander alone,8
+2042,Washington Parish,2005,Native Hawaiian and Other Pacific Islander alone,4
+2043,Washington Parish,2006,Native Hawaiian and Other Pacific Islander alone,6
+2044,Washington Parish,2007,Native Hawaiian and Other Pacific Islander alone,8
+2045,Washington Parish,2008,Native Hawaiian and Other Pacific Islander alone,10
+2046,Washington Parish,2009,Native Hawaiian and Other Pacific Islander alone,12
+2047,Washington Parish,2010,Native Hawaiian and Other Pacific Islander alone,10
+2048,Washington Parish,2011,Native Hawaiian and Other Pacific Islander alone,10
+2049,Washington Parish,2012,Native Hawaiian and Other Pacific Islander alone,10
+2050,Washington Parish,2013,Native Hawaiian and Other Pacific Islander alone,16
+2051,Washington Parish,2014,Native Hawaiian and Other Pacific Islander alone,12
+2052,Washington Parish,2015,Native Hawaiian and Other Pacific Islander alone,14
+2053,Washington Parish,2016,Native Hawaiian and Other Pacific Islander alone,16
+2054,Washington Parish,2017,Native Hawaiian and Other Pacific Islander alone,16
+2055,Washington Parish,2018,Native Hawaiian and Other Pacific Islander alone,20
+2056,Washington Parish,2019,Native Hawaiian and Other Pacific Islander alone,22
+2057,Washington Parish,2020,Native Hawaiian and Other Pacific Islander alone,18
+2058,West Baton Rouge Parish,2000,Native Hawaiian and Other Pacific Islander alone,10
+2059,West Baton Rouge Parish,2001,Native Hawaiian and Other Pacific Islander alone,10
+2060,West Baton Rouge Parish,2002,Native Hawaiian and Other Pacific Islander alone,8
+2061,West Baton Rouge Parish,2003,Native Hawaiian and Other Pacific Islander alone,20
+2062,West Baton Rouge Parish,2004,Native Hawaiian and Other Pacific Islander alone,22
+2063,West Baton Rouge Parish,2005,Native Hawaiian and Other Pacific Islander alone,16
+2064,West Baton Rouge Parish,2006,Native Hawaiian and Other Pacific Islander alone,16
+2065,West Baton Rouge Parish,2007,Native Hawaiian and Other Pacific Islander alone,12
+2066,West Baton Rouge Parish,2008,Native Hawaiian and Other Pacific Islander alone,16
+2067,West Baton Rouge Parish,2009,Native Hawaiian and Other Pacific Islander alone,24
+2068,West Baton Rouge Parish,2010,Native Hawaiian and Other Pacific Islander alone,30
+2069,West Baton Rouge Parish,2011,Native Hawaiian and Other Pacific Islander alone,30
+2070,West Baton Rouge Parish,2012,Native Hawaiian and Other Pacific Islander alone,30
+2071,West Baton Rouge Parish,2013,Native Hawaiian and Other Pacific Islander alone,30
+2072,West Baton Rouge Parish,2014,Native Hawaiian and Other Pacific Islander alone,30
+2073,West Baton Rouge Parish,2015,Native Hawaiian and Other Pacific Islander alone,30
+2074,West Baton Rouge Parish,2016,Native Hawaiian and Other Pacific Islander alone,32
+2075,West Baton Rouge Parish,2017,Native Hawaiian and Other Pacific Islander alone,32
+2076,West Baton Rouge Parish,2018,Native Hawaiian and Other Pacific Islander alone,32
+2077,West Baton Rouge Parish,2019,Native Hawaiian and Other Pacific Islander alone,32
+2078,West Baton Rouge Parish,2020,Native Hawaiian and Other Pacific Islander alone,32
+2079,West Feliciana Parish,2000,Native Hawaiian and Other Pacific Islander alone,6
+2080,West Feliciana Parish,2001,Native Hawaiian and Other Pacific Islander alone,4
+2081,West Feliciana Parish,2002,Native Hawaiian and Other Pacific Islander alone,6
+2082,West Feliciana Parish,2003,Native Hawaiian and Other Pacific Islander alone,4
+2083,West Feliciana Parish,2004,Native Hawaiian and Other Pacific Islander alone,4
+2084,West Feliciana Parish,2005,Native Hawaiian and Other Pacific Islander alone,2
+2085,West Feliciana Parish,2006,Native Hawaiian and Other Pacific Islander alone,4
+2086,West Feliciana Parish,2007,Native Hawaiian and Other Pacific Islander alone,4
+2087,West Feliciana Parish,2008,Native Hawaiian and Other Pacific Islander alone,2
+2088,West Feliciana Parish,2009,Native Hawaiian and Other Pacific Islander alone,6
+2089,West Feliciana Parish,2010,Native Hawaiian and Other Pacific Islander alone,6
+2090,West Feliciana Parish,2011,Native Hawaiian and Other Pacific Islander alone,6
+2091,West Feliciana Parish,2012,Native Hawaiian and Other Pacific Islander alone,14
+2092,West Feliciana Parish,2013,Native Hawaiian and Other Pacific Islander alone,14
+2093,West Feliciana Parish,2014,Native Hawaiian and Other Pacific Islander alone,14
+2094,West Feliciana Parish,2015,Native Hawaiian and Other Pacific Islander alone,18
+2095,West Feliciana Parish,2016,Native Hawaiian and Other Pacific Islander alone,12
+2096,West Feliciana Parish,2017,Native Hawaiian and Other Pacific Islander alone,12
+2097,West Feliciana Parish,2018,Native Hawaiian and Other Pacific Islander alone,12
+2098,West Feliciana Parish,2019,Native Hawaiian and Other Pacific Islander alone,14
+2099,West Feliciana Parish,2020,Native Hawaiian and Other Pacific Islander alone,14
+2100,Ascension Parish,2000,Hispanic or Latino,3812
+2101,Ascension Parish,2001,Hispanic or Latino,4298
+2102,Ascension Parish,2002,Hispanic or Latino,4996
+2103,Ascension Parish,2003,Hispanic or Latino,5394
+2104,Ascension Parish,2004,Hispanic or Latino,5852
+2105,Ascension Parish,2005,Hispanic or Latino,6732
+2106,Ascension Parish,2006,Hispanic or Latino,7476
+2107,Ascension Parish,2007,Hispanic or Latino,8286
+2108,Ascension Parish,2008,Hispanic or Latino,8906
+2109,Ascension Parish,2009,Hispanic or Latino,9574
+2110,Ascension Parish,2010,Hispanic or Latino,10148
+2111,Ascension Parish,2011,Hispanic or Latino,10522
+2112,Ascension Parish,2012,Hispanic or Latino,10860
+2113,Ascension Parish,2013,Hispanic or Latino,11506
+2114,Ascension Parish,2014,Hispanic or Latino,12042
+2115,Ascension Parish,2015,Hispanic or Latino,12490
+2116,Ascension Parish,2016,Hispanic or Latino,13090
+2117,Ascension Parish,2017,Hispanic or Latino,13738
+2118,Ascension Parish,2018,Hispanic or Latino,14296
+2119,Ascension Parish,2019,Hispanic or Latino,15140
+2120,Ascension Parish,2020,Hispanic or Latino,15878
+2121,Caddo Parish,2000,Hispanic or Latino,7474
+2122,Caddo Parish,2001,Hispanic or Latino,7904
+2123,Caddo Parish,2002,Hispanic or Latino,8522
+2124,Caddo Parish,2003,Hispanic or Latino,8824
+2125,Caddo Parish,2004,Hispanic or Latino,9442
+2126,Caddo Parish,2005,Hispanic or Latino,9894
+2127,Caddo Parish,2006,Hispanic or Latino,10176
+2128,Caddo Parish,2007,Hispanic or Latino,10752
+2129,Caddo Parish,2008,Hispanic or Latino,10972
+2130,Caddo Parish,2009,Hispanic or Latino,11584
+2131,Caddo Parish,2010,Hispanic or Latino,12488
+2132,Caddo Parish,2011,Hispanic or Latino,12922
+2133,Caddo Parish,2012,Hispanic or Latino,13284
+2134,Caddo Parish,2013,Hispanic or Latino,13468
+2135,Caddo Parish,2014,Hispanic or Latino,13422
+2136,Caddo Parish,2015,Hispanic or Latino,13836
+2137,Caddo Parish,2016,Hispanic or Latino,13858
+2138,Caddo Parish,2017,Hispanic or Latino,13802
+2139,Caddo Parish,2018,Hispanic or Latino,13812
+2140,Caddo Parish,2019,Hispanic or Latino,13794
+2141,Caddo Parish,2020,Hispanic or Latino,14142
+2142,East Baton Rouge Parish,2000,Hispanic or Latino,15054
+2143,East Baton Rouge Parish,2001,Hispanic or Latino,16468
+2144,East Baton Rouge Parish,2002,Hispanic or Latino,17692
+2145,East Baton Rouge Parish,2003,Hispanic or Latino,19160
+2146,East Baton Rouge Parish,2004,Hispanic or Latino,20970
+2147,East Baton Rouge Parish,2005,Hispanic or Latino,22306
+2148,East Baton Rouge Parish,2006,Hispanic or Latino,24500
+2149,East Baton Rouge Parish,2007,Hispanic or Latino,26222
+2150,East Baton Rouge Parish,2008,Hispanic or Latino,28112
+2151,East Baton Rouge Parish,2009,Hispanic or Latino,30482
+2152,East Baton Rouge Parish,2010,Hispanic or Latino,32706
+2153,East Baton Rouge Parish,2011,Hispanic or Latino,32510
+2154,East Baton Rouge Parish,2012,Hispanic or Latino,32962
+2155,East Baton Rouge Parish,2013,Hispanic or Latino,33544
+2156,East Baton Rouge Parish,2014,Hispanic or Latino,33766
+2157,East Baton Rouge Parish,2015,Hispanic or Latino,34960
+2158,East Baton Rouge Parish,2016,Hispanic or Latino,36320
+2159,East Baton Rouge Parish,2017,Hispanic or Latino,36758
+2160,East Baton Rouge Parish,2018,Hispanic or Latino,37596
+2161,East Baton Rouge Parish,2019,Hispanic or Latino,38778
+2162,East Baton Rouge Parish,2020,Hispanic or Latino,39508
+2163,East Feliciana Parish,2000,Hispanic or Latino,314
+2164,East Feliciana Parish,2001,Hispanic or Latino,320
+2165,East Feliciana Parish,2002,Hispanic or Latino,330
+2166,East Feliciana Parish,2003,Hispanic or Latino,326
+2167,East Feliciana Parish,2004,Hispanic or Latino,322
+2168,East Feliciana Parish,2005,Hispanic or Latino,348
+2169,East Feliciana Parish,2006,Hispanic or Latino,390
+2170,East Feliciana Parish,2007,Hispanic or Latino,398
+2171,East Feliciana Parish,2008,Hispanic or Latino,400
+2172,East Feliciana Parish,2009,Hispanic or Latino,424
+2173,East Feliciana Parish,2010,Hispanic or Latino,428
+2174,East Feliciana Parish,2011,Hispanic or Latino,480
+2175,East Feliciana Parish,2012,Hispanic or Latino,522
+2176,East Feliciana Parish,2013,Hispanic or Latino,502
+2177,East Feliciana Parish,2014,Hispanic or Latino,598
+2178,East Feliciana Parish,2015,Hispanic or Latino,612
+2179,East Feliciana Parish,2016,Hispanic or Latino,640
+2180,East Feliciana Parish,2017,Hispanic or Latino,634
+2181,East Feliciana Parish,2018,Hispanic or Latino,640
+2182,East Feliciana Parish,2019,Hispanic or Latino,670
+2183,East Feliciana Parish,2020,Hispanic or Latino,676
+2184,Iberville Parish,2000,Hispanic or Latino,686
+2185,Iberville Parish,2001,Hispanic or Latino,766
+2186,Iberville Parish,2002,Hispanic or Latino,796
+2187,Iberville Parish,2003,Hispanic or Latino,914
+2188,Iberville Parish,2004,Hispanic or Latino,948
+2189,Iberville Parish,2005,Hispanic or Latino,1050
+2190,Iberville Parish,2006,Hispanic or Latino,1188
+2191,Iberville Parish,2007,Hispanic or Latino,1200
+2192,Iberville Parish,2008,Hispanic or Latino,1256
+2193,Iberville Parish,2009,Hispanic or Latino,1330
+2194,Iberville Parish,2010,Hispanic or Latino,1362
+2195,Iberville Parish,2011,Hispanic or Latino,1448
+2196,Iberville Parish,2012,Hispanic or Latino,1552
+2197,Iberville Parish,2013,Hispanic or Latino,1602
+2198,Iberville Parish,2014,Hispanic or Latino,1642
+2199,Iberville Parish,2015,Hispanic or Latino,1654
+2200,Iberville Parish,2016,Hispanic or Latino,1626
+2201,Iberville Parish,2017,Hispanic or Latino,1704
+2202,Iberville Parish,2018,Hispanic or Latino,1776
+2203,Iberville Parish,2019,Hispanic or Latino,1832
+2204,Iberville Parish,2020,Hispanic or Latino,1934
+2205,Jefferson Parish,2000,Hispanic or Latino,65838
+2206,Jefferson Parish,2001,Hispanic or Latino,68500
+2207,Jefferson Parish,2002,Hispanic or Latino,72048
+2208,Jefferson Parish,2003,Hispanic or Latino,75622
+2209,Jefferson Parish,2004,Hispanic or Latino,80250
+2210,Jefferson Parish,2005,Hispanic or Latino,84254
+2211,Jefferson Parish,2006,Hispanic or Latino,81120
+2212,Jefferson Parish,2007,Hispanic or Latino,89832
+2213,Jefferson Parish,2008,Hispanic or Latino,95902
+2214,Jefferson Parish,2009,Hispanic or Latino,102616
+2215,Jefferson Parish,2010,Hispanic or Latino,107930
+2216,Jefferson Parish,2011,Hispanic or Latino,112192
+2217,Jefferson Parish,2012,Hispanic or Latino,114196
+2218,Jefferson Parish,2013,Hispanic or Latino,116576
+2219,Jefferson Parish,2014,Hispanic or Latino,118864
+2220,Jefferson Parish,2015,Hispanic or Latino,121630
+2221,Jefferson Parish,2016,Hispanic or Latino,124342
+2222,Jefferson Parish,2017,Hispanic or Latino,125934
+2223,Jefferson Parish,2018,Hispanic or Latino,127280
+2224,Jefferson Parish,2019,Hispanic or Latino,129460
+2225,Jefferson Parish,2020,Hispanic or Latino,130108
+2226,Livingston Parish,2000,Hispanic or Latino,2056
+2227,Livingston Parish,2001,Hispanic or Latino,2512
+2228,Livingston Parish,2002,Hispanic or Latino,2924
+2229,Livingston Parish,2003,Hispanic or Latino,3324
+2230,Livingston Parish,2004,Hispanic or Latino,3836
+2231,Livingston Parish,2005,Hispanic or Latino,4254
+2232,Livingston Parish,2006,Hispanic or Latino,4976
+2233,Livingston Parish,2007,Hispanic or Latino,5822
+2234,Livingston Parish,2008,Hispanic or Latino,6754
+2235,Livingston Parish,2009,Hispanic or Latino,7342
+2236,Livingston Parish,2010,Hispanic or Latino,7668
+2237,Livingston Parish,2011,Hispanic or Latino,7916
+2238,Livingston Parish,2012,Hispanic or Latino,8196
+2239,Livingston Parish,2013,Hispanic or Latino,8744
+2240,Livingston Parish,2014,Hispanic or Latino,9016
+2241,Livingston Parish,2015,Hispanic or Latino,9376
+2242,Livingston Parish,2016,Hispanic or Latino,10086
+2243,Livingston Parish,2017,Hispanic or Latino,10248
+2244,Livingston Parish,2018,Hispanic or Latino,11042
+2245,Livingston Parish,2019,Hispanic or Latino,11684
+2246,Livingston Parish,2020,Hispanic or Latino,12570
+2247,Orleans Parish,2000,Hispanic or Latino,30230
+2248,Orleans Parish,2001,Hispanic or Latino,31112
+2249,Orleans Parish,2002,Hispanic or Latino,32194
+2250,Orleans Parish,2003,Hispanic or Latino,33026
+2251,Orleans Parish,2004,Hispanic or Latino,33650
+2252,Orleans Parish,2005,Hispanic or Latino,34596
+2253,Orleans Parish,2006,Hispanic or Latino,22292
+2254,Orleans Parish,2007,Hispanic or Latino,26446
+2255,Orleans Parish,2008,Hispanic or Latino,30474
+2256,Orleans Parish,2009,Hispanic or Latino,33724
+2257,Orleans Parish,2010,Hispanic or Latino,36470
+2258,Orleans Parish,2011,Hispanic or Latino,37912
+2259,Orleans Parish,2012,Hispanic or Latino,39040
+2260,Orleans Parish,2013,Hispanic or Latino,40820
+2261,Orleans Parish,2014,Hispanic or Latino,41170
+2262,Orleans Parish,2015,Hispanic or Latino,42024
+2263,Orleans Parish,2016,Hispanic or Latino,42488
+2264,Orleans Parish,2017,Hispanic or Latino,42586
+2265,Orleans Parish,2018,Hispanic or Latino,43102
+2266,Orleans Parish,2019,Hispanic or Latino,42974
+2267,Orleans Parish,2020,Hispanic or Latino,43328
+2268,Plaquemines Parish,2000,Hispanic or Latino,868
+2269,Plaquemines Parish,2001,Hispanic or Latino,1116
+2270,Plaquemines Parish,2002,Hispanic or Latino,1232
+2271,Plaquemines Parish,2003,Hispanic or Latino,1450
+2272,Plaquemines Parish,2004,Hispanic or Latino,1678
+2273,Plaquemines Parish,2005,Hispanic or Latino,1832
+2274,Plaquemines Parish,2006,Hispanic or Latino,1622
+2275,Plaquemines Parish,2007,Hispanic or Latino,1694
+2276,Plaquemines Parish,2008,Hispanic or Latino,1906
+2277,Plaquemines Parish,2009,Hispanic or Latino,2114
+2278,Plaquemines Parish,2010,Hispanic or Latino,2162
+2279,Plaquemines Parish,2011,Hispanic or Latino,2418
+2280,Plaquemines Parish,2012,Hispanic or Latino,2644
+2281,Plaquemines Parish,2013,Hispanic or Latino,2806
+2282,Plaquemines Parish,2014,Hispanic or Latino,2942
+2283,Plaquemines Parish,2015,Hispanic or Latino,3200
+2284,Plaquemines Parish,2016,Hispanic or Latino,3238
+2285,Plaquemines Parish,2017,Hispanic or Latino,3426
+2286,Plaquemines Parish,2018,Hispanic or Latino,3650
+2287,Plaquemines Parish,2019,Hispanic or Latino,3726
+2288,Plaquemines Parish,2020,Hispanic or Latino,3758
+2289,Pointe Coupee Parish,2000,Hispanic or Latino,490
+2290,Pointe Coupee Parish,2001,Hispanic or Latino,562
+2291,Pointe Coupee Parish,2002,Hispanic or Latino,608
+2292,Pointe Coupee Parish,2003,Hispanic or Latino,642
+2293,Pointe Coupee Parish,2004,Hispanic or Latino,682
+2294,Pointe Coupee Parish,2005,Hispanic or Latino,724
+2295,Pointe Coupee Parish,2006,Hispanic or Latino,760
+2296,Pointe Coupee Parish,2007,Hispanic or Latino,796
+2297,Pointe Coupee Parish,2008,Hispanic or Latino,834
+2298,Pointe Coupee Parish,2009,Hispanic or Latino,922
+2299,Pointe Coupee Parish,2010,Hispanic or Latino,1006
+2300,Pointe Coupee Parish,2011,Hispanic or Latino,1064
+2301,Pointe Coupee Parish,2012,Hispanic or Latino,1018
+2302,Pointe Coupee Parish,2013,Hispanic or Latino,1006
+2303,Pointe Coupee Parish,2014,Hispanic or Latino,1022
+2304,Pointe Coupee Parish,2015,Hispanic or Latino,1040
+2305,Pointe Coupee Parish,2016,Hispanic or Latino,1128
+2306,Pointe Coupee Parish,2017,Hispanic or Latino,1184
+2307,Pointe Coupee Parish,2018,Hispanic or Latino,1174
+2308,Pointe Coupee Parish,2019,Hispanic or Latino,1270
+2309,Pointe Coupee Parish,2020,Hispanic or Latino,1344
+2310,St. Bernard Parish,2000,Hispanic or Latino,6870
+2311,St. Bernard Parish,2001,Hispanic or Latino,6938
+2312,St. Bernard Parish,2002,Hispanic or Latino,6964
+2313,St. Bernard Parish,2003,Hispanic or Latino,7302
+2314,St. Bernard Parish,2004,Hispanic or Latino,7556
+2315,St. Bernard Parish,2005,Hispanic or Latino,7914
+2316,St. Bernard Parish,2006,Hispanic or Latino,3268
+2317,St. Bernard Parish,2007,Hispanic or Latino,4508
+2318,St. Bernard Parish,2008,Hispanic or Latino,5374
+2319,St. Bernard Parish,2009,Hispanic or Latino,6224
+2320,St. Bernard Parish,2010,Hispanic or Latino,6760
+2321,St. Bernard Parish,2011,Hispanic or Latino,7428
+2322,St. Bernard Parish,2012,Hispanic or Latino,7854
+2323,St. Bernard Parish,2013,Hispanic or Latino,8314
+2324,St. Bernard Parish,2014,Hispanic or Latino,8664
+2325,St. Bernard Parish,2015,Hispanic or Latino,9132
+2326,St. Bernard Parish,2016,Hispanic or Latino,9066
+2327,St. Bernard Parish,2017,Hispanic or Latino,9038
+2328,St. Bernard Parish,2018,Hispanic or Latino,9368
+2329,St. Bernard Parish,2019,Hispanic or Latino,9726
+2330,St. Bernard Parish,2020,Hispanic or Latino,10086
+2331,St. Charles Parish,2000,Hispanic or Latino,2696
+2332,St. Charles Parish,2001,Hispanic or Latino,2980
+2333,St. Charles Parish,2002,Hispanic or Latino,3324
+2334,St. Charles Parish,2003,Hispanic or Latino,3542
+2335,St. Charles Parish,2004,Hispanic or Latino,3768
+2336,St. Charles Parish,2005,Hispanic or Latino,4036
+2337,St. Charles Parish,2006,Hispanic or Latino,4472
+2338,St. Charles Parish,2007,Hispanic or Latino,4764
+2339,St. Charles Parish,2008,Hispanic or Latino,4890
+2340,St. Charles Parish,2009,Hispanic or Latino,5070
+2341,St. Charles Parish,2010,Hispanic or Latino,5302
+2342,St. Charles Parish,2011,Hispanic or Latino,5312
+2343,St. Charles Parish,2012,Hispanic or Latino,5542
+2344,St. Charles Parish,2013,Hispanic or Latino,5662
+2345,St. Charles Parish,2014,Hispanic or Latino,5896
+2346,St. Charles Parish,2015,Hispanic or Latino,6126
+2347,St. Charles Parish,2016,Hispanic or Latino,6382
+2348,St. Charles Parish,2017,Hispanic or Latino,6446
+2349,St. Charles Parish,2018,Hispanic or Latino,6562
+2350,St. Charles Parish,2019,Hispanic or Latino,6718
+2351,St. Charles Parish,2020,Hispanic or Latino,6862
+2352,St. Helena Parish,2000,Hispanic or Latino,202
+2353,St. Helena Parish,2001,Hispanic or Latino,200
+2354,St. Helena Parish,2002,Hispanic or Latino,196
+2355,St. Helena Parish,2003,Hispanic or Latino,192
+2356,St. Helena Parish,2004,Hispanic or Latino,206
+2357,St. Helena Parish,2005,Hispanic or Latino,192
+2358,St. Helena Parish,2006,Hispanic or Latino,216
+2359,St. Helena Parish,2007,Hispanic or Latino,214
+2360,St. Helena Parish,2008,Hispanic or Latino,192
+2361,St. Helena Parish,2009,Hispanic or Latino,198
+2362,St. Helena Parish,2010,Hispanic or Latino,190
+2363,St. Helena Parish,2011,Hispanic or Latino,234
+2364,St. Helena Parish,2012,Hispanic or Latino,284
+2365,St. Helena Parish,2013,Hispanic or Latino,298
+2366,St. Helena Parish,2014,Hispanic or Latino,336
+2367,St. Helena Parish,2015,Hispanic or Latino,348
+2368,St. Helena Parish,2016,Hispanic or Latino,322
+2369,St. Helena Parish,2017,Hispanic or Latino,370
+2370,St. Helena Parish,2018,Hispanic or Latino,380
+2371,St. Helena Parish,2019,Hispanic or Latino,412
+2372,St. Helena Parish,2020,Hispanic or Latino,454
+2373,St. James Parish,2000,Hispanic or Latino,260
+2374,St. James Parish,2001,Hispanic or Latino,278
+2375,St. James Parish,2002,Hispanic or Latino,330
+2376,St. James Parish,2003,Hispanic or Latino,358
+2377,St. James Parish,2004,Hispanic or Latino,382
+2378,St. James Parish,2005,Hispanic or Latino,402
+2379,St. James Parish,2006,Hispanic or Latino,420
+2380,St. James Parish,2007,Hispanic or Latino,448
+2381,St. James Parish,2008,Hispanic or Latino,444
+2382,St. James Parish,2009,Hispanic or Latino,522
+2383,St. James Parish,2010,Hispanic or Latino,514
+2384,St. James Parish,2011,Hispanic or Latino,542
+2385,St. James Parish,2012,Hispanic or Latino,580
+2386,St. James Parish,2013,Hispanic or Latino,648
+2387,St. James Parish,2014,Hispanic or Latino,664
+2388,St. James Parish,2015,Hispanic or Latino,632
+2389,St. James Parish,2016,Hispanic or Latino,694
+2390,St. James Parish,2017,Hispanic or Latino,734
+2391,St. James Parish,2018,Hispanic or Latino,726
+2392,St. James Parish,2019,Hispanic or Latino,780
+2393,St. James Parish,2020,Hispanic or Latino,764
+2394,St. John the Baptist Parish,2000,Hispanic or Latino,2456
+2395,St. John the Baptist Parish,2001,Hispanic or Latino,2742
+2396,St. John the Baptist Parish,2002,Hispanic or Latino,2848
+2397,St. John the Baptist Parish,2003,Hispanic or Latino,3038
+2398,St. John the Baptist Parish,2004,Hispanic or Latino,3358
+2399,St. John the Baptist Parish,2005,Hispanic or Latino,3736
+2400,St. John the Baptist Parish,2006,Hispanic or Latino,4092
+2401,St. John the Baptist Parish,2007,Hispanic or Latino,4184
+2402,St. John the Baptist Parish,2008,Hispanic or Latino,4368
+2403,St. John the Baptist Parish,2009,Hispanic or Latino,4324
+2404,St. John the Baptist Parish,2010,Hispanic or Latino,4338
+2405,St. John the Baptist Parish,2011,Hispanic or Latino,4506
+2406,St. John the Baptist Parish,2012,Hispanic or Latino,4512
+2407,St. John the Baptist Parish,2013,Hispanic or Latino,4538
+2408,St. John the Baptist Parish,2014,Hispanic or Latino,4760
+2409,St. John the Baptist Parish,2015,Hispanic or Latino,4922
+2410,St. John the Baptist Parish,2016,Hispanic or Latino,5006
+2411,St. John the Baptist Parish,2017,Hispanic or Latino,5208
+2412,St. John the Baptist Parish,2018,Hispanic or Latino,5430
+2413,St. John the Baptist Parish,2019,Hispanic or Latino,5714
+2414,St. John the Baptist Parish,2020,Hispanic or Latino,5986
+2415,St. Tammany Parish,2000,Hispanic or Latino,9656
+2416,St. Tammany Parish,2001,Hispanic or Latino,10498
+2417,St. Tammany Parish,2002,Hispanic or Latino,11804
+2418,St. Tammany Parish,2003,Hispanic or Latino,12848
+2419,St. Tammany Parish,2004,Hispanic or Latino,14170
+2420,St. Tammany Parish,2005,Hispanic or Latino,15880
+2421,St. Tammany Parish,2006,Hispanic or Latino,17366
+2422,St. Tammany Parish,2007,Hispanic or Latino,18664
+2423,St. Tammany Parish,2008,Hispanic or Latino,20018
+2424,St. Tammany Parish,2009,Hispanic or Latino,20790
+2425,St. Tammany Parish,2010,Hispanic or Latino,22248
+2426,St. Tammany Parish,2011,Hispanic or Latino,23154
+2427,St. Tammany Parish,2012,Hispanic or Latino,23724
+2428,St. Tammany Parish,2013,Hispanic or Latino,24524
+2429,St. Tammany Parish,2014,Hispanic or Latino,25546
+2430,St. Tammany Parish,2015,Hispanic or Latino,26482
+2431,St. Tammany Parish,2016,Hispanic or Latino,27650
+2432,St. Tammany Parish,2017,Hispanic or Latino,28924
+2433,St. Tammany Parish,2018,Hispanic or Latino,29700
+2434,St. Tammany Parish,2019,Hispanic or Latino,30966
+2435,St. Tammany Parish,2020,Hispanic or Latino,31616
+2436,Tangipahoa Parish,2000,Hispanic or Latino,3074
+2437,Tangipahoa Parish,2001,Hispanic or Latino,3532
+2438,Tangipahoa Parish,2002,Hispanic or Latino,3854
+2439,Tangipahoa Parish,2003,Hispanic or Latino,4280
+2440,Tangipahoa Parish,2004,Hispanic or Latino,4690
+2441,Tangipahoa Parish,2005,Hispanic or Latino,5246
+2442,Tangipahoa Parish,2006,Hispanic or Latino,6130
+2443,Tangipahoa Parish,2007,Hispanic or Latino,6760
+2444,Tangipahoa Parish,2008,Hispanic or Latino,7320
+2445,Tangipahoa Parish,2009,Hispanic or Latino,8002
+2446,Tangipahoa Parish,2010,Hispanic or Latino,8588
+2447,Tangipahoa Parish,2011,Hispanic or Latino,8774
+2448,Tangipahoa Parish,2012,Hispanic or Latino,9100
+2449,Tangipahoa Parish,2013,Hispanic or Latino,9744
+2450,Tangipahoa Parish,2014,Hispanic or Latino,9990
+2451,Tangipahoa Parish,2015,Hispanic or Latino,10420
+2452,Tangipahoa Parish,2016,Hispanic or Latino,11062
+2453,Tangipahoa Parish,2017,Hispanic or Latino,11366
+2454,Tangipahoa Parish,2018,Hispanic or Latino,11516
+2455,Tangipahoa Parish,2019,Hispanic or Latino,11866
+2456,Tangipahoa Parish,2020,Hispanic or Latino,12486
+2457,Washington Parish,2000,Hispanic or Latino,668
+2458,Washington Parish,2001,Hispanic or Latino,870
+2459,Washington Parish,2002,Hispanic or Latino,930
+2460,Washington Parish,2003,Hispanic or Latino,1006
+2461,Washington Parish,2004,Hispanic or Latino,1110
+2462,Washington Parish,2005,Hispanic or Latino,1202
+2463,Washington Parish,2006,Hispanic or Latino,1290
+2464,Washington Parish,2007,Hispanic or Latino,1394
+2465,Washington Parish,2008,Hispanic or Latino,1540
+2466,Washington Parish,2009,Hispanic or Latino,1730
+2467,Washington Parish,2010,Hispanic or Latino,1776
+2468,Washington Parish,2011,Hispanic or Latino,1864
+2469,Washington Parish,2012,Hispanic or Latino,1856
+2470,Washington Parish,2013,Hispanic or Latino,1852
+2471,Washington Parish,2014,Hispanic or Latino,1872
+2472,Washington Parish,2015,Hispanic or Latino,1930
+2473,Washington Parish,2016,Hispanic or Latino,1974
+2474,Washington Parish,2017,Hispanic or Latino,2118
+2475,Washington Parish,2018,Hispanic or Latino,2270
+2476,Washington Parish,2019,Hispanic or Latino,2280
+2477,Washington Parish,2020,Hispanic or Latino,2426
+2478,West Baton Rouge Parish,2000,Hispanic or Latino,624
+2479,West Baton Rouge Parish,2001,Hispanic or Latino,726
+2480,West Baton Rouge Parish,2002,Hispanic or Latino,756
+2481,West Baton Rouge Parish,2003,Hispanic or Latino,776
+2482,West Baton Rouge Parish,2004,Hispanic or Latino,872
+2483,West Baton Rouge Parish,2005,Hispanic or Latino,868
+2484,West Baton Rouge Parish,2006,Hispanic or Latino,972
+2485,West Baton Rouge Parish,2007,Hispanic or Latino,990
+2486,West Baton Rouge Parish,2008,Hispanic or Latino,1094
+2487,West Baton Rouge Parish,2009,Hispanic or Latino,1072
+2488,West Baton Rouge Parish,2010,Hispanic or Latino,1106
+2489,West Baton Rouge Parish,2011,Hispanic or Latino,1248
+2490,West Baton Rouge Parish,2012,Hispanic or Latino,1304
+2491,West Baton Rouge Parish,2013,Hispanic or Latino,1368
+2492,West Baton Rouge Parish,2014,Hispanic or Latino,1462
+2493,West Baton Rouge Parish,2015,Hispanic or Latino,1522
+2494,West Baton Rouge Parish,2016,Hispanic or Latino,1530
+2495,West Baton Rouge Parish,2017,Hispanic or Latino,1616
+2496,West Baton Rouge Parish,2018,Hispanic or Latino,1674
+2497,West Baton Rouge Parish,2019,Hispanic or Latino,1808
+2498,West Baton Rouge Parish,2020,Hispanic or Latino,1858
+2499,West Feliciana Parish,2000,Hispanic or Latino,314
+2500,West Feliciana Parish,2001,Hispanic or Latino,332
+2501,West Feliciana Parish,2002,Hispanic or Latino,352
+2502,West Feliciana Parish,2003,Hispanic or Latino,356
+2503,West Feliciana Parish,2004,Hispanic or Latino,356
+2504,West Feliciana Parish,2005,Hispanic or Latino,436
+2505,West Feliciana Parish,2006,Hispanic or Latino,440
+2506,West Feliciana Parish,2007,Hispanic or Latino,458
+2507,West Feliciana Parish,2008,Hispanic or Latino,460
+2508,West Feliciana Parish,2009,Hispanic or Latino,492
+2509,West Feliciana Parish,2010,Hispanic or Latino,510
+2510,West Feliciana Parish,2011,Hispanic or Latino,490
+2511,West Feliciana Parish,2012,Hispanic or Latino,490
+2512,West Feliciana Parish,2013,Hispanic or Latino,468
+2513,West Feliciana Parish,2014,Hispanic or Latino,460
+2514,West Feliciana Parish,2015,Hispanic or Latino,464
+2515,West Feliciana Parish,2016,Hispanic or Latino,468
+2516,West Feliciana Parish,2017,Hispanic or Latino,502
+2517,West Feliciana Parish,2018,Hispanic or Latino,496
+2518,West Feliciana Parish,2019,Hispanic or Latino,508
+2519,West Feliciana Parish,2020,Hispanic or Latino,514
+2520,Ascension Parish,2000,Two or More Races,682
+2521,Ascension Parish,2001,Two or More Races,776
+2522,Ascension Parish,2002,Two or More Races,932
+2523,Ascension Parish,2003,Two or More Races,1054
+2524,Ascension Parish,2004,Two or More Races,1212
+2525,Ascension Parish,2005,Two or More Races,1384
+2526,Ascension Parish,2006,Two or More Races,1528
+2527,Ascension Parish,2007,Two or More Races,1710
+2528,Ascension Parish,2008,Two or More Races,1868
+2529,Ascension Parish,2009,Two or More Races,2046
+2530,Ascension Parish,2010,Two or More Races,2158
+2531,Ascension Parish,2011,Two or More Races,2302
+2532,Ascension Parish,2012,Two or More Races,2408
+2533,Ascension Parish,2013,Two or More Races,2604
+2534,Ascension Parish,2014,Two or More Races,2788
+2535,Ascension Parish,2015,Two or More Races,2932
+2536,Ascension Parish,2016,Two or More Races,3134
+2537,Ascension Parish,2017,Two or More Races,3276
+2538,Ascension Parish,2018,Two or More Races,3406
+2539,Ascension Parish,2019,Two or More Races,3798
+2540,Ascension Parish,2020,Two or More Races,3858
+2541,Caddo Parish,2000,Two or More Races,3632
+2542,Caddo Parish,2001,Two or More Races,4088
+2543,Caddo Parish,2002,Two or More Races,4334
+2544,Caddo Parish,2003,Two or More Races,4634
+2545,Caddo Parish,2004,Two or More Races,4784
+2546,Caddo Parish,2005,Two or More Races,5026
+2547,Caddo Parish,2006,Two or More Races,5188
+2548,Caddo Parish,2007,Two or More Races,5376
+2549,Caddo Parish,2008,Two or More Races,5846
+2550,Caddo Parish,2009,Two or More Races,6192
+2551,Caddo Parish,2010,Two or More Races,6588
+2552,Caddo Parish,2011,Two or More Races,6832
+2553,Caddo Parish,2012,Two or More Races,6914
+2554,Caddo Parish,2013,Two or More Races,7038
+2555,Caddo Parish,2014,Two or More Races,7128
+2556,Caddo Parish,2015,Two or More Races,7406
+2557,Caddo Parish,2016,Two or More Races,7452
+2558,Caddo Parish,2017,Two or More Races,7604
+2559,Caddo Parish,2018,Two or More Races,7626
+2560,Caddo Parish,2019,Two or More Races,7808
+2561,Caddo Parish,2020,Two or More Races,7720
+2562,East Baton Rouge Parish,2000,Two or More Races,5382
+2563,East Baton Rouge Parish,2001,Two or More Races,6070
+2564,East Baton Rouge Parish,2002,Two or More Races,6486
+2565,East Baton Rouge Parish,2003,Two or More Races,6898
+2566,East Baton Rouge Parish,2004,Two or More Races,7290
+2567,East Baton Rouge Parish,2005,Two or More Races,7368
+2568,East Baton Rouge Parish,2006,Two or More Races,7870
+2569,East Baton Rouge Parish,2007,Two or More Races,8158
+2570,East Baton Rouge Parish,2008,Two or More Races,8746
+2571,East Baton Rouge Parish,2009,Two or More Races,9324
+2572,East Baton Rouge Parish,2010,Two or More Races,9728
+2573,East Baton Rouge Parish,2011,Two or More Races,10146
+2574,East Baton Rouge Parish,2012,Two or More Races,10618
+2575,East Baton Rouge Parish,2013,Two or More Races,11206
+2576,East Baton Rouge Parish,2014,Two or More Races,11622
+2577,East Baton Rouge Parish,2015,Two or More Races,12066
+2578,East Baton Rouge Parish,2016,Two or More Races,12630
+2579,East Baton Rouge Parish,2017,Two or More Races,12786
+2580,East Baton Rouge Parish,2018,Two or More Races,13134
+2581,East Baton Rouge Parish,2019,Two or More Races,13394
+2582,East Baton Rouge Parish,2020,Two or More Races,13586
+2583,East Feliciana Parish,2000,Two or More Races,202
+2584,East Feliciana Parish,2001,Two or More Races,202
+2585,East Feliciana Parish,2002,Two or More Races,216
+2586,East Feliciana Parish,2003,Two or More Races,232
+2587,East Feliciana Parish,2004,Two or More Races,270
+2588,East Feliciana Parish,2005,Two or More Races,312
+2589,East Feliciana Parish,2006,Two or More Races,334
+2590,East Feliciana Parish,2007,Two or More Races,376
+2591,East Feliciana Parish,2008,Two or More Races,414
+2592,East Feliciana Parish,2009,Two or More Races,432
+2593,East Feliciana Parish,2010,Two or More Races,444
+2594,East Feliciana Parish,2011,Two or More Races,456
+2595,East Feliciana Parish,2012,Two or More Races,480
+2596,East Feliciana Parish,2013,Two or More Races,472
+2597,East Feliciana Parish,2014,Two or More Races,522
+2598,East Feliciana Parish,2015,Two or More Races,548
+2599,East Feliciana Parish,2016,Two or More Races,488
+2600,East Feliciana Parish,2017,Two or More Races,508
+2601,East Feliciana Parish,2018,Two or More Races,534
+2602,East Feliciana Parish,2019,Two or More Races,520
+2603,East Feliciana Parish,2020,Two or More Races,548
+2604,Iberville Parish,2000,Two or More Races,242
+2605,Iberville Parish,2001,Two or More Races,250
+2606,Iberville Parish,2002,Two or More Races,256
+2607,Iberville Parish,2003,Two or More Races,298
+2608,Iberville Parish,2004,Two or More Races,326
+2609,Iberville Parish,2005,Two or More Races,372
+2610,Iberville Parish,2006,Two or More Races,366
+2611,Iberville Parish,2007,Two or More Races,416
+2612,Iberville Parish,2008,Two or More Races,468
+2613,Iberville Parish,2009,Two or More Races,490
+2614,Iberville Parish,2010,Two or More Races,500
+2615,Iberville Parish,2011,Two or More Races,538
+2616,Iberville Parish,2012,Two or More Races,540
+2617,Iberville Parish,2013,Two or More Races,582
+2618,Iberville Parish,2014,Two or More Races,612
+2619,Iberville Parish,2015,Two or More Races,676
+2620,Iberville Parish,2016,Two or More Races,658
+2621,Iberville Parish,2017,Two or More Races,696
+2622,Iberville Parish,2018,Two or More Races,674
+2623,Iberville Parish,2019,Two or More Races,698
+2624,Iberville Parish,2020,Two or More Races,726
+2625,Jefferson Parish,2000,Two or More Races,8228
+2626,Jefferson Parish,2001,Two or More Races,8828
+2627,Jefferson Parish,2002,Two or More Races,9366
+2628,Jefferson Parish,2003,Two or More Races,9624
+2629,Jefferson Parish,2004,Two or More Races,10168
+2630,Jefferson Parish,2005,Two or More Races,10374
+2631,Jefferson Parish,2006,Two or More Races,9748
+2632,Jefferson Parish,2007,Two or More Races,10052
+2633,Jefferson Parish,2008,Two or More Races,10538
+2634,Jefferson Parish,2009,Two or More Races,11372
+2635,Jefferson Parish,2010,Two or More Races,12198
+2636,Jefferson Parish,2011,Two or More Races,12710
+2637,Jefferson Parish,2012,Two or More Races,13278
+2638,Jefferson Parish,2013,Two or More Races,13580
+2639,Jefferson Parish,2014,Two or More Races,14014
+2640,Jefferson Parish,2015,Two or More Races,14378
+2641,Jefferson Parish,2016,Two or More Races,14636
+2642,Jefferson Parish,2017,Two or More Races,15182
+2643,Jefferson Parish,2018,Two or More Races,15192
+2644,Jefferson Parish,2019,Two or More Races,15586
+2645,Jefferson Parish,2020,Two or More Races,15944
+2646,Livingston Parish,2000,Two or More Races,996
+2647,Livingston Parish,2001,Two or More Races,1142
+2648,Livingston Parish,2002,Two or More Races,1290
+2649,Livingston Parish,2003,Two or More Races,1434
+2650,Livingston Parish,2004,Two or More Races,1618
+2651,Livingston Parish,2005,Two or More Races,1788
+2652,Livingston Parish,2006,Two or More Races,1898
+2653,Livingston Parish,2007,Two or More Races,2096
+2654,Livingston Parish,2008,Two or More Races,2322
+2655,Livingston Parish,2009,Two or More Races,2478
+2656,Livingston Parish,2010,Two or More Races,2568
+2657,Livingston Parish,2011,Two or More Races,2726
+2658,Livingston Parish,2012,Two or More Races,2854
+2659,Livingston Parish,2013,Two or More Races,2942
+2660,Livingston Parish,2014,Two or More Races,3124
+2661,Livingston Parish,2015,Two or More Races,3306
+2662,Livingston Parish,2016,Two or More Races,3492
+2663,Livingston Parish,2017,Two or More Races,3422
+2664,Livingston Parish,2018,Two or More Races,3606
+2665,Livingston Parish,2019,Two or More Races,3752
+2666,Livingston Parish,2020,Two or More Races,4118
+2667,Orleans Parish,2000,Two or More Races,7482
+2668,Orleans Parish,2001,Two or More Races,8128
+2669,Orleans Parish,2002,Two or More Races,8496
+2670,Orleans Parish,2003,Two or More Races,8724
+2671,Orleans Parish,2004,Two or More Races,8886
+2672,Orleans Parish,2005,Two or More Races,8832
+2673,Orleans Parish,2006,Two or More Races,6164
+2674,Orleans Parish,2007,Two or More Races,6990
+2675,Orleans Parish,2008,Two or More Races,7912
+2676,Orleans Parish,2009,Two or More Races,8766
+2677,Orleans Parish,2010,Two or More Races,9358
+2678,Orleans Parish,2011,Two or More Races,9668
+2679,Orleans Parish,2012,Two or More Races,10186
+2680,Orleans Parish,2013,Two or More Races,10512
+2681,Orleans Parish,2014,Two or More Races,11082
+2682,Orleans Parish,2015,Two or More Races,11632
+2683,Orleans Parish,2016,Two or More Races,12108
+2684,Orleans Parish,2017,Two or More Races,12258
+2685,Orleans Parish,2018,Two or More Races,12694
+2686,Orleans Parish,2019,Two or More Races,12744
+2687,Orleans Parish,2020,Two or More Races,12918
+2688,Plaquemines Parish,2000,Two or More Races,550
+2689,Plaquemines Parish,2001,Two or More Races,584
+2690,Plaquemines Parish,2002,Two or More Races,626
+2691,Plaquemines Parish,2003,Two or More Races,688
+2692,Plaquemines Parish,2004,Two or More Races,768
+2693,Plaquemines Parish,2005,Two or More Races,846
+2694,Plaquemines Parish,2006,Two or More Races,830
+2695,Plaquemines Parish,2007,Two or More Races,900
+2696,Plaquemines Parish,2008,Two or More Races,970
+2697,Plaquemines Parish,2009,Two or More Races,1018
+2698,Plaquemines Parish,2010,Two or More Races,1088
+2699,Plaquemines Parish,2011,Two or More Races,1176
+2700,Plaquemines Parish,2012,Two or More Races,1132
+2701,Plaquemines Parish,2013,Two or More Races,1220
+2702,Plaquemines Parish,2014,Two or More Races,1318
+2703,Plaquemines Parish,2015,Two or More Races,1386
+2704,Plaquemines Parish,2016,Two or More Races,1366
+2705,Plaquemines Parish,2017,Two or More Races,1466
+2706,Plaquemines Parish,2018,Two or More Races,1422
+2707,Plaquemines Parish,2019,Two or More Races,1368
+2708,Plaquemines Parish,2020,Two or More Races,1384
+2709,Pointe Coupee Parish,2000,Two or More Races,202
+2710,Pointe Coupee Parish,2001,Two or More Races,208
+2711,Pointe Coupee Parish,2002,Two or More Races,220
+2712,Pointe Coupee Parish,2003,Two or More Races,256
+2713,Pointe Coupee Parish,2004,Two or More Races,270
+2714,Pointe Coupee Parish,2005,Two or More Races,292
+2715,Pointe Coupee Parish,2006,Two or More Races,320
+2716,Pointe Coupee Parish,2007,Two or More Races,338
+2717,Pointe Coupee Parish,2008,Two or More Races,386
+2718,Pointe Coupee Parish,2009,Two or More Races,406
+2719,Pointe Coupee Parish,2010,Two or More Races,416
+2720,Pointe Coupee Parish,2011,Two or More Races,484
+2721,Pointe Coupee Parish,2012,Two or More Races,474
+2722,Pointe Coupee Parish,2013,Two or More Races,484
+2723,Pointe Coupee Parish,2014,Two or More Races,546
+2724,Pointe Coupee Parish,2015,Two or More Races,544
+2725,Pointe Coupee Parish,2016,Two or More Races,544
+2726,Pointe Coupee Parish,2017,Two or More Races,584
+2727,Pointe Coupee Parish,2018,Two or More Races,504
+2728,Pointe Coupee Parish,2019,Two or More Races,510
+2729,Pointe Coupee Parish,2020,Two or More Races,514
+2730,St. Bernard Parish,2000,Two or More Races,1446
+2731,St. Bernard Parish,2001,Two or More Races,1458
+2732,St. Bernard Parish,2002,Two or More Races,1514
+2733,St. Bernard Parish,2003,Two or More Races,1512
+2734,St. Bernard Parish,2004,Two or More Races,1588
+2735,St. Bernard Parish,2005,Two or More Races,1650
+2736,St. Bernard Parish,2006,Two or More Races,1304
+2737,St. Bernard Parish,2007,Two or More Races,1432
+2738,St. Bernard Parish,2008,Two or More Races,1536
+2739,St. Bernard Parish,2009,Two or More Races,1590
+2740,St. Bernard Parish,2010,Two or More Races,1734
+2741,St. Bernard Parish,2011,Two or More Races,1852
+2742,St. Bernard Parish,2012,Two or More Races,1858
+2743,St. Bernard Parish,2013,Two or More Races,2014
+2744,St. Bernard Parish,2014,Two or More Races,2130
+2745,St. Bernard Parish,2015,Two or More Races,2248
+2746,St. Bernard Parish,2016,Two or More Races,2252
+2747,St. Bernard Parish,2017,Two or More Races,2300
+2748,St. Bernard Parish,2018,Two or More Races,2362
+2749,St. Bernard Parish,2019,Two or More Races,2424
+2750,St. Bernard Parish,2020,Two or More Races,2442
+2751,St. Charles Parish,2000,Two or More Races,636
+2752,St. Charles Parish,2001,Two or More Races,680
+2753,St. Charles Parish,2002,Two or More Races,776
+2754,St. Charles Parish,2003,Two or More Races,834
+2755,St. Charles Parish,2004,Two or More Races,888
+2756,St. Charles Parish,2005,Two or More Races,1076
+2757,St. Charles Parish,2006,Two or More Races,1116
+2758,St. Charles Parish,2007,Two or More Races,1180
+2759,St. Charles Parish,2008,Two or More Races,1198
+2760,St. Charles Parish,2009,Two or More Races,1290
+2761,St. Charles Parish,2010,Two or More Races,1368
+2762,St. Charles Parish,2011,Two or More Races,1402
+2763,St. Charles Parish,2012,Two or More Races,1394
+2764,St. Charles Parish,2013,Two or More Races,1460
+2765,St. Charles Parish,2014,Two or More Races,1496
+2766,St. Charles Parish,2015,Two or More Races,1564
+2767,St. Charles Parish,2016,Two or More Races,1574
+2768,St. Charles Parish,2017,Two or More Races,1650
+2769,St. Charles Parish,2018,Two or More Races,1730
+2770,St. Charles Parish,2019,Two or More Races,1778
+2771,St. Charles Parish,2020,Two or More Races,1844
+2772,St. Helena Parish,2000,Two or More Races,110
+2773,St. Helena Parish,2001,Two or More Races,108
+2774,St. Helena Parish,2002,Two or More Races,106
+2775,St. Helena Parish,2003,Two or More Races,118
+2776,St. Helena Parish,2004,Two or More Races,134
+2777,St. Helena Parish,2005,Two or More Races,158
+2778,St. Helena Parish,2006,Two or More Races,150
+2779,St. Helena Parish,2007,Two or More Races,158
+2780,St. Helena Parish,2008,Two or More Races,174
+2781,St. Helena Parish,2009,Two or More Races,178
+2782,St. Helena Parish,2010,Two or More Races,180
+2783,St. Helena Parish,2011,Two or More Races,194
+2784,St. Helena Parish,2012,Two or More Races,208
+2785,St. Helena Parish,2013,Two or More Races,212
+2786,St. Helena Parish,2014,Two or More Races,248
+2787,St. Helena Parish,2015,Two or More Races,254
+2788,St. Helena Parish,2016,Two or More Races,266
+2789,St. Helena Parish,2017,Two or More Races,284
+2790,St. Helena Parish,2018,Two or More Races,262
+2791,St. Helena Parish,2019,Two or More Races,286
+2792,St. Helena Parish,2020,Two or More Races,280
+2793,St. James Parish,2000,Two or More Races,136
+2794,St. James Parish,2001,Two or More Races,140
+2795,St. James Parish,2002,Two or More Races,148
+2796,St. James Parish,2003,Two or More Races,160
+2797,St. James Parish,2004,Two or More Races,166
+2798,St. James Parish,2005,Two or More Races,180
+2799,St. James Parish,2006,Two or More Races,184
+2800,St. James Parish,2007,Two or More Races,208
+2801,St. James Parish,2008,Two or More Races,218
+2802,St. James Parish,2009,Two or More Races,232
+2803,St. James Parish,2010,Two or More Races,244
+2804,St. James Parish,2011,Two or More Races,246
+2805,St. James Parish,2012,Two or More Races,280
+2806,St. James Parish,2013,Two or More Races,292
+2807,St. James Parish,2014,Two or More Races,300
+2808,St. James Parish,2015,Two or More Races,308
+2809,St. James Parish,2016,Two or More Races,342
+2810,St. James Parish,2017,Two or More Races,334
+2811,St. James Parish,2018,Two or More Races,342
+2812,St. James Parish,2019,Two or More Races,348
+2813,St. James Parish,2020,Two or More Races,348
+2814,St. John the Baptist Parish,2000,Two or More Races,516
+2815,St. John the Baptist Parish,2001,Two or More Races,548
+2816,St. John the Baptist Parish,2002,Two or More Races,578
+2817,St. John the Baptist Parish,2003,Two or More Races,622
+2818,St. John the Baptist Parish,2004,Two or More Races,696
+2819,St. John the Baptist Parish,2005,Two or More Races,830
+2820,St. John the Baptist Parish,2006,Two or More Races,822
+2821,St. John the Baptist Parish,2007,Two or More Races,926
+2822,St. John the Baptist Parish,2008,Two or More Races,950
+2823,St. John the Baptist Parish,2009,Two or More Races,986
+2824,St. John the Baptist Parish,2010,Two or More Races,1002
+2825,St. John the Baptist Parish,2011,Two or More Races,994
+2826,St. John the Baptist Parish,2012,Two or More Races,1028
+2827,St. John the Baptist Parish,2013,Two or More Races,1016
+2828,St. John the Baptist Parish,2014,Two or More Races,1074
+2829,St. John the Baptist Parish,2015,Two or More Races,1060
+2830,St. John the Baptist Parish,2016,Two or More Races,1148
+2831,St. John the Baptist Parish,2017,Two or More Races,1166
+2832,St. John the Baptist Parish,2018,Two or More Races,1188
+2833,St. John the Baptist Parish,2019,Two or More Races,1216
+2834,St. John the Baptist Parish,2020,Two or More Races,1276
+2835,St. Tammany Parish,2000,Two or More Races,3592
+2836,St. Tammany Parish,2001,Two or More Races,3972
+2837,St. Tammany Parish,2002,Two or More Races,4502
+2838,St. Tammany Parish,2003,Two or More Races,4852
+2839,St. Tammany Parish,2004,Two or More Races,5194
+2840,St. Tammany Parish,2005,Two or More Races,5426
+2841,St. Tammany Parish,2006,Two or More Races,5418
+2842,St. Tammany Parish,2007,Two or More Races,5874
+2843,St. Tammany Parish,2008,Two or More Races,6312
+2844,St. Tammany Parish,2009,Two or More Races,6750
+2845,St. Tammany Parish,2010,Two or More Races,7138
+2846,St. Tammany Parish,2011,Two or More Races,7404
+2847,St. Tammany Parish,2012,Two or More Races,7752
+2848,St. Tammany Parish,2013,Two or More Races,7942
+2849,St. Tammany Parish,2014,Two or More Races,8402
+2850,St. Tammany Parish,2015,Two or More Races,8820
+2851,St. Tammany Parish,2016,Two or More Races,9140
+2852,St. Tammany Parish,2017,Two or More Races,9492
+2853,St. Tammany Parish,2018,Two or More Races,9764
+2854,St. Tammany Parish,2019,Two or More Races,10072
+2855,St. Tammany Parish,2020,Two or More Races,10358
+2856,Tangipahoa Parish,2000,Two or More Races,1144
+2857,Tangipahoa Parish,2001,Two or More Races,1280
+2858,Tangipahoa Parish,2002,Two or More Races,1400
+2859,Tangipahoa Parish,2003,Two or More Races,1572
+2860,Tangipahoa Parish,2004,Two or More Races,1740
+2861,Tangipahoa Parish,2005,Two or More Races,1922
+2862,Tangipahoa Parish,2006,Two or More Races,2022
+2863,Tangipahoa Parish,2007,Two or More Races,2306
+2864,Tangipahoa Parish,2008,Two or More Races,2488
+2865,Tangipahoa Parish,2009,Two or More Races,2730
+2866,Tangipahoa Parish,2010,Two or More Races,2874
+2867,Tangipahoa Parish,2011,Two or More Races,2922
+2868,Tangipahoa Parish,2012,Two or More Races,3074
+2869,Tangipahoa Parish,2013,Two or More Races,3166
+2870,Tangipahoa Parish,2014,Two or More Races,3330
+2871,Tangipahoa Parish,2015,Two or More Races,3464
+2872,Tangipahoa Parish,2016,Two or More Races,3710
+2873,Tangipahoa Parish,2017,Two or More Races,3942
+2874,Tangipahoa Parish,2018,Two or More Races,4042
+2875,Tangipahoa Parish,2019,Two or More Races,4116
+2876,Tangipahoa Parish,2020,Two or More Races,4320
+2877,Washington Parish,2000,Two or More Races,406
+2878,Washington Parish,2001,Two or More Races,438
+2879,Washington Parish,2002,Two or More Races,488
+2880,Washington Parish,2003,Two or More Races,556
+2881,Washington Parish,2004,Two or More Races,612
+2882,Washington Parish,2005,Two or More Races,684
+2883,Washington Parish,2006,Two or More Races,718
+2884,Washington Parish,2007,Two or More Races,776
+2885,Washington Parish,2008,Two or More Races,848
+2886,Washington Parish,2009,Two or More Races,896
+2887,Washington Parish,2010,Two or More Races,940
+2888,Washington Parish,2011,Two or More Races,982
+2889,Washington Parish,2012,Two or More Races,1046
+2890,Washington Parish,2013,Two or More Races,1062
+2891,Washington Parish,2014,Two or More Races,1140
+2892,Washington Parish,2015,Two or More Races,1146
+2893,Washington Parish,2016,Two or More Races,1252
+2894,Washington Parish,2017,Two or More Races,1328
+2895,Washington Parish,2018,Two or More Races,1416
+2896,Washington Parish,2019,Two or More Races,1382
+2897,Washington Parish,2020,Two or More Races,1430
+2898,West Baton Rouge Parish,2000,Two or More Races,262
+2899,West Baton Rouge Parish,2001,Two or More Races,264
+2900,West Baton Rouge Parish,2002,Two or More Races,266
+2901,West Baton Rouge Parish,2003,Two or More Races,306
+2902,West Baton Rouge Parish,2004,Two or More Races,316
+2903,West Baton Rouge Parish,2005,Two or More Races,382
+2904,West Baton Rouge Parish,2006,Two or More Races,402
+2905,West Baton Rouge Parish,2007,Two or More Races,450
+2906,West Baton Rouge Parish,2008,Two or More Races,450
+2907,West Baton Rouge Parish,2009,Two or More Races,480
+2908,West Baton Rouge Parish,2010,Two or More Races,518
+2909,West Baton Rouge Parish,2011,Two or More Races,502
+2910,West Baton Rouge Parish,2012,Two or More Races,530
+2911,West Baton Rouge Parish,2013,Two or More Races,570
+2912,West Baton Rouge Parish,2014,Two or More Races,612
+2913,West Baton Rouge Parish,2015,Two or More Races,620
+2914,West Baton Rouge Parish,2016,Two or More Races,664
+2915,West Baton Rouge Parish,2017,Two or More Races,708
+2916,West Baton Rouge Parish,2018,Two or More Races,728
+2917,West Baton Rouge Parish,2019,Two or More Races,762
+2918,West Baton Rouge Parish,2020,Two or More Races,806
+2919,West Feliciana Parish,2000,Two or More Races,106
+2920,West Feliciana Parish,2001,Two or More Races,106
+2921,West Feliciana Parish,2002,Two or More Races,108
+2922,West Feliciana Parish,2003,Two or More Races,110
+2923,West Feliciana Parish,2004,Two or More Races,122
+2924,West Feliciana Parish,2005,Two or More Races,150
+2925,West Feliciana Parish,2006,Two or More Races,146
+2926,West Feliciana Parish,2007,Two or More Races,162
+2927,West Feliciana Parish,2008,Two or More Races,164
+2928,West Feliciana Parish,2009,Two or More Races,168
+2929,West Feliciana Parish,2010,Two or More Races,164
+2930,West Feliciana Parish,2011,Two or More Races,192
+2931,West Feliciana Parish,2012,Two or More Races,206
+2932,West Feliciana Parish,2013,Two or More Races,218
+2933,West Feliciana Parish,2014,Two or More Races,216
+2934,West Feliciana Parish,2015,Two or More Races,248
+2935,West Feliciana Parish,2016,Two or More Races,226
+2936,West Feliciana Parish,2017,Two or More Races,268
+2937,West Feliciana Parish,2018,Two or More Races,288
+2938,West Feliciana Parish,2019,Two or More Races,318
+2939,West Feliciana Parish,2020,Two or More Races,308

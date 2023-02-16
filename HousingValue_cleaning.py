@@ -70,8 +70,9 @@ def fillNull(df1_melted,df2):
         df1_row = df1_melted.loc[(df1_melted["County"] == row["County"]) & (df1_melted["Year"] == row["Year"])]
         # Check if the df1_row dataframe is empty
         if df1_row.empty:
-            # Update the Value column in df2 with the default value if df1_row is empty
-            df2.at[index, "Value"] = 0
+            continue
+            # # Update the Value column in df2 with the default value if df1_row is empty
+            # df2.at[index, "Value"] = 0
         else:
             # Update the Value column in df2 with the corresponding value in df1
             df2.at[index, "Value"] = df1_row["Value"].values[0]
@@ -112,21 +113,20 @@ def fedEq(df_z, df_f):
 def main():
     oldZillow = zillowData()
     oldFed = fedData()
-    '''
-    
-    FIX HEREEEEE
-    '''
+
     fed = fedEq(oldZillow,oldFed)
     #update
     missingZillow = fillNull(fed,oldZillow)
     zillow = oldZillow.copy()
     zillow.update(missingZillow['Value'])
-    
-    #cound not get data for these parish's so they are removed
+
+    # #cound not get data for these parish's so they are removed
     remove = ['Tangipahoa Parish', 'Ascension Parish','East Feliciana Parish'] 
     #keep the parishes that are not these
     zillow = zillow[~zillow.County.isin(remove)]
-      
+
+    #zillow['Value'] = zillow.groupby(['County'])['Value'].apply(lambda x: x.bfill())
+
     return zillow
 #print(main())
 
@@ -145,10 +145,9 @@ df_affected = df_plot.loc[~df_plot['County'].isin(unaffected)]
 #plot of Zillow Median Home Value
 fig, ax = plt.subplots(figsize=(30,10))
 ax.set(xlabel='Years', ylabel='Home Value in $USD',xlim=(2000,2020.1))
-ax.set_title( label='Home Value of Affected Counties over Time', fontsize=30)
+ax.set_title( label='Home Value of Counties over Time', fontsize=30)
 plt.axvline(x=2005,color = 'm',label = 'Katrina Hit')
 plt.axvline(x=2008,color = 'r',label = "'08 Recession")
-sns.lineplot(x='Year',y='Value',data = df_affected, hue = 'County', palette="Paired", ax=ax)
+sns.lineplot(x='Year',y='Value',data = df_plot, hue = 'County', palette="Paired", ax=ax)
 plt.legend(bbox_to_anchor=(1.005, 1), loc='upper left', borderaxespad=0., fontsize=17)
    
-

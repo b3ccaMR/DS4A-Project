@@ -1,0 +1,421 @@
+,Year,County,Poverty%
+0,2000,Ascension Parish,10.5
+1,2001,Ascension Parish,10.9
+2,2002,Ascension Parish,10.4
+3,2003,Ascension Parish,11.4
+4,2004,Ascension Parish,12.0
+5,2005,Ascension Parish,11.7
+6,2006,Ascension Parish,11.4
+7,2007,Ascension Parish,12.2
+8,2008,Ascension Parish,9.9
+9,2009,Ascension Parish,11.2
+10,2010,Ascension Parish,12.8
+11,2011,Ascension Parish,11.5
+12,2012,Ascension Parish,12.1
+13,2013,Ascension Parish,11.1
+14,2014,Ascension Parish,13.7
+15,2015,Ascension Parish,10.7
+16,2016,Ascension Parish,10.7
+17,2017,Ascension Parish,12.6
+18,2018,Ascension Parish,10.8
+19,2019,Ascension Parish,9.6
+20,2020,Ascension Parish,9.6
+21,2000,Caddo Parish,18.9
+22,2001,Caddo Parish,19.6
+23,2002,Caddo Parish,19.6
+24,2003,Caddo Parish,19.7
+25,2004,Caddo Parish,20.5
+26,2005,Caddo Parish,23.1
+27,2006,Caddo Parish,22.2
+28,2007,Caddo Parish,22.9
+29,2008,Caddo Parish,19.8
+30,2009,Caddo Parish,16.9
+31,2010,Caddo Parish,19.5
+32,2011,Caddo Parish,21.6
+33,2012,Caddo Parish,20.4
+34,2013,Caddo Parish,22.0
+35,2014,Caddo Parish,24.1
+36,2015,Caddo Parish,22.2
+37,2016,Caddo Parish,26.4
+38,2017,Caddo Parish,25.8
+39,2018,Caddo Parish,22.4
+40,2019,Caddo Parish,24.1
+41,2020,Caddo Parish,20.9
+42,2000,East Baton Rouge Parish,14.8
+43,2001,East Baton Rouge Parish,16.3
+44,2002,East Baton Rouge Parish,16.6
+45,2003,East Baton Rouge Parish,16.5
+46,2004,East Baton Rouge Parish,18.0
+47,2005,East Baton Rouge Parish,20.7
+48,2006,East Baton Rouge Parish,20.1
+49,2007,East Baton Rouge Parish,18.1
+50,2008,East Baton Rouge Parish,17.2
+51,2009,East Baton Rouge Parish,17.5
+52,2010,East Baton Rouge Parish,17.3
+53,2011,East Baton Rouge Parish,20.2
+54,2012,East Baton Rouge Parish,20.5
+55,2013,East Baton Rouge Parish,20.8
+56,2014,East Baton Rouge Parish,18.4
+57,2015,East Baton Rouge Parish,18.5
+58,2016,East Baton Rouge Parish,19.9
+59,2017,East Baton Rouge Parish,18.9
+60,2018,East Baton Rouge Parish,16.7
+61,2019,East Baton Rouge Parish,17.7
+62,2020,East Baton Rouge Parish,16.4
+63,2000,East Feliciana Parish,18.6
+64,2001,East Feliciana Parish,19.1
+65,2002,East Feliciana Parish,17.5
+66,2003,East Feliciana Parish,17.7
+67,2004,East Feliciana Parish,19.3
+68,2005,East Feliciana Parish,22.4
+69,2006,East Feliciana Parish,22.1
+70,2007,East Feliciana Parish,22.5
+71,2008,East Feliciana Parish,21.2
+72,2009,East Feliciana Parish,19.7
+73,2010,East Feliciana Parish,18.6
+74,2011,East Feliciana Parish,20.7
+75,2012,East Feliciana Parish,20.8
+76,2013,East Feliciana Parish,20.6
+77,2014,East Feliciana Parish,20.4
+78,2015,East Feliciana Parish,21.8
+79,2016,East Feliciana Parish,20.0
+80,2017,East Feliciana Parish,20.6
+81,2018,East Feliciana Parish,19.6
+82,2019,East Feliciana Parish,18.7
+83,2020,East Feliciana Parish,19.9
+84,2000,Iberville Parish,20.4
+85,2001,Iberville Parish,21.1
+86,2002,Iberville Parish,20.3
+87,2003,Iberville Parish,20.5
+88,2004,Iberville Parish,22.5
+89,2005,Iberville Parish,25.0
+90,2006,Iberville Parish,22.3
+91,2007,Iberville Parish,20.0
+92,2008,Iberville Parish,21.6
+93,2009,Iberville Parish,20.3
+94,2010,Iberville Parish,22.7
+95,2011,Iberville Parish,23.0
+96,2012,Iberville Parish,21.3
+97,2013,Iberville Parish,25.7
+98,2014,Iberville Parish,19.9
+99,2015,Iberville Parish,22.3
+100,2016,Iberville Parish,22.8
+101,2017,Iberville Parish,22.9
+102,2018,Iberville Parish,23.8
+103,2019,Iberville Parish,18.7
+104,2020,Iberville Parish,23.7
+105,2000,Jefferson Parish,13.5
+106,2001,Jefferson Parish,15.0
+107,2002,Jefferson Parish,15.6
+108,2003,Jefferson Parish,15.7
+109,2004,Jefferson Parish,16.5
+110,2005,Jefferson Parish,15.5
+111,2006,Jefferson Parish,14.7
+112,2007,Jefferson Parish,14.6
+113,2008,Jefferson Parish,12.9
+114,2009,Jefferson Parish,13.7
+115,2010,Jefferson Parish,16.2
+116,2011,Jefferson Parish,18.1
+117,2012,Jefferson Parish,16.3
+118,2013,Jefferson Parish,18.9
+119,2014,Jefferson Parish,15.8
+120,2015,Jefferson Parish,16.3
+121,2016,Jefferson Parish,16.1
+122,2017,Jefferson Parish,17.1
+123,2018,Jefferson Parish,15.6
+124,2019,Jefferson Parish,14.6
+125,2020,Jefferson Parish,16.1
+126,2000,Livingston Parish,11.4
+127,2001,Livingston Parish,12.1
+128,2002,Livingston Parish,12.0
+129,2003,Livingston Parish,11.9
+130,2004,Livingston Parish,13.2
+131,2005,Livingston Parish,13.4
+132,2006,Livingston Parish,13.4
+133,2007,Livingston Parish,10.8
+134,2008,Livingston Parish,11.4
+135,2009,Livingston Parish,12.0
+136,2010,Livingston Parish,12.5
+137,2011,Livingston Parish,13.2
+138,2012,Livingston Parish,15.2
+139,2013,Livingston Parish,14.3
+140,2014,Livingston Parish,12.3
+141,2015,Livingston Parish,13.5
+142,2016,Livingston Parish,12.6
+143,2017,Livingston Parish,11.4
+144,2018,Livingston Parish,11.3
+145,2019,Livingston Parish,12.0
+146,2020,Livingston Parish,11.7
+147,2000,Orleans Parish,24.8
+148,2001,Orleans Parish,26.7
+149,2002,Orleans Parish,26.9
+150,2003,Orleans Parish,25.5
+151,2004,Orleans Parish,27.0
+152,2005,Orleans Parish,25.5
+153,2006,Orleans Parish,23.7
+154,2007,Orleans Parish,21.8
+155,2008,Orleans Parish,22.9
+156,2009,Orleans Parish,23.9
+157,2010,Orleans Parish,27.1
+158,2011,Orleans Parish,28.7
+159,2012,Orleans Parish,28.8
+160,2013,Orleans Parish,26.6
+161,2014,Orleans Parish,27.9
+162,2015,Orleans Parish,24.0
+163,2016,Orleans Parish,24.1
+164,2017,Orleans Parish,26.1
+165,2018,Orleans Parish,23.8
+166,2019,Orleans Parish,23.5
+167,2020,Orleans Parish,21.1
+168,2000,Plaquemines Parish,15.4
+169,2001,Plaquemines Parish,15.9
+170,2002,Plaquemines Parish,15.0
+171,2003,Plaquemines Parish,15.3
+172,2004,Plaquemines Parish,16.2
+173,2005,Plaquemines Parish,14.9
+174,2006,Plaquemines Parish,18.9
+175,2007,Plaquemines Parish,16.3
+176,2008,Plaquemines Parish,15.1
+177,2009,Plaquemines Parish,12.2
+178,2010,Plaquemines Parish,15.1
+179,2011,Plaquemines Parish,13.0
+180,2012,Plaquemines Parish,14.8
+181,2013,Plaquemines Parish,15.4
+182,2014,Plaquemines Parish,16.0
+183,2015,Plaquemines Parish,17.3
+184,2016,Plaquemines Parish,15.4
+185,2017,Plaquemines Parish,16.2
+186,2018,Plaquemines Parish,15.5
+187,2019,Plaquemines Parish,15.1
+188,2020,Plaquemines Parish,16.6
+189,2000,Pointe Coupee Parish,18.0
+190,2001,Pointe Coupee Parish,18.1
+191,2002,Pointe Coupee Parish,17.3
+192,2003,Pointe Coupee Parish,18.6
+193,2004,Pointe Coupee Parish,19.9
+194,2005,Pointe Coupee Parish,22.3
+195,2006,Pointe Coupee Parish,27.5
+196,2007,Pointe Coupee Parish,21.4
+197,2008,Pointe Coupee Parish,21.0
+198,2009,Pointe Coupee Parish,18.5
+199,2010,Pointe Coupee Parish,17.6
+200,2011,Pointe Coupee Parish,21.9
+201,2012,Pointe Coupee Parish,20.8
+202,2013,Pointe Coupee Parish,20.2
+203,2014,Pointe Coupee Parish,18.3
+204,2015,Pointe Coupee Parish,19.3
+205,2016,Pointe Coupee Parish,19.7
+206,2017,Pointe Coupee Parish,18.8
+207,2018,Pointe Coupee Parish,20.3
+208,2019,Pointe Coupee Parish,20.0
+209,2020,Pointe Coupee Parish,17.3
+210,2000,St. Bernard Parish,13.0
+211,2001,St. Bernard Parish,14.1
+212,2002,St. Bernard Parish,14.1
+213,2003,St. Bernard Parish,14.2
+214,2004,St. Bernard Parish,15.1
+215,2005,St. Bernard Parish,17.3
+216,2006,St. Bernard Parish,18.8
+217,2007,St. Bernard Parish,18.9
+218,2008,St. Bernard Parish,20.3
+219,2009,St. Bernard Parish,21.3
+220,2010,St. Bernard Parish,17.8
+221,2011,St. Bernard Parish,19.6
+222,2012,St. Bernard Parish,22.2
+223,2013,St. Bernard Parish,21.9
+224,2014,St. Bernard Parish,17.9
+225,2015,St. Bernard Parish,20.4
+226,2016,St. Bernard Parish,23.5
+227,2017,St. Bernard Parish,20.0
+228,2018,St. Bernard Parish,20.1
+229,2019,St. Bernard Parish,19.2
+230,2020,St. Bernard Parish,21.3
+231,2000,St. Charles Parish,11.6
+232,2001,St. Charles Parish,12.2
+233,2002,St. Charles Parish,11.6
+234,2003,St. Charles Parish,12.5
+235,2004,St. Charles Parish,13.3
+236,2005,St. Charles Parish,13.9
+237,2006,St. Charles Parish,13.4
+238,2007,St. Charles Parish,10.8
+239,2008,St. Charles Parish,11.6
+240,2009,St. Charles Parish,12.0
+241,2010,St. Charles Parish,12.7
+242,2011,St. Charles Parish,12.7
+243,2012,St. Charles Parish,12.8
+244,2013,St. Charles Parish,13.8
+245,2014,St. Charles Parish,12.1
+246,2015,St. Charles Parish,11.8
+247,2016,St. Charles Parish,13.1
+248,2017,St. Charles Parish,11.4
+249,2018,St. Charles Parish,12.8
+250,2019,St. Charles Parish,11.1
+251,2020,St. Charles Parish,11.3
+252,2000,St. Helena Parish,22.8
+253,2001,St. Helena Parish,21.8
+254,2002,St. Helena Parish,19.8
+255,2003,St. Helena Parish,21.4
+256,2004,St. Helena Parish,22.0
+257,2005,St. Helena Parish,21.8
+258,2006,St. Helena Parish,23.4
+259,2007,St. Helena Parish,21.9
+260,2008,St. Helena Parish,19.8
+261,2009,St. Helena Parish,21.0
+262,2010,St. Helena Parish,23.9
+263,2011,St. Helena Parish,25.0
+264,2012,St. Helena Parish,23.7
+265,2013,St. Helena Parish,25.8
+266,2014,St. Helena Parish,24.0
+267,2015,St. Helena Parish,19.9
+268,2016,St. Helena Parish,24.7
+269,2017,St. Helena Parish,23.2
+270,2018,St. Helena Parish,19.6
+271,2019,St. Helena Parish,19.6
+272,2020,St. Helena Parish,22.7
+273,2000,St. James Parish,16.3
+274,2001,St. James Parish,16.4
+275,2002,St. James Parish,15.4
+276,2003,St. James Parish,16.0
+277,2004,St. James Parish,17.7
+278,2005,St. James Parish,17.2
+279,2006,St. James Parish,18.6
+280,2007,St. James Parish,17.1
+281,2008,St. James Parish,15.8
+282,2009,St. James Parish,15.1
+283,2010,St. James Parish,16.3
+284,2011,St. James Parish,20.7
+285,2012,St. James Parish,17.4
+286,2013,St. James Parish,16.2
+287,2014,St. James Parish,16.1
+288,2015,St. James Parish,18.3
+289,2016,St. James Parish,19.0
+290,2017,St. James Parish,16.7
+291,2018,St. James Parish,16.8
+292,2019,St. James Parish,16.6
+293,2020,St. James Parish,13.0
+294,2000,St. John the Baptist Parish,15.8
+295,2001,St. John the Baptist Parish,16.5
+296,2002,St. John the Baptist Parish,15.6
+297,2003,St. John the Baptist Parish,15.7
+298,2004,St. John the Baptist Parish,16.4
+299,2005,St. John the Baptist Parish,17.5
+300,2006,St. John the Baptist Parish,16.7
+301,2007,St. John the Baptist Parish,16.9
+302,2008,St. John the Baptist Parish,14.7
+303,2009,St. John the Baptist Parish,15.9
+304,2010,St. John the Baptist Parish,18.6
+305,2011,St. John the Baptist Parish,17.1
+306,2012,St. John the Baptist Parish,19.6
+307,2013,St. John the Baptist Parish,18.5
+308,2014,St. John the Baptist Parish,20.8
+309,2015,St. John the Baptist Parish,20.5
+310,2016,St. John the Baptist Parish,18.5
+311,2017,St. John the Baptist Parish,18.1
+312,2018,St. John the Baptist Parish,18.2
+313,2019,St. John the Baptist Parish,16.0
+314,2020,St. John the Baptist Parish,16.9
+315,2000,St. Tammany Parish,10.1
+316,2001,St. Tammany Parish,11.0
+317,2002,St. Tammany Parish,10.4
+318,2003,St. Tammany Parish,10.5
+319,2004,St. Tammany Parish,11.2
+320,2005,St. Tammany Parish,11.0
+321,2006,St. Tammany Parish,9.9
+322,2007,St. Tammany Parish,11.2
+323,2008,St. Tammany Parish,10.0
+324,2009,St. Tammany Parish,10.3
+325,2010,St. Tammany Parish,9.2
+326,2011,St. Tammany Parish,11.8
+327,2012,St. Tammany Parish,13.1
+328,2013,St. Tammany Parish,11.0
+329,2014,St. Tammany Parish,11.2
+330,2015,St. Tammany Parish,12.5
+331,2016,St. Tammany Parish,9.8
+332,2017,St. Tammany Parish,11.1
+333,2018,St. Tammany Parish,11.8
+334,2019,St. Tammany Parish,11.5
+335,2020,St. Tammany Parish,10.0
+336,2000,Tangipahoa Parish,21.1
+337,2001,Tangipahoa Parish,22.6
+338,2002,Tangipahoa Parish,22.3
+339,2003,Tangipahoa Parish,20.8
+340,2004,Tangipahoa Parish,22.2
+341,2005,Tangipahoa Parish,23.3
+342,2006,Tangipahoa Parish,24.9
+343,2007,Tangipahoa Parish,22.9
+344,2008,Tangipahoa Parish,22.2
+345,2009,Tangipahoa Parish,20.5
+346,2010,Tangipahoa Parish,21.7
+347,2011,Tangipahoa Parish,22.9
+348,2012,Tangipahoa Parish,24.4
+349,2013,Tangipahoa Parish,22.2
+350,2014,Tangipahoa Parish,22.5
+351,2015,Tangipahoa Parish,24.0
+352,2016,Tangipahoa Parish,21.5
+353,2017,Tangipahoa Parish,20.9
+354,2018,Tangipahoa Parish,17.9
+355,2019,Tangipahoa Parish,21.7
+356,2020,Tangipahoa Parish,20.1
+357,2000,Washington Parish,23.0
+358,2001,Washington Parish,24.5
+359,2002,Washington Parish,24.1
+360,2003,Washington Parish,23.3
+361,2004,Washington Parish,25.5
+362,2005,Washington Parish,24.5
+363,2006,Washington Parish,27.5
+364,2007,Washington Parish,25.5
+365,2008,Washington Parish,24.1
+366,2009,Washington Parish,26.6
+367,2010,Washington Parish,26.8
+368,2011,Washington Parish,31.3
+369,2012,Washington Parish,26.1
+370,2013,Washington Parish,25.4
+371,2014,Washington Parish,29.1
+372,2015,Washington Parish,26.2
+373,2016,Washington Parish,27.8
+374,2017,Washington Parish,23.1
+375,2018,Washington Parish,24.6
+376,2019,Washington Parish,24.9
+377,2020,Washington Parish,22.5
+378,2000,West Baton Rouge Parish,14.0
+379,2001,West Baton Rouge Parish,14.1
+380,2002,West Baton Rouge Parish,13.8
+381,2003,West Baton Rouge Parish,15.5
+382,2004,West Baton Rouge Parish,16.8
+383,2005,West Baton Rouge Parish,16.5
+384,2006,West Baton Rouge Parish,17.1
+385,2007,West Baton Rouge Parish,16.9
+386,2008,West Baton Rouge Parish,16.1
+387,2009,West Baton Rouge Parish,14.4
+388,2010,West Baton Rouge Parish,15.0
+389,2011,West Baton Rouge Parish,15.6
+390,2012,West Baton Rouge Parish,17.2
+391,2013,West Baton Rouge Parish,16.4
+392,2014,West Baton Rouge Parish,20.5
+393,2015,West Baton Rouge Parish,15.1
+394,2016,West Baton Rouge Parish,16.8
+395,2017,West Baton Rouge Parish,13.5
+396,2018,West Baton Rouge Parish,12.8
+397,2019,West Baton Rouge Parish,14.4
+398,2020,West Baton Rouge Parish,14.6
+399,2000,West Feliciana Parish,19.3
+400,2001,West Feliciana Parish,22.0
+401,2002,West Feliciana Parish,21.2
+402,2003,West Feliciana Parish,18.5
+403,2004,West Feliciana Parish,20.4
+404,2005,West Feliciana Parish,21.5
+405,2006,West Feliciana Parish,21.7
+406,2007,West Feliciana Parish,22.5
+407,2008,West Feliciana Parish,21.9
+408,2009,West Feliciana Parish,21.6
+409,2010,West Feliciana Parish,20.9
+410,2011,West Feliciana Parish,22.6
+411,2012,West Feliciana Parish,26.4
+412,2013,West Feliciana Parish,24.4
+413,2014,West Feliciana Parish,24.0
+414,2015,West Feliciana Parish,23.9
+415,2016,West Feliciana Parish,23.7
+416,2017,West Feliciana Parish,21.0
+417,2018,West Feliciana Parish,24.4
+418,2019,West Feliciana Parish,22.1
+419,2020,West Feliciana Parish,21.9
